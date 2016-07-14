@@ -29,6 +29,11 @@ class InitController {
             String surveyType = ""
             String format = ""
             String projection = ""
+            String project = ""
+            String wl = ""
+            String el = ""
+            String nl = ""
+            String sl = ""
 
             sql.eachRow("select * from '" + table + "'") { r ->
                 try {
@@ -72,13 +77,50 @@ class InitController {
                     } catch (Exception ep) {
                     }
 
+                    //project
+                    try {
+                        if (r?.Project != null && r?.Project != "null") project = r?.Project
+                    } catch (Exception ep) {
+                    }
+
+                    //west
+                    try {
+                        if (r?.West_Bound_Longitude != null && r?.West_Bound_Longitude != "null") wl = r?.West_Bound_Longitude
+                    } catch (Exception ep) {
+                    }
+
+                    //north
+                    try {
+                        if (r?.North_Bound_Latitude != null && r?.North_Bound_Latitude != "null") nl = r?.North_Bound_Latitude
+                    } catch (Exception ep) {
+                    }
+
+                    //east
+                    try {
+                        if (r?.East_Bound_Latitude != null && r?.East_Bound_Latitude != "null") el = r?.East_Bound_Latitude
+                    } catch (Exception ep) {
+                    }
+
+                    //south
+                    try {
+                        if (r?.South_Bound_Latitude != null && r?.South_Bound_Latitude != "null") sl = r?.South_Bound_Latitude
+                    } catch (Exception ep) {
+                    }
+
+                    //println r.Geonetwork_File_identifier
                     m.setArea(area)
                     m.setYear(year)
                     m.setDescription(description)
                     m.setSurveyType(surveyType)
-                    m.setGeonetwork(r?.'Geonetwork_File_identifier')
+                    m.setGeonetwork(r.'Geonetwork_File_identifier ')
                     m.setFormat(format)
                     m.setProjection(projection)
+                    m.setProject(project)
+                    m.setWestBoundLongitude(wl)
+                    m.setNorthBoundLatitude(nl)
+                    m.setEastBoundLongitude(el)
+                    m.setSouthBoundLatitude(sl)
+                    m.setPacgeo("Pending...")
 
                     if (r.Name_of_Information != null)
                         m.save(flush: true, failOnError: true)
@@ -94,7 +136,7 @@ class InitController {
 
     def country() {
         if (Country.list().size() == 0) {
-            println "Populating Country..."ss
+            println "Populating Country..."
             def countries = [:]
             countries.put("AS", "American Samoa")
             countries.put("CK", "Cook Islands")
