@@ -14,27 +14,20 @@
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
            aria-expanded="false">Browse By Country <span class="caret"></span></a>
         <ul class="dropdown-menu">
-            <li><a href="#">Environment: ${grails.util.Environment.current.name}</a></li>
-            <li><a href="#">App profile: ${grailsApplication.config.grails?.profile}</a></li>
-            <li><a href="#">App version:
-                <g:meta name="info.app.version"/></a>
-            </li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Grails version:
-                <g:meta name="info.app.grailsVersion"/></a>
-            </li>
-            <li><a href="#">Groovy version: ${GroovySystem.getVersion()}</a></li>
-            <li><a href="#">JVM version: ${System.getProperty('java.version')}</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Reloading active: ${grails.util.Environment.reloadingAgentEnabled}</a></li>
+            <g:each in="${prni.Country.listOrderByName()}" var="c">
+                <li style="width: 240px"><a href="#">${c.name}</a></li>
+            </g:each>
         </ul>
     </li>
 
 </content>
 
 <div class="svg" role="presentation">
-    <div class="grails-logo-container" style="height: 130px;">
-        <asset:image src="spc.png" style="width: 300px;"/>
+    <div class="grails-logo-container" style="height: 140px;">
+        <br/>
+        <asset:image src="spc.png" style="height: 90px;"/>
+        <asset:image src="linz.png" style="height: 95px;"/>
+        <asset:image src="iho.png" style="height: 95px;width: 440px"/>
 
     </div>
 </div>
@@ -55,18 +48,21 @@
 
             <p style="text-align: justify">
                 This initiative builds on a successful project in Vanuatu under which hydrographic surveys were conducted of four key Vanuatu cruise ship destinations. This unique proof of concept partnership with SPC, the Government of Vanuatu, the International Hydrographic Organisation and LINZ has recently produced updated marine survey charts and Electronic Navigation Charts to permit compliance with IMO regulations, and allow the continuance of cruise ship visits to these islands.This new partnership will be delivered through Land Information New Zealand (LINZ) and the Geoscience for Development Programme at SPC-SOPAC, with an initial focus on Tonga, Cook Islands, Niue, Samoa, and Tokelau, with a view to extending to the rest of the Pacific.
+            <br/>
             </p>
 
             <h3><u>Arrangements for Capacity-Building and Technology Transfer</u></h3>
 
             <p style="text-align: justify">
-                The Pacific Regional Naviation Initiative will cover a number of activities across four broad components:1. Risk Assessment Component this will involve identification of the need / priority areas for hydrographic surveys in Pacific island countries (PICs), in particular completing Hydrographic Risk Assessments for all Pacific Island Countries; and data discovery of existing hydrographic or bathymetric data that may be of sufficient quality to upgrade areas where the charts are old, poor, or of insufficient detail. 2. Capability Support Component - assistance and capacity building through regional technical support from Land Information New Zealand (LINZ), the Secretariat of the Pacific Community SOPAC division, the South West Pacific Hydrography Commission and the International Hydrographic Office. This will also involve working closely with Primary Charting Authorities to render/process survey data into hydrographic paper charts and Electronic Navigation Charts, and making these charts available to PIC governments and domestic shipping operators. 3. Mitigation Component - providing technical assistance for non-survey mitigation of risk areas (i.e. operational / other direct mitigation such as installation of navigational aids, identification of shipping lanes, and / or notice to mariners of hazardous areas), and monitoring and reporting to Primary Charting Authorities of changes to maritime conditions.4. Survey Programme utilising the Hydrographic Risk Assessments to target those areas assessed as having significant or heightened risk. The hydrographic survey work will include New Zealand and Australia work through their naval Defence Forces to carry out this work while on Pacific operations.The survey programme will also include developing further collaborative partnerships and funding mechanisms involving donors and the private sector, provision of surveys and survey project management from private sector and regional agencies; and negotiating agreements with Primary Charting Authorities and PICs to utilise survey data to maintain and produce accurate and adequate Electronic Navigation Charts.
+                The Pacific Regional Naviation Initiative will cover a number of activities across four broad components:<br/>1.) Risk Assessment Component this will involve identification of the need / priority areas for hydrographic surveys in Pacific island countries (PICs), in particular completing Hydrographic Risk Assessments for all Pacific Island Countries; and data discovery of existing hydrographic or bathymetric data that may be of sufficient quality to upgrade areas where the charts are old, poor, or of insufficient detail.<br/>2.) Capability Support Component - assistance and capacity building through regional technical support from Land Information New Zealand (LINZ), the Secretariat of the Pacific Community SOPAC division, the South West Pacific Hydrography Commission and the International Hydrographic Office. This will also involve working closely with Primary Charting Authorities to render/process survey data into hydrographic paper charts and Electronic Navigation Charts, and making these charts available to PIC governments and domestic shipping operators.<br/>3.) Mitigation Component - providing technical assistance for non-survey mitigation of risk areas (i.e. operational / other direct mitigation such as installation of navigational aids, identification of shipping lanes, and / or notice to mariners of hazardous areas), and monitoring and reporting to Primary Charting Authorities of changes to maritime conditions.<br/>4.) Survey Programme utilising the Hydrographic Risk Assessments to target those areas assessed as having significant or heightened risk. The hydrographic survey work will include New Zealand and Australia work through their naval Defence Forces to carry out this work while on Pacific operations.The survey programme will also include developing further collaborative partnerships and funding mechanisms involving donors and the private sector, provision of surveys and survey project management from private sector and regional agencies; and negotiating agreements with Primary Charting Authorities and PICs to utilise survey data to maintain and produce accurate and adequate Electronic Navigation Charts.
+                <br/>
             </p>
 
             <h3><u>Coordination mechanisms/governance structure</u></h3>
 
             <p style="text-align: justify">
                 This partnership will be supported by the New Zealand Aid Proramme and delivered through Land Information New Zealand (LINZ) and the Geoscience for Development Programme at SPC, with an initial focus on Tonga, Cook Islands, Niue, Samoa, and Tokelau, with a view to extending to the rest of the Pacific. A Steering Group will be established with LINZ, SPC and MFAT for governance of the initiative.Discussions are underway with other development partners and the private sector (cruise and other shipping company operators) on a potential consortium funding model to expand the scope of the partnership. Governance options for a consortium will be looked at as part of these discussions.
+                <br/>
             </p>
 
             <h3><u>Partners</u></h3>

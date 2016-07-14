@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <title>
-        <g:layoutTitle default="Grails"/>
+        Pacific Regional Navigation Initiative
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
@@ -23,10 +23,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/#">
+                <a class="navbar-brand" href="/#" style="font-weight: bolder;">
                     <i class="fa grails-icon">
-                        <asset:image src="grails-cupsonly-logo-white.svg"/>
-                    </i> Grails
+                        <asset:image src="stars.png" style="margin-top: -7px;"/>
+                    </i> Pacific Regional Navigation Initiative
                 </a>
             </div>
             <div class="navbar-collapse collapse" aria-expanded="false" style="height: 0.8px;">
@@ -39,7 +39,11 @@
 
     <g:layoutBody/>
 
-    <div class="footer" role="contentinfo"></div>
+    <p class="footer" role="contentinfo" style="font-size: 110%; color: white;" align="center" >
+
+    &copy; 2016 Geoscience Division, Pacific Commmunity (SPC)
+
+    </p>
 
     <div id="spinner" class="spinner" style="display:none;">
         <g:message code="spinner.alt" default="Loading&hellip;"/>
