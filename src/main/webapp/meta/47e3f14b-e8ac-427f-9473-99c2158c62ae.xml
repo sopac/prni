@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork">
+  <gmd:fileIdentifier>
+    <gco:CharacterString xmlns:srv="http://www.isotc211.org/2005/srv">47e3f14b-e8ac-427f-9473-99c2158c62ae</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:language>
+    <gco:CharacterString>eng</gco:CharacterString>
+  </gmd:language>
+  <gmd:characterSet>
+    <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
+  </gmd:characterSet>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty>
+      <gmd:individualName>
+        <gco:CharacterString>Geonetwork Team</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gco:CharacterString>SPC Applied Geoscience and Technology Division (SOPAC)</gco:CharacterString>
+      </gmd:organisationName>
+      <gmd:positionName gco:nilReason="missing">
+        <gco:CharacterString/>
+      </gmd:positionName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString>+ (679) 338 1377</gco:CharacterString>
+              </gmd:voice>
+              <gmd:facsimile>
+                <gco:CharacterString>+ (679) 337 0040</gco:CharacterString>
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString>SPC-SOPAC, Mead Road, Nabua, FJ</gco:CharacterString>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString>Suva</gco:CharacterString>
+              </gmd:city>
+              <gmd:administrativeArea>
+                <gco:CharacterString>SPC-SOPAC Division</gco:CharacterString>
+              </gmd:administrativeArea>
+              <gmd:postalCode>
+                <gco:CharacterString>Private Mail Bag, GPO Suva, Fiji Islands</gco:CharacterString>
+              </gmd:postalCode>
+              <gmd:country>
+                <gco:CharacterString>FJ</gco:CharacterString>
+              </gmd:country>
+              <gmd:electronicMailAddress>
+                <gco:CharacterString>geonetwork@sopac.org</gco:CharacterString>
+              </gmd:electronicMailAddress>
+            </gmd:CI_Address>
+          </gmd:address>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode"/>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  <gmd:dateStamp>
+    <gco:DateTime xmlns:srv="http://www.isotc211.org/2005/srv">2013-01-31T16:26:27</gco:DateTime>
+  </gmd:dateStamp>
+  <gmd:metadataStandardName>
+    <gco:CharacterString xmlns:srv="http://www.isotc211.org/2005/srv">ISO 19115:2003/19139</gco:CharacterString>
+  </gmd:metadataStandardName>
+  <gmd:metadataStandardVersion>
+    <gco:CharacterString xmlns:srv="http://www.isotc211.org/2005/srv">1.0</gco:CharacterString>
+  </gmd:metadataStandardVersion>
+  <gmd:referenceSystemInfo>
+    <gmd:MD_ReferenceSystem>
+      <gmd:referenceSystemIdentifier>
+        <gmd:RS_Identifier>
+          <gmd:code>
+            <gco:CharacterString>WGS 1984</gco:CharacterString>
+          </gmd:code>
+        </gmd:RS_Identifier>
+      </gmd:referenceSystemIdentifier>
+    </gmd:MD_ReferenceSystem>
+  </gmd:referenceSystemInfo>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>Marshall Islands, Enewetak, 8th and 17th August 1978, Aerial Photographs</gco:CharacterString>
+          </gmd:title>
+          <gmd:date>
+            <gmd:CI_Date>
+              <gmd:date>
+                <gco:DateTime>2012-08-03T11:08:00</gco:DateTime>
+              </gmd:date>
+              <gmd:dateType>
+                <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode"/>
+              </gmd:dateType>
+            </gmd:CI_Date>
+          </gmd:date>
+          <gmd:edition gco:nilReason="missing">
+            <gco:CharacterString/>
+          </gmd:edition>
+          <gmd:presentationForm>
+            <gmd:CI_PresentationFormCode codeListValue="imageDigital" codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_PresentationFormCode"/>
+          </gmd:presentationForm>
+        </gmd:CI_Citation>
+      </gmd:citation>
+      <gmd:abstract>
+        <gco:CharacterString>This photoset is a collection of historical coloured aerial photographs that was taken of Enewetak atoll, Marshall Islands on 8th and 17th August, 1978. Coverage is limited to areas that fall around the coastal zones, reef and lagoonal area of the Eastern and North-Eastern islands of Enewetak Atoll. All 29 photographs have not been rectified but mosaicked for viewing purposes and uploaded according to their frame numbers. These photosets are held at the SOPAC Secretariat on behalf of the Marshall Islands Government. Images can be downloaded from the appropriate link under Distribution Info with appropriate permission from the Secretariat.</gco:CharacterString>
+      </gmd:abstract>
+      <gmd:purpose>
+        <gco:CharacterString>The SOPAC Secretariat's aerial photographs is a unique detailed record of the physical landscapes from the different member Pacific Island countries. These photographs can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, engineers and other individuals. These purposes include determination of past land uses, marine mapping, coral reef habitat mapping (change detection), restoration of natural areas, assessing historical changes, and a variety of other applications.</gco:CharacterString>
+      </gmd:purpose>
+      <gmd:status>
+        <gmd:MD_ProgressCode codeListValue="historicalArchive" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ProgressCode"/>
+      </gmd:status>
+      <gmd:pointOfContact>
+        <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString>Dr Arthur Webb</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString>SPC Applied Geoscience and Technology Division (SOPAC)</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString>Deputy Director - Ocean &amp; Islands Programme (Coastal Processes Adviser)</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString>+679 338 1377</gco:CharacterString>
+                  </gmd:voice>
+                  <gmd:facsimile>
+                    <gco:CharacterString>+679 337 0040</gco:CharacterString>
+                  </gmd:facsimile>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString>SPC-SOPAC, Mead Road, Nabua, FJ</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString>Suva</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString>SPC-SOPAC Division</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString>Private Mail Bag, GPO Suva, Fiji Islands</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:country>
+                    <gco:CharacterString>FJ</gco:CharacterString>
+                  </gmd:country>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString>arthur@sopac.org</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeListValue="pointOfContact" codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode"/>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </gmd:pointOfContact>
+      <gmd:resourceMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency>
+            <gmd:MD_MaintenanceFrequencyCode codeListValue="asNeeded" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_MaintenanceFrequencyCode"/>
+          </gmd:maintenanceAndUpdateFrequency>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:resourceMaintenance>
+      <gmd:graphicOverview>
+        <gmd:MD_BrowseGraphic>
+          <gmd:fileName>
+            <gco:CharacterString>Enewetak_thumbnail.resized_s.png</gco:CharacterString>
+          </gmd:fileName>
+          <gmd:fileDescription>
+            <gco:CharacterString>thumbnail</gco:CharacterString>
+          </gmd:fileDescription>
+          <gmd:fileType>
+            <gco:CharacterString>png</gco:CharacterString>
+          </gmd:fileType>
+        </gmd:MD_BrowseGraphic>
+      </gmd:graphicOverview>
+      <gmd:graphicOverview>
+        <gmd:MD_BrowseGraphic>
+          <gmd:fileName>
+            <gco:CharacterString>Enewetak_thumbnail.resized.png</gco:CharacterString>
+          </gmd:fileName>
+          <gmd:fileDescription>
+            <gco:CharacterString>large_thumbnail</gco:CharacterString>
+          </gmd:fileDescription>
+          <gmd:fileType>
+            <gco:CharacterString>png</gco:CharacterString>
+          </gmd:fileType>
+        </gmd:MD_BrowseGraphic>
+      </gmd:graphicOverview>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>Historical Photos, Aerial Photos, Change Detection, Base Map, GIS, Mapping, geography, Digital Image, imageryBaseMapsEarthCover</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeListValue="theme" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"/>
+          </gmd:type>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>Marshall Island, Enewetak, Enjebi, Aomon, Bokenelan, Lujor, Bijire, Lojwa, Alembel, Runit, Ananij</gco:CharacterString>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeListValue="place" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"/>
+          </gmd:type>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:resourceConstraints>
+        <gmd:MD_LegalConstraints>
+          <gmd:accessConstraints>
+            <gmd:MD_RestrictionCode codeListValue="intellectualPropertyRights" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
+          </gmd:accessConstraints>
+          <gmd:useConstraints>
+            <gmd:MD_RestrictionCode codeListValue="copyright" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
+          </gmd:useConstraints>
+          <gmd:otherConstraints>
+            <gco:CharacterString>These aerial photographs are the property of the SOPAC Secretariat member country (Marshall Islands ). Request for use of these images can be made to the Secretariat via the listed point of contacts.</gco:CharacterString>
+          </gmd:otherConstraints>
+        </gmd:MD_LegalConstraints>
+      </gmd:resourceConstraints>
+      <gmd:spatialRepresentationType>
+        <gmd:MD_SpatialRepresentationTypeCode codeListValue="" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_SpatialRepresentationTypeCode"/>
+      </gmd:spatialRepresentationType>
+      <gmd:spatialResolution>
+        <gmd:MD_Resolution>
+          <gmd:equivalentScale>
+            <gmd:MD_RepresentativeFraction>
+              <gmd:denominator>
+                <gco:Integer/>
+              </gmd:denominator>
+            </gmd:MD_RepresentativeFraction>
+          </gmd:equivalentScale>
+        </gmd:MD_Resolution>
+      </gmd:spatialResolution>
+      <gmd:language>
+        <gco:CharacterString>eng</gco:CharacterString>
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
+      </gmd:characterSet>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>imageryBaseMapsEarthCover</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:extent>
+        <gmd:EX_Extent>
+          <gmd:temporalElement>
+            <gmd:EX_TemporalExtent>
+              <gmd:extent>
+                <gml:TimePeriod gml:id="N101D0">
+                  <gml:beginPosition>1978-08-08T11:17:00</gml:beginPosition>
+                  <gml:endPosition>1978-08-17T11:17:00</gml:endPosition>
+                </gml:TimePeriod>
+              </gmd:extent>
+            </gmd:EX_TemporalExtent>
+          </gmd:temporalElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+      <gmd:extent>
+        <gmd:EX_Extent>
+          <gmd:geographicElement>
+            <gmd:EX_GeographicBoundingBox>
+              <gmd:westBoundLongitude>
+                <gco:Decimal>162.32497</gco:Decimal>
+              </gmd:westBoundLongitude>
+              <gmd:eastBoundLongitude>
+                <gco:Decimal>169.97162</gco:Decimal>
+              </gmd:eastBoundLongitude>
+              <gmd:southBoundLatitude>
+                <gco:Decimal>5.60028</gco:Decimal>
+              </gmd:southBoundLatitude>
+              <gmd:northBoundLatitude>
+                <gco:Decimal>14.59403</gco:Decimal>
+              </gmd:northBoundLatitude>
+            </gmd:EX_GeographicBoundingBox>
+          </gmd:geographicElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+      <gmd:supplementalInformation>
+        <gco:CharacterString>Enewetak atoll is a large coral atoll of 40 islands in the Pacific Ocean, and forms a legislative district of the Ralik Chain of the Marshall Islands. Its land area totals less than 5.85 square kilometres (2.26 sq mi), surrounding a deep central lagoon, 80 kilometres (50 mi) in circumference. (Wikipedia)</gco:CharacterString>
+      </gmd:supplementalInformation>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  <gmd:distributionInfo>
+    <gmd:MD_Distribution>
+      <gmd:transferOptions>
+        <gmd:MD_DigitalTransferOptions>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08081978_097.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08081978_097.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 097. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08081978_102.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08081978_102.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 102. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08081978_104.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08081978_104.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 104. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08081978_107.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08081978_107.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 107. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_002.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_002.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 002. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_004.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_004.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 004. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_006.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_006.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 006. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_008.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_008.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 008. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_010.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_010.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 010. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_012.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_012.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 012. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_013.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_013.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 013. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_014.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_014.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 014. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_015.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_015.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 015. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_016.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_016.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 016. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_017.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_017.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 017. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_018.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_018.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 018. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_019.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_019.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 019. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_020.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_020.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 020. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_021.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_021.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 021. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_022.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_022.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 022. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_023.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_023.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 023. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_024.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_024.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 024. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_025.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_025.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 025. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_026.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_026.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 026. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_027.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_027.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 027. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_070.tiff&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_070.tiff</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 070. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1741&amp;fname=Enewetak_08171978_071.tif&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name>
+                <gco:CharacterString>Enewetak_08171978_071.tif</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>MH, Enewetak_Frame : 071. Tiff Format</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+        </gmd:MD_DigitalTransferOptions>
+      </gmd:transferOptions>
+    </gmd:MD_Distribution>
+  </gmd:distributionInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeListValue="dataset" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ScopeCode"/>
+          </gmd:level>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage>
+        <gmd:LI_Lineage>
+          <gmd:statement gco:nilReason="missing">
+            <gco:CharacterString/>
+          </gmd:statement>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+</gmd:MD_Metadata>

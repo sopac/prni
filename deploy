@@ -1,5 +1,6 @@
 grails war
 mv build/libs/prni-0.1.war /tmp/
 mv /tmp/prni-0.1.war /tmp/prni.war
+scp -C -i ~/Dropbox/pacgeo.pem /home/sachin/Projects/NZ_MFAT_PRNI_Phase1_output.sqlite ubuntu@pacgeo:/tmp/
 scp -C -i ~/Dropbox/pacgeo.pem /tmp/prni.war ubuntu@pacgeo:/tmp/
 echo Deployed to PacGeo AWS @ /tmp

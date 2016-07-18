@@ -5,7 +5,6 @@
     <title>Pacific Regional Navigation Initiative</title>
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico"/>
 
-
 </head>
 
 <body>
@@ -15,7 +14,9 @@
            aria-expanded="false">Browse By Country <span class="caret"></span></a>
         <ul class="dropdown-menu">
             <g:each in="${prni.Country.listOrderByName()}" var="c">
-                <li style="width: 240px"><a href="#">${c.name}</a></li>
+                <li style="width: 240px"><a
+                        href="${createLink(controller: 'metadata', action: 'listCountry', params: [countryCode: c.code])}">${c.name}</a>
+                </li>
             </g:each>
         </ul>
     </li>
@@ -39,16 +40,20 @@
         <p style="text-align: justify">
             Safe and reliable passage through Pacific waters is essential to protect fragile ocean environments and allow Pacific island countries' economies to develop. Up-to-date navigation charts based on modern, accurate surveys are critical transport infrastructure the ocean equivalent of well-constructed roads. Hydrography is highly specialised. Few Pacific countries have the technical capability or systems needed to undertake hydrographic surveys or update their own navigational charts.This new regional programme aims to ensure Pacific navigation charts meet international standards and support maritime safety and economic growth. The initiative contributes to sustainable development in selected Pacific SIDS through supporting:- improved transport and infrastructure management services as a key enabler of growth. For every $1 spent on hydrography, there is an estimated $91 return in ongoing economic activity.- safe, reliable and affordable transport services that connect people to markets and services. As of 1 July 2016 all international vessels will need to use Electronic Navigation Charts (ENCs) that meet international standards. This investment will ensure that vessels will continue to operate in the Pacific underpinning trade, tourism and economic development in the region. Specific outcomes sought include:- continued visits by passenger, tanker and cargo ships to PICs, resulting in better maritime transport safety and continued opportunities for economic development- improved domestic passenger ferry safety.
         </p>
-        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseTarget" aria-expanded="false" aria-controls="collapseTarget">
-            More Information
-        </button>
+
+        <div align="center">
+            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseTarget"
+                    aria-expanded="false" aria-controls="collapseTarget">
+                More Information
+            </button>
+        </div>
 
         <div class="collapse" id="collapseTarget">
             <h3><u>Implementation methodologies</u></h3>
 
             <p style="text-align: justify">
                 This initiative builds on a successful project in Vanuatu under which hydrographic surveys were conducted of four key Vanuatu cruise ship destinations. This unique proof of concept partnership with SPC, the Government of Vanuatu, the International Hydrographic Organisation and LINZ has recently produced updated marine survey charts and Electronic Navigation Charts to permit compliance with IMO regulations, and allow the continuance of cruise ship visits to these islands.This new partnership will be delivered through Land Information New Zealand (LINZ) and the Geoscience for Development Programme at SPC-SOPAC, with an initial focus on Tonga, Cook Islands, Niue, Samoa, and Tokelau, with a view to extending to the rest of the Pacific.
-            <br/>
+                <br/>
             </p>
 
             <h3><u>Arrangements for Capacity-Building and Technology Transfer</u></h3>
@@ -72,7 +77,48 @@
             </p>
         </div>
 
-        <div id="controllers" role="navigation">
+        <div>
+            <table class="table">
+                <% int count = 0 %>
+                <g:each in="${prni.Country.listOrderByName()}" var="c">
+                    <g:if test="${count == 0}">
+                        <tr>
+                    </g:if>
+
+                    <td>
+                        <a href="${createLink(controller: 'metadata', action: 'listCountry', params: [countryCode: c.code])}"
+                           style="text-decoration: none; color: #2e6da4; font-size: 120%;">
+                            <g:img dir="images" file="flags/${c.code}.jpg"/>
+                            <br/>${c.name} (${prni.Metadata.findAllByCountry(c).size()})
+                        </a>
+                    </td>
+
+                    <g:if test="${count > 3}">
+                        <tr>
+                    </g:if>
+                    <% count = count + 1; if (count > 4) count = 0; %>
+                </g:each>
+            </table>
+            <hr/>
+            <br/>
+
+            <div align="center">
+                <g:link controller="metadata" style="text-decoration: none; font-weight: bolder;" type="button"
+                        class="btn btn-success">Browse All</g:link>
+                <br/><br/>
+                <div class="well">
+                <u>For further information contact:</u>
+                <br/>
+                <b>David Mundy</b><br/>
+                Senior Hydrographic Surveyor<br/>
+                Geoscience Division, Pacific Community (SPC)<br/>
+                <a href="mailto:davidm@spc.int">davidm@spc.int</a>
+                </div>
+
+            </div>
+        </div>
+
+        <div style="visibility: hidden; height: 0px !important;" id="controllers" role="navigation">
             <h2>Available Controllers:</h2>
             <ul>
                 <g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName }}">

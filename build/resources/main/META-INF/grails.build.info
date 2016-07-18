@@ -1,6 +1,6 @@
-#Thu, 14 Jul 2016 15:45:45 +1200
+#Mon, 18 Jul 2016 15:52:07 +1200
 
 info.app.version=0.1
 info.app.name=prni
-grails.env=development
+grails.env=production
 info.app.grailsVersion=3.1.9
