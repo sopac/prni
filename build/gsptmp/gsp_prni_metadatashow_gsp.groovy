@@ -29,65 +29,71 @@ invokeTag('wrapTitleTag','sitemesh',6,[:],2)
 printHtmlPart(2)
 })
 invokeTag('captureHead','sitemesh',7,[:],1)
-printHtmlPart(2)
-createTagBody(1, {->
 printHtmlPart(3)
-invokeTag('message','g',9,['code':("default.link.skip.label"),'default':("Skip to content&hellip;")],-1)
+createTagBody(1, {->
 printHtmlPart(4)
-expressionOut.print(createLink(uri: '/'))
+invokeTag('message','g',11,['code':("default.link.skip.label"),'default':("Skip to content&hellip;")],-1)
 printHtmlPart(5)
-invokeTag('message','g',12,['code':("default.home.label")],-1)
+expressionOut.print(createLink(uri: '/'))
 printHtmlPart(6)
-createTagBody(2, {->
-invokeTag('message','g',13,['code':("default.list.label"),'args':([entityName])],-1)
-})
-invokeTag('link','g',13,['class':("list"),'action':("index")],2)
+invokeTag('message','g',15,['code':("default.home.label")],-1)
 printHtmlPart(7)
 createTagBody(2, {->
-invokeTag('message','g',14,['code':("default.new.label"),'args':([entityName])],-1)
+invokeTag('message','g',16,['code':("default.list.label"),'args':([entityName])],-1)
 })
-invokeTag('link','g',14,['class':("create"),'action':("create")],2)
+invokeTag('link','g',16,['class':("list"),'action':("index")],2)
 printHtmlPart(8)
-invokeTag('message','g',18,['code':("default.show.label"),'args':([entityName])],-1)
-printHtmlPart(9)
-if(true && (flash.message)) {
-printHtmlPart(10)
-expressionOut.print(flash.message)
-printHtmlPart(11)
-}
-printHtmlPart(12)
-invokeTag('display','f',22,['bean':("metadata")],-1)
-printHtmlPart(12)
 createTagBody(2, {->
+invokeTag('message','g',18,['code':("default.new.label"),'args':([entityName])],-1)
+})
+invokeTag('link','g',18,['class':("create"),'action':("create")],2)
+printHtmlPart(9)
+expressionOut.print(this.metadata.name)
+printHtmlPart(10)
+if(true && (flash.message)) {
+printHtmlPart(11)
+expressionOut.print(flash.message)
+printHtmlPart(12)
+}
 printHtmlPart(13)
-createClosureForHtmlPart(14, 3)
-invokeTag('link','g',25,['class':("edit"),'style':("background-image: url('${resource(dir: 'images', file: 'skin/database_add.png')}') !important;"),'onclick':("return alert('Not Implemented.');")],3)
+if(true && (this.metadata.thumbnail != null)) {
+printHtmlPart(14)
+invokeTag('img','g',32,['dir':("thumb"),'file':(this.metadata.thumbnail)],-1)
 printHtmlPart(15)
-createClosureForHtmlPart(16, 3)
-invokeTag('link','g',26,['class':("edit"),'style':("background-image: url('${resource(dir: 'images', file: 'skin/information.png')}') !important;"),'controller':("metadata"),'action':("iso"),'params':([id: this.metadata.id])],3)
+}
+printHtmlPart(16)
+invokeTag('display','f',36,['bean':("metadata")],-1)
+printHtmlPart(1)
+createTagBody(2, {->
 printHtmlPart(17)
-createTagBody(3, {->
-invokeTag('message','g',28,['code':("default.button.edit.label"),'default':("Edit")],-1)
-})
-invokeTag('link','g',28,['class':("edit"),'action':("edit"),'resource':(this.metadata)],3)
-printHtmlPart(18)
-expressionOut.print(message(code: 'default.button.delete.label', default: 'Delete'))
+createClosureForHtmlPart(18, 3)
+invokeTag('link','g',41,['class':("edit"),'style':("background-image: url('${resource(dir: 'images', file: 'skin/database_add.png')}') !important;"),'onclick':("return alert('Not Implemented.');")],3)
 printHtmlPart(19)
-expressionOut.print(message(code: 'default.button.delete.confirm.message', default: 'Are you sure?'))
-printHtmlPart(20)
-})
-invokeTag('form','g',31,['resource':(this.metadata),'method':("DELETE")],2)
+createClosureForHtmlPart(20, 3)
+invokeTag('link','g',44,['class':("edit"),'style':("background-image: url('${resource(dir: 'images', file: 'skin/information.png')}') !important;"),'controller':("metadata"),'action':("iso"),'params':([id: this.metadata.id])],3)
 printHtmlPart(21)
+createTagBody(3, {->
+invokeTag('message','g',47,['code':("default.button.edit.label"),'default':("Edit")],-1)
 })
-invokeTag('captureBody','sitemesh',33,[:],1)
+invokeTag('link','g',47,['class':("edit"),'action':("edit"),'resource':(this.metadata)],3)
 printHtmlPart(22)
+expressionOut.print(message(code: 'default.button.delete.label', default: 'Delete'))
+printHtmlPart(23)
+expressionOut.print(message(code: 'default.button.delete.confirm.message', default: 'Are you sure?'))
+printHtmlPart(24)
+})
+invokeTag('form','g',52,['resource':(this.metadata),'method':("DELETE")],2)
+printHtmlPart(25)
+})
+invokeTag('captureBody','sitemesh',54,[:],1)
+printHtmlPart(26)
 }
 public static final Map JSP_TAGS = new HashMap()
 protected void init() {
 	this.jspTags = JSP_TAGS
 }
 public static final String CONTENT_TYPE = 'text/html;charset=UTF-8'
-public static final long LAST_MODIFIED = 1468811725000L
+public static final long LAST_MODIFIED = 1468817440000L
 public static final String EXPRESSION_CODEC = 'html'
 public static final String STATIC_CODEC = 'none'
 public static final String OUT_CODEC = 'none'

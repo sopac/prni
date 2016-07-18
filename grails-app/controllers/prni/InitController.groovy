@@ -12,6 +12,8 @@ class InitController {
         render "<h3>Init Complete.</h3>"
     }
 
+
+
     def download() {
         Metadata.list().each { m ->
             render "wget http://geonetwork.sopac.org/geonetwork/srv/en/iso19139.xml?uuid=" + m.geonetwork + "<br/>"
@@ -167,7 +169,9 @@ class InitController {
                         m.setYear(year)
                         m.setDescription(description)
                         m.setSurveyType(surveyType)
-                        m.setGeonetwork(r.'Geonetwork_File_identifier ')
+                        String uuid = r?.'Geonetwork_File_identifier '
+                        if (uuid != null && !uuid.equals("")) uuid = uuid.trim()
+                        m.setGeonetwork(uuid)
                         m.setFormat(format)
                         m.setProjection(projection)
                         m.setProject(project)
@@ -186,7 +190,26 @@ class InitController {
 
             }
             sql.close()
+
+            //set thumbnails
+            String path = request.getSession().getServletContext().getRealPath("/") + "/thumb.txt"
+            new File(path).eachLine { l->
+                String[] la = l.trim().split(":")
+                String uuid = la[0].trim()
+                String file = la[1].trim()
+                println uuid + " : " + file
+                try {
+                    def m = Metadata.findByGeonetwork(uuid)
+                    m.setThumbnail(file)
+                    m.save(flush: true, failOnError: true)
+                } catch (Exception ex){
+                    println "Thumbnail Error: " + ex.getMessage()
+                }
+            }
+
             render String.valueOf(Metadata.list().size()) + "/" + masterCount.toString() + " Metadata Imported."
+
+
         }
     }
 

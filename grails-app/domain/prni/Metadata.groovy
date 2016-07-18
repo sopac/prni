@@ -17,6 +17,7 @@ class Metadata {
     String southBoundLatitude
     String geonetwork
     String pacgeo
+    String thumbnail
 
 
     static constraints = {
@@ -35,5 +36,6 @@ class Metadata {
         southBoundLatitude(nullable: true, blank: true)
         geonetwork(nullable: true, blank: true)
         pacgeo(nullable: true, blank: true)
+        thumbnail(nullable: true, blank: true)
     }
 }
