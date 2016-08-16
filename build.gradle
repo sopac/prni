@@ -23,6 +23,7 @@ apply plugin:"org.grails.grails-web"
 apply plugin:"org.grails.grails-gsp"
 apply plugin:"asset-pipeline"
 
+
 ext {
     grailsVersion = project.grailsVersion
     gradleWrapperVersion = project.gradleWrapperVersion
@@ -67,6 +68,9 @@ dependencies {
     //custom
     runtime 'org.xerial:sqlite-jdbc:3.8.11.2'
     runtime 'org.postgresql:postgresql:9.4.1208'
+    compile 'org.elasticsearch:elasticsearch:2.3.3'
+    compile 'org.grails.plugins:elasticsearch:1.2.0'
+    
 
 }
 

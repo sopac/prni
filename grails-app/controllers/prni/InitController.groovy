@@ -13,7 +13,6 @@ class InitController {
     }
 
 
-
     def download() {
         Metadata.list().each { m ->
             render "wget http://geonetwork.sopac.org/geonetwork/srv/en/iso19139.xml?uuid=" + m.geonetwork + "<br/>"
@@ -179,7 +178,18 @@ class InitController {
                         m.setNorthBoundLatitude(nl)
                         m.setEastBoundLongitude(el)
                         m.setSouthBoundLatitude(sl)
-                        m.setPacgeo("Pending...")
+
+                        //pacgeo link
+                        String pacgeo = "Pending..."
+                        if (table.equals("cook islands")) {
+                            if (r?.PACGEO_Link != null && r?.PACGEO_Link != "") {
+                                if (r?.PACGEO_Link.toString().startsWith("http")) {
+                                    pacgeo = r?.PACGEO_Link.toString().trim()
+                                }
+                            }
+                        }
+                        m.setPacgeo(pacgeo)
+
 
                         if (name != null)
                             m.save(flush: true, failOnError: true)
@@ -193,7 +203,7 @@ class InitController {
 
             //set thumbnails
             String path = request.getSession().getServletContext().getRealPath("/") + "/thumb.txt"
-            new File(path).eachLine { l->
+            new File(path).eachLine { l ->
                 String[] la = l.trim().split(":")
                 String uuid = la[0].trim()
                 String file = la[1].trim()
@@ -202,7 +212,7 @@ class InitController {
                     def m = Metadata.findByGeonetwork(uuid)
                     m.setThumbnail(file)
                     m.save(flush: true, failOnError: true)
-                } catch (Exception ex){
+                } catch (Exception ex) {
                     println "Thumbnail Error: " + ex.getMessage()
                 }
             }

@@ -124,3 +124,9 @@ grails:
 endpoints:
     jmx:
         unique-names: true
+
+
+elasticSearch:
+    client:
+        node: local
+    datastoreImpl: hibernateDatastore
