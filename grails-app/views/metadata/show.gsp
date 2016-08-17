@@ -34,11 +34,17 @@
     </div>
 
     <f:display bean="metadata"/>
+
+
+
     <g:form resource="${this.metadata}" method="DELETE">
         <fieldset class="buttons">
-            <g:link class="edit"
-                    style="background-image: url('${resource(dir: 'images', file: 'skin/database_add.png')}') !important;"
-                    onclick="return alert('Not Implemented.');">Open in PacGeo</g:link>
+
+            <g:if test="${!this.metadata.pacgeo.toString().startsWith("Pending")}">
+                <a href="${this.metadata.pacgeo}" class="edit"
+                   style="background-image: url('${resource(dir: 'images', file: 'skin/database_add.png')}') !important;">Open in PacGeo</a>
+            </g:if>
+
             <g:link class="edit"
                     style="background-image: url('${resource(dir: 'images', file: 'skin/information.png')}') !important;"
                     controller="metadata" action="iso" params="[id: this.metadata.id]">ISO19139</g:link>
@@ -51,5 +57,14 @@
         </fieldset>
     </g:form>
 </div>
+
+
+<h2 align="center">Metadata for ${this.metadata.name}</h2>
+<div align="center" style="width: 100%;  white-space: pre-wrap; margin-top: -20px;">
+<pre style="white-space: pre-wrap; width: 80%; text-align: left;">
+    <%= new File(request.getSession().getServletContext().getRealPath("txt") + "/" + this.metadata.geonetwork + ".txt").getText() %>
+</pre>
+</div>
+
 </body>
 </html>

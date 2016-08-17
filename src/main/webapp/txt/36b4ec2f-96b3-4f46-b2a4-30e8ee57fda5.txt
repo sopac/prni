@@ -1,0 +1,149 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Number of dimensions……………………………………………………… 3
+  │   ├─Axis dimension properties (1 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Row
+  │   │   └─Dimension size…………………………………………………………… 3,291
+  │   ├─Axis dimension properties (2 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Column
+  │   │   └─Dimension size…………………………………………………………… 0
+  │   ├─Axis dimension properties (3 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Sample
+  │   │   └─Dimension size…………………………………………………………… 24
+  │   ├─Cell geometry………………………………………………………………………… Area
+  │   └─Transformation parameter availability………… false
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Tuvalu, Nukulaelae, Bathymetry dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 25-Apr-2007 10:57:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Edition……………………………………………………………………………… ER0050.4
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the Multibeam Bathymetry datasets of the offshore areas of Nukulaelae Atoll island in Tuvalu. The dataset are in ASCII tab delimiter format. The survey was conducted from the 1st to the 2nd of October 2004 using the 8160 MBES. ¶ The surveyed area extends to an average of approximately 5.0 km offshore, however, there is a 500 m-wide swath with no coverage, at a distance of approximately 2.5 km from the shoreline. The water depth within the survey area around Nukulaelae ranges from 9.0 to 1878.0 m. ¶ The datasets are available for download from the Distribution Info section of this record with permission from the Secretariat. This work was initiated by the SOPAC/EU Reducing Vulnerability of Pacific ACP States Project (Task no.: TV 1.1.1).
+  │   ├─Purpose………………………………………………………………………………………… To provide a descriptive picture of the ocean bottom terrain, vividly revealing the size, shape and distribution of underwater features, and serve as the basic tool for scientific, engineering, marine geophysical and environmental studies, as well as marine and coastal resource management. ¶  ¶ The intent of these data is to make high-resolution bathymetry available to the public for a ¶  ¶ wide variety of uses such as research and earth science analysis. These data are not intended to be used for navigation
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kruger, Jens
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… nukulaelae_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… nukulaelae.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Multibeam, Ocean, Seafloor Topography, Water Depth
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Tuvalu, Nukulaelae
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Restricted Download: Needs requests to SOPAC Secretariat via the SOPAC Geonetwork listed contact.
+  │   ├─Spatial representation type…………………………………… Grid
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 173°E
+  │   │       ├─East bound longitude………………………………… 177°W
+  │   │       ├─South bound latitude………………………………… 13°S
+  │   │       └─North bound latitude………………………………… 4°S
+  │   └─Supplemental information…………………………………………… Nukulaelae atoll is located at 179deg50’E and 9deg23’S, with dimensions of 10.8 km along the ¶ NW-SE axis and 4.7 km along the narrow SW-NE axis. The atoll is characterised by a central lagoon with some 20 vegetated islands predominantly on the eastern side of the atoll. ¶ Nukulaelae lagoon was previously surveyed by Smith et al. (1990). ¶  ¶ The water depth within the survey area around Nukulaelae ranges from 9.0 to 1878.0 m. The ¶ minimum water depths occur in the nearshore area on the outer reef slope, while the seabed ¶ deepens to the maximum at an average gradient of 27deg near the seaward limits of the survey ¶ area. Locally, the seabed is expected to be quite irregular with gradients expected to be ¶ highly variable, ranging from 0 to 76deg. The predicted bathymetry from Smith and Sandwell ¶ (1997) in Figure 2 shows that Nukulaelae stands some 6000 m above the surrounding ocean ¶ floor. ¶ The island is encircled by a steep cliff that exceeds slope angles of 60deg, located ¶ approximately 200–600 m seaward of the reef crest with a water depth to the top of the scarp ¶ and scarp height of 100 m and 100–240 m, respectively. Further offshore, the seabed is ¶ predominantly featureless, sloping in a seaward direction at the average angle 27deg. ¶ Exceptions to this are the areas to the southeast and northwest. The southeast flank is ¶ dominated by a 5-km long lateral submarine failure originating in water depths ranging from ¶ 580 m in the north to 700 m at the southern extent. The scarp terminates at 1000 m below ¶ sea level, and scarp height therefore ranges from 420 to 300 m, north to south. This ¶ submarine landslide is shown in 3D perspective view in Figure 27, which also shows a ¶ bathymetric high thought to comprise the mass flow deposit out at a runout distance of ¶ approximately 1.5 km. Alternatively, it represents a remnant block of volcanic origin that has ¶ resisted erosion. ¶ The north and northwest flank shows several scarps associated with downslope mass ¶ movement. The steepest of these is at the northwest margin of the surveyed area, with a ¶ scarp height of 420 m, with upslope and downslope break in slope margins in water depths ¶ of 300 and 720 m, respectively. ¶ 2.2.9 ¶ Niulakita ¶ Niulakita is Tuvalu’s southern-most as well as the small
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=tv_nukulaelae_bathy_10m_grid.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tv_nukulaelae_bathy_10m_grid.xyz
+  │       │   └─Description………………………………………………………… Nukulaelae, bathymetry data, 10m grid, Format: ASCII Tab delimiter XYZ
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=tv_nukulaelae_bathy_20m_grid.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tv_nukulaelae_bathy_20m_grid.xyz
+  │       │   └─Description………………………………………………………… Nukulaelae, bathymetry data, 20m grid, Format: ASCII Tab delimiter XYZ
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=tv_nukulaelae_bathy_50m_grid.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tv_nukulaelae_bathy_50m_grid.xyz
+  │       │   └─Description………………………………………………………… Nukulaelae, bathymetry data, 50m grid, Format: ASCII Tab delimiter XYZ
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=tv_nukulaelae_bathy_100m_grid.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tv_nukulaelae_bathy_100m_grid.xyz
+  │       │   └─Description………………………………………………………… Nukulaelae, bathymetry data, 100m Format: ASCII Tab delimiter XYZ
+  │       ├─On line (5 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=tv_nukulaelae_bathy_all_processed_points.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tv_nukulaelae_bathy_all_processed_points.xyz
+  │       │   └─Description………………………………………………………… Nukulaelae, bathymetry data, all processed, Format: ASCII Tab delimiter XYZ
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (7 of 7)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1079&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 19-Jan-2012 07:43:48
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 36b4ec2f-96b3-4f46-b2a4-30e8ee57fda5
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

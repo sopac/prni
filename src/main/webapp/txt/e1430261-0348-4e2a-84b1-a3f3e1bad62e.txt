@@ -1,0 +1,133 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SPC, SOPAC Division, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC, SOPAC Division, Mead Road ,Nabua
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Vanuatu, Mele Bay, 1990, Shallow Water Bathymetry Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 27-Sep-2011 15:51:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a gridded bathymetry data of the head area of Mele Bay, Vanuatu surveyed in 1992. This survey was conducted as part of the work carried out from 7th March and 19th March 1990 ¶ to fullfil the requirements of the SOPAC 1990 Work Plan Task ¶ 90.VA.6a. A Raytheon De719e echo sounder was used for profiling the seabed. Links to related reports, bathymetry dataset and contour datasets can be accessed from the 'Distribution Infor Section' of this metadata record with appropriate permission from the Secretariat.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SPC, SOPAC Division, Mead Road ,Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Geophysist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… vu_melebay_1990_bathy_thumbnail_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… vu_melebay_1990_bathy_thumbnail.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Sea Floor, bathymetry, seabed morphology, sedimentary processes
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Vanuatu, Efate, Mele Bay
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Intellectual property rights
+  │   │   └─Use constraints………………………………………………………… Restricted
+  │   ├─Spatial representation type…………………………………… Grid
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       ├─Description…………………………………………………………………… Efate, Mele Bay offshore area
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 168°13′47.8632″E
+  │           ├─East bound longitude………………………………… 168°19′11.6472″E
+  │           ├─South bound latitude………………………………… 17°45′37.7028″S
+  │           └─North bound latitude………………………………… 17°40′45.5016″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1439&fname=vu_efate_melebay_1990_bathymetrty.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… vu_efate_melebay_1990_bathymetrty.xyz
+  │       │   └─Description………………………………………………………… Mele Bay, 1990, Bathymetry, XYZ ASCII Tab delimited format
+  │       ├─On line (2 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1439&fname=vu_efate_melebay_1990_bathymetrty_mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… vu_efate_melebay_1990_bathymetrty_mapinfo.zip
+  │       │   └─Description………………………………………………………… Mele Bay, 1990, Bathymetry. MAPINFO format (*.ID, *.MAP, *.TAB)
+  │       ├─On line (3 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1439&fname=vu_efate_melebay_contour_1990_mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… vu_efate_melebay_contour_1990_mapinfo.zip
+  │       │   └─Description………………………………………………………… Mele Bay, 1990, contour. MAPINFO format
+  │       ├─On line (4 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1439&fname=vu_efate_melebay_contour_1990_shpfiles.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… vu_efate_melebay_contour_1990_shpfiles.zip
+  │       │   └─Description………………………………………………………… Mele Bay, 1990, contour. SHP format
+  │       ├─On line (5 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/LR0022.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Preliminary Report 22. Geophysical cruise report for Mele Bay and Port Havannah, Vanuatu, SOPAC Cruise VA9001. PDF format
+  │       └─On line (6 of 6)                     
+  │           ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0126.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Technical Report 126. Nearshore bathymetry and seabed morphology, Mele Bay, Efate, Vanuatu. PDF format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder: Raytheon DE 719C and DataSonics 305kHz ¶ Velocity Control: Bar check ¶ Navigation Equipment: Del Norte DMU 520 (Range-Range) ¶ Navigation Control: Bench mark/Trig points from Vanuatu Lands & Survey and Vanuatu,Hydrographic Unit
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 27-Sep-2011 15:33:37
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… e1430261-0348-4e2a-84b1-a3f3e1bad62e
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

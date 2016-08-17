@@ -1,0 +1,231 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… SPC, SOPAC Division, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… Time Zone:UTC,  TGBM Name/Number: +/- 2mm, TGBM Elevation relative to the vertical reference: Geodetic Datum of Aust (GDA94)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Federated States Of Micronesia Sea Level Information
+  │   │   ├─Alternate title (1 of 2)………………………………… South Pacific Sea Level & Climate Monitoring Project
+  │   │   ├─Alternate title (2 of 2)………………………………… Station Number: BoM=200864 ATT=6795 WMO=91349
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 03-Feb-2011 12:01:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Table digital
+  │   ├─Abstract……………………………………………………………………………………… In December 2001, a SEAFRAME (Sea Level Fine Resolution Acoustic Measuring Equipment) gauge was installed in Dekehtik, Pohnpei, FSM. Readings(height observations) recorded from the gauge, is held in this record and provided in the form of Yearly Reports, Tide Prediction Calendars and Hourly Sea Level and meteorological data (update frequency- real time) from the Pohnpei station. This is downloadable from the Distribution Info Section of this metadata record and dataset available in digital text format. The gauge has been returning high resolution, good scientific quality data since installation.SEAFRAME gauges not only measure sea level by two independent means, but also a number of "ancillary" variables - air and water temperatures, wind speed, wind direction and atmospheric pressure. This is part of the AusAID-sponsored South Pacific Sea Level and Climate Monitoring Project ("Pacific Project") for the FORUM region, in response to concerns raised by its member countries over the potential impacts of an enhanced Greenhouse Effect on climate and sea levels in the South Pacific region. Project Implementation partners include Australian Bureau of Meteorology , National Tide Center, National Climate Center, Geoscience Australia and SPC ,SOPAC Division.
+  │   ├─Purpose………………………………………………………………………………………… To monitor changes in sea level and climate in the Pacific. The SPSLCMP project information is a unique detailed record of Tide predictions and Meteorological information from the different member Pacific Island countries. These information can be used for diverse purposes by boats, fishermen, government agencies, surveyors, planners, consulting scientists, environmental engineers and other individuals. These purposes include navigation purposes in shallow and narrow ports and intra-coastal waterways, improving fish catches , planning coastal rehabilitation, construction projects, recreation purposes such as catching big waves for surfers and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact (1 of 3)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Delaine Tagaloa Cooper
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… Tagaloa@sopac.org
+  │   │   │   └─Position name…………………………………………………… Regional Communications & Coordination Advisor - SPSLCMP
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 3)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Bill Mitchell
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +618 8366 2710
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +618 8366 2651
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 25 College Rd, Kent Town, South Australia
+  │   │   │   │       ├─City……………………………………………………… Adelaide 5001
+  │   │   │   │       ├─Postal code…………………………………… P. O. Box 421, Kent Town, SA 5067.
+  │   │   │   │       ├─Country……………………………………………… Australia
+  │   │   │   │       └─Electronic mail address…… b.mitchell@bom.gov.au
+  │   │   │   └─Position name…………………………………………………… Director
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… National Tidal Facility Australia
+  │   ├─Point of contact (3 of 3)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Bob Twilley
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +612 6249 9066
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +612 6249 9929
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Cnr Jerrabomberra Ave & Hindmarsh Drive, Narrabundah, Canberra.
+  │   │   │   │       ├─City……………………………………………………… Canberra
+  │   │   │   │       ├─Postal code…………………………………… GPO Box 378, Canberra ACT 2601
+  │   │   │   │       ├─Country……………………………………………… Australia
+  │   │   │   │       └─Electronic mail address…… Bob.Twilley@ga.gov.au
+  │   │   │   └─Position name…………………………………………………… GNSS Networks Manager
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… National Geospatial Reference Systems, Geoscience Australia Earth Monitoring Division
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… 1_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… 1.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Sea level and climate change in Federated States Of Micronesia, Marine, Oceanography, Water
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Micronesia, Fed States of, Kolonia, Pohnpei
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… No access constraints - such as commercial-in-confidence or constraint on the use or distribution to third parties
+  │   ├─Spatial representation type…………………………………… Text table
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Climatology meteorology atmosphere
+  │   ├─Extent                                   
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 138°E
+  │   │       ├─East bound longitude………………………………… 163°02′34.404″E
+  │   │       ├─South bound latitude………………………………… 0°N
+  │   │       └─North bound latitude………………………………… 11°N
+  │   └─Supplemental information…………………………………………… STATION LOCATION: Federated States of Micronesia, Pohnpei ,Dekehtik , LATITUDE- 06Â° 58' 42" N, LONGITUDE - 158Â° 11' 50" E, Height of Seaframe Sensor Bench Mark above Tide Gauge Zero - 4.0257, District- Dekehtik, Island- Pohnpei, ¶  ¶ Tide gauges measures relative sea level change, i.e., the change in sea level relative to the tide gauge, which is connected to the land. ¶ SEAFRAME location: Federated States Of Micronesia; ¶ Minimum recorded air temperature (degrees C): 23.0; Maximum recorded air temperature (degrees C): 31.8.
+  ├─Distribution info                            
+  │   ├─Transfer options (1 of 3)                
+  │   │   ├─On line (1 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_report_IDO60022.2010.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… FSM_report_IDO60022.2010.pdf
+  │   │   │   ├─Description………………………………………………………… FSM Pacific Country Report 2010, PDF Format
+  │   │   │   └─Function………………………………………………………………… Download
+  │   │   ├─On line (2 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_sea_level_report_2009.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… FSM_sea_level_report_2009.pdf
+  │   │   │   ├─Description………………………………………………………… FSM Pacific Country Report 2009, PDF Format
+  │   │   │   └─Function………………………………………………………………… Download
+  │   │   ├─On line (3 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_IDO60022.2008.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… FSM_IDO60022.2008.pdf
+  │   │   │   └─Description………………………………………………………… FSM Pacific Country Report 2008, PDF Format
+  │   │   ├─On line (4 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM.2007.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… FSM.2007.pdf
+  │   │   │   └─Description………………………………………………………… FSM Pacific Country Report 2007, PDF FOrmat
+  │   │   ├─On line (5 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=fm2006cr.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… fm2006cr.pdf
+  │   │   │   ├─Description………………………………………………………… FSM Pacific Country Report 2006, PDF Format
+  │   │   │   └─Function………………………………………………………………… Download
+  │   │   ├─On line (6 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (7 of 8)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_POhnpei_TC_IDO60055.2013.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… FSM_POhnpei_TC_IDO60055.2013.pdf
+  │   │   │   └─Description………………………………………………………… FSM , Pohnpei Tide Calendar 2013, PDF Format
+  │   │   └─On line (8 of 8)                     
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_TC_IDO60055.2012.pdf&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… FSM_TC_IDO60055.2012.pdf
+  │   │       └─Description………………………………………………………… FSM , Pohnpei Tide Calendar 2012, PDF Format
+  │   ├─Transfer options (2 of 3)                
+  │   │   ├─On line (1 of 3)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=MH_Majuro-td2011.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… MH_Majuro-td2011.pdf
+  │   │   │   └─Description………………………………………………………… FSM , Pohnpei Tide Calendar 2011, PDF Format
+  │   │   ├─On line (2 of 3)                     
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_Phonpei_TC2010.pdf&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… FSM_Phonpei_TC2010.pdf
+  │   │   │   └─Description………………………………………………………… FSM , Pohnpei Tide Calendar 2010, PDF Format
+  │   │   └─On line (3 of 3)                     
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_tide_calendar_2009.pdf&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… FSM_tide_calendar_2009.pdf
+  │   │       └─Description………………………………………………………… FSM , Pohnpei Tide Calendar 2009, PDF Format
+  │   └─Transfer options (3 of 3)                
+  │       ├─On line (1 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (2 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (3 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (4 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_sea_level_data_2001_2014_April.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… FSM_sea_level_data_2001_2014_April.zip
+  │       │   └─Description………………………………………………………… FSM, Pohnpei  & Dekehtik ,Sea level data ,2001 to 2010 -Format: csv files in Zip archive
+  │       ├─On line (5 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=42&fname=FSM_sea_level_metadata_2010.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… FSM_sea_level_metadata_2010.pdf
+  │       │   └─Description………………………………………………………… FSM, Metadata for Tidal Data Exchange, Dec 2010, PDF Format
+  │       └─On line (6 of 6)                     
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… SPSLCMP_file Information and Instruction.pdf
+  │           └─Description………………………………………………………… SPSLCMP File information and Instructions, PDF Format
+  ├─Data quality info (1 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… DATA FORMAT: Hourly Data are presented in Comma Separated Variable (.csv) format which is compatible with use in a spreadsheet such as MS Excel. These files can also be plotted with MS Excel. To save a file in text format, you will need to right-click on the file link to use "Save Target As ..." in the popup menu. ¶  ¶  ¶ Refer to Federated States Of Micronesia Pacific Country Report and Information and Instruction manual attached.
+  ├─Data quality info (2 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection session
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Details of the Readings Provided Herewith ¶ Date of readings supplied:From Dec-01 2010 To Current ¶ The time interval between readings (If the readings are for high & low water then enter "Zero")- 1-minute (average of 60, 1-second samples), 6-minutes (weighted average of 4, 1-minute readings), Hourly (filtered with a cut-off of 2 hours) ¶  ¶ Are the readings averaged or filtered: ¶ See above. 1-minute samples are logged at the end of ¶ each minute, 6-minute centred on 0.1-hour increments
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 14-Apr-2014 15:49:20
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 770edde8-e1ba-42d5-bb76-f791044f617b
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

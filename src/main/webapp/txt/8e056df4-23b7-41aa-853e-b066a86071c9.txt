@@ -1,0 +1,167 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… SOPAC Secretariat
+  │   │   │       ├─Postal code……………………………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva
+  │   │   │       ├─Country………………………………………………………… FJ
+  │   │   │       └─Electronic mail address……………… geonetwork@sopac.org
+  │   │   └─Position name……………………………………………………………… Ocean and Islands Programme
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Topology level……………………………………………………………………… Geometry only
+  │   └─Geometric objects                        
+  │       └─Geometric object type………………………………………… Point
+  ├─Reference system info……………………………………………………………… UTM Zone 55S, WGS 1984
+  ├─Metadata extension info                      
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Papua New Guinea, Deepsea Mineral Resources Survey (MBES) Bathymetry, 1992, Dataset
+  │   │   └─Date                                 
+  │   │       ├─Date…………………………………………………………………………… 05-Feb-2010 14:00:00
+  │   │       └─Date type……………………………………………………………… Creation
+  │   ├─Abstract……………………………………………………………………………………… A Joint Basic Study by the South Pacific Applied Geosience Commission (SOPAC) and the Government of Japan undertaken for marine geological and other studies relating to mineral prospecting to assess the mineral resources potential of the deep sea bottom in the offshore regions of SOPAC member countries. ¶ This metadata entry presents survey carried out in the sea area of about 74,000km2 (the western half of the Bismarck Sea) which belongs to Papua New Guinea, from August 13 through October 19, 1992.   The survey was composed of topographic cruising for topographic mapping, geochemical explanotory sampling for bottom sediments and geological deposit survey for confirmation of deposits and ore sampling. ¶ Bathymetry Datasets in XYZ formats can be downloaded from the appropriate link under Online Resources with appropriate permission from the Secretariat. ¶ This bathymetry dataset was produced by the Joint Japan International Cooperatiopn Agency and SOPAC.
+  │   ├─Purpose………………………………………………………………………………………… To assess the potential of deep sea mineral resources, especially that of hydrothermal submarine ore deposits, in the marine areas of Papua New Guinea.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Custodian
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Emily Artack
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Maritime Boundaries Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… deepsea_1992_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… deepsea_1992.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword (1 of 2)……………………………………………………… Deepsea mineral resources, cobalt rich manganese crust,  hydrothermal ore deposits, topographic mapping, GIS, geochemical
+  │   │   ├─Keyword (2 of 2)……………………………………………………… Bathymetry
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Papua New Guinea
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Restricted
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Not suitable for navigation
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Geographic element                   
+  │   │   │   ├─West bound longitude………………………………… 140°51′31.896″E
+  │   │   │   ├─East bound longitude………………………………… 155°58′00.624″E
+  │   │   │   ├─South bound latitude………………………………… 11°38′33″S
+  │   │   │   └─North bound latitude………………………………… 1°21′19.008″S
+  │   │   ├─Temporal element                     
+  │   │   └─Vertical element                     
+  │   └─Supplemental information…………………………………………… SURVEY AREA OF STUDY:  Point Number, Latitude, Longitude ¶ 1.  148°15' E  2°15'S,  2.  4°15S  148°15'E,  3. 4°15'S 145°15' E,  4. 2°15'S 145°15'E,  1. 2°15'S 148°15E
+  ├─Content info                                 
+  │   ├─Included with dataset…………………………………………………… false
+  │   └─Feature catalogue citation               
+  │       └─Date                                 
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=1992.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 1992.mb21.zip
+  │       │   └─Description………………………………………………………… MBES bathymetry Dataset 1992,  format: MB21 files in ZIP archive
+  │       ├─On line (2 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=1992.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 1992.xyz.zip
+  │       │   └─Description………………………………………………………… Deepsea Mineral Resources Survey 1992, dataset format:XYZ files in ZIP archive
+  │       ├─On line (3 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Description………………………………………………………… Deepsea Mineral Resources Survey 1991, Ship Track - format: KML
+  │       ├─On line (4 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=PG1993.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PG1993.pdf
+  │       │   └─Description………………………………………………………… Report for the Ocean Resources Investigation in the Sea area of Papua New Guinea (Volume 3), 10 February 1993, Format: PDF
+  │       ├─On line (5 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (6 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (7 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (8 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (9 of 12)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (10 of 12)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (11 of 12)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (12 of 12)                   
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=517&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Portrayal catalogue info                     
+  │   └─Portrayal catalogue citation             
+  │       └─Date                                 
+  ├─Metadata constraints                         
+  │   ├─Access constraints…………………………………………………………… Restricted
+  │   ├─Use constraints…………………………………………………………………… Copyright
+  │   └─Use limitation……………………………………………………………………… Not suitable for navigation
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 05-Feb-2010 14:35:14
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 8e056df4-23b7-41aa-853e-b066a86071c9
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

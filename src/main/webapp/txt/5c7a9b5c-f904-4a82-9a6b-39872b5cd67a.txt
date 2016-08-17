@@ -1,0 +1,118 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC, SOPAC Division,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 2 South,WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Samoa - South Upolu, 2004, Bathymetry Chart No 7
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 22-Mar-2009 00:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the bathymetry chart of the Southern foreshore areas of Upolu, Samoa. The chart is the result of the multibeam bathymetry survey that was undertaken by the Applied Geoscience and Technology Division (SOPAC) of SPC around the islands of Savaii and Upolu for the EU-SOPAC Samoa Survey. High-resolution bathymetric mapping survey was carried out ,resulting in the acquisition of over 2754 line-km of MBES data for the whole of Samoa Survey. The entire survey achieved 100% coverage of the seafloor from approximately 50 m depth in the near-shore area to an average offshore distance of 10 km, reaching water depths of some 1500 m. The resultant data compilation was used to produce bathymetry charts and XYZ datasets available from a separate record . This work was initiated by the SOPAC/EU Reducing Vulnerability of Pacific ACP States Project (Task no.: NR 1.1.1). The result of the survey conducted in this area is presented as Chart 7 of the Samoa High resolution bathymetric survey and can be downloaded from this record under the Distribution Info section with appropriate permission from the Secretariat.The bathymetry chart also includes smaller-scale insets of 3D images, slope angle and shaded relief maps.
+  │   ├─Purpose………………………………………………………………………………………… The objective of the survey was to investigate the seabed and provide information about water depths around the islands using a multibeam echosounder (MBES). These new bathymetric maps provide a descriptive picture of the ocean bottom terrain, vividly revealing the size, shape and distribution of underwater features. They serve as the basic tool for scientific, engineering, marine geophysical and environmental studies, as well as for marine and coastal resource management.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Jens Kruger
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… Suva
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Multibeam Echo Sounder System, High Resolution Multibeam bathymetry Survey, Slope angle map, Shaded Relief Map, Three dimentional Perspective image.
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Samoa, Upolu
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   ├─Other constraints (1 of 2)…………………………… Restricted Download: Request to SOPAC Secretariat is needed via the SOPAC Geonetwork listed contact.
+  │   │   └─Other constraints (2 of 2)…………………………… Not suitable for navigation
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 172°46′48.108″W
+  │   │       ├─East bound longitude………………………………… 171°25′45.12″W
+  │   │       ├─South bound latitude………………………………… 14°03′27″S
+  │   │       └─North bound latitude………………………………… 13°27′38.016″S
+  │   └─Supplemental information…………………………………………… DECSCIPTION  of MORPHOLOGICAL FEATURES in Chart 7 ¶ The shelf break is narrow and occurs at approximatley 2 km offshore in the east of the chart, widening toward the west to 7 km offshore. Numerous small channels originate at the base of the shelf break scarp.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=160&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=160&fname=readme.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… readme.pdf
+  │       │   └─Description………………………………………………………… EU -SOPAC Project Summary Report, PDF Format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=160&fname=samoa_bathy_1to50000_a0_chart7.pdf&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… samoa_bathy_1to50000_a0_chart7.pdf
+  │           └─Description………………………………………………………… Samoa Bathymetry Chart 7, 1 : 50 000, PDF Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… The bathymetry chart also includes smaller-scale insets of 3D images, slope angle and shaded relief maps.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 11-Jan-2012 08:01:58
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 5c7a9b5c-f904-4a82-9a6b-39872b5cd67a
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

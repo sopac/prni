@@ -1,0 +1,197 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SPC-SOPAC, Mead Road, Nabua, FJ
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC-SOPAC Division
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO Suva, Fiji Islands
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… SPC Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Marshall Islands, Wotho Atoll, 18th and 19th August 1978, Aerial Photographs
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 13-Aug-2012 11:06:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Image digital
+  │   ├─Abstract……………………………………………………………………………………… This photoset is a collection of historical coloured aerial photographs that was taken of Wotho atoll, Marshall Islands on 18th and 19th August, 1978. Coverage is limited to areas that fall around the coastal zones, reef and lagoonal area of the Eastern and North-Eastern islands of Enewetak Atoll. All 23 photographs have not been rectified but mosaicked for viewing purposes and uploaded according to their frame numbers. These photosets are held at the SOPAC Secretariat on behalf of the Marshall Islands Government. Images can be downloaded from the appropriate link under Distribution Info with appropriate permission from the Secretariat.
+  │   ├─Purpose………………………………………………………………………………………… The SOPAC Secretariat's aerial photographs is a unique detailed record of the physical landscapes from the different member Pacific Island countries. These photographs can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, engineers and other individuals. These purposes include determination of past land uses, marine mapping, coral reef habitat mapping (change detection), restoration of natural areas, assessing historical changes, and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Dr Arthur Webb
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SPC-SOPAC, Mead Road, Nabua, FJ
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC-SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO Suva, Fiji Islands
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… arthur@sopac.org
+  │   │   │   └─Position name…………………………………………………… Deputy Director - Ocean & Islands Programme (Coastal Processes Adviser)
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… SPC Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Wotho_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Wotho.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Historical Photos, Aerial Photos, Change Detection, Base Map, GIS, Mapping, geography, Digital Image, imageryBaseMapsEarthCover
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Marshall Island, Wotho Atoll
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Intellectual property rights
+  │   │   ├─Use constraints………………………………………………………… Copyright
+  │   │   └─Other constraints…………………………………………………… These aerial photographs are the property of the SOPAC Secretariat member country (Marshall Islands ). Request for use of these images can be made to the Secretariat via the listed point of contacts.
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Imagery base maps earth cover
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 162°19′29.892″E
+  │   │       ├─East bound longitude………………………………… 169°58′17.832″E
+  │   │       ├─South bound latitude………………………………… 5°36′01.008″N
+  │   │       └─North bound latitude………………………………… 14°35′38.508″N
+  │   └─Supplemental information…………………………………………… Wotho atoll is a coral atoll of 13 islands in the Pacific Ocean, and forms a legislative district of the Ralik Chain of the Marshall Islands. Its total land area is only 4.33 square kilometres (1.67 sq mi), but it encloses a lagoon of 94.92 square kilometres (36.65 sq mi). The name "Wotho" means either "entrance through the reef", or "island far away" according to different sources. (Wikipedia)
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_004.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_004.tiff
+  │       ├─On line (2 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_006.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_006.tif
+  │       ├─On line (3 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_008.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_008.tif
+  │       ├─On line (4 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_010.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_010.tiff
+  │       ├─On line (5 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_054.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_054.tif
+  │       ├─On line (6 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_057.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_057.tiff
+  │       ├─On line (7 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08181978_058.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08181978_058.tiff
+  │       ├─On line (8 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_059.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_059.tiff
+  │       ├─On line (9 of 23)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_108.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_108.tiff
+  │       ├─On line (10 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_109.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_109.tiff
+  │       ├─On line (11 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_116.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_116.tif
+  │       ├─On line (12 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_117.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_117.tiff
+  │       ├─On line (13 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_118.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_118.tiff
+  │       ├─On line (14 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_134.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_134.tiff
+  │       ├─On line (15 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_135.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_135.tiff
+  │       ├─On line (16 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_136.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_136.tiff
+  │       ├─On line (17 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_137.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_137.tif
+  │       ├─On line (18 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_138.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_138.tiff
+  │       ├─On line (19 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_153.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_153.tif
+  │       ├─On line (20 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_154.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_154.tiff
+  │       ├─On line (21 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_155.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_155.tif
+  │       ├─On line (22 of 23)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_156.tiff&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Name…………………………………………………………………………… Wotho_08191978_156.tiff
+  │       └─On line (23 of 23)                   
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1744&fname=Wotho_08191978_157.tiff&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           └─Name…………………………………………………………………………… Wotho_08191978_157.tiff
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 05-Mar-2013 11:07:06
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… da515e79-6fe4-4727-8c0f-fceb2c91ddd1
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

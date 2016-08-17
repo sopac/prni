@@ -1,0 +1,110 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 4, South, WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Cook Islands, 2004, Rarotonga, Avatiu, Bathymetry Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 09-Feb-2011 13:30:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the ASCII Tab delimited bathymetry dataset of Avatiu harbour in Rarotonga . Dataset was collected using an Echotrac single beam 200-kHz sounder with DGPS for navigation, control based on UTM Zone 4 WGS84 Spheroid. For tide corrections, data retrieved from the gauge sited in Avatiu Harbour was used to reduce all soundings for the harbours surveyed on Rarotonga. All data has been reduced to tide gauge zero with is reported to be 0.02 m above Lowest Astronomical Tide 92-93 as established by the National Tidal Facility Project. These bathymetry dataset are held at the SOPAC Secretariat on behalf of the Cook Islands Goverment. Dataset can be downloaded from the appropriate link under Distribution Infor with appropriate permission from the Secretariat.
+  │   ├─Purpose………………………………………………………………………………………… The secretariats bathymetry dataset is a unique detailed record of the physical underwater landscape from the different member Pacific Island countries. These bathymetry can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, navigators, and other individuals. These purposes include the study of rocks and minerals on the ocean floor, mineral exploration, study of underwater earthquakes or volcanoes, diving missions, paleobathymetry, monitoring of ecology of an ocean bed, assessment of the possible impact of hydrodynamic changes in rivers, lakes and determining of suitability of channels for barge passage. Bathymetry is a crucial component in many fields of marine research and hydrology.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Marine Geophycist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… 2004_avatiu_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… 2004_avatiu.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Oceans, Bathymetry, Sea Floor Topography, Water Depth, Ocean Plateaus/ Rdges
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Cook Islands, Rarotonga, Avatiu
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Copyright
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   └─Extent                                   
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 165°50′54.024″W
+  │           ├─East bound longitude………………………………… 157°42′13.572″W
+  │           ├─South bound latitude………………………………… 21°56′26.988″S
+  │           └─North bound latitude………………………………… 10°52′52.752″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 2)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=894&fname=ck_avaitu_2004_reporcessed.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ck_avaitu_2004_reporcessed.xyz
+  │       │   └─Description………………………………………………………… Cook Islands, Avatiu bathymetry, 2004, File format - ascii, tab delimiter, xyz
+  │       └─On line (2 of 2)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=894&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 15-Apr-2011 10:33:47
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 07554d06-0b8f-4439-95e0-5347a53d60c9
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

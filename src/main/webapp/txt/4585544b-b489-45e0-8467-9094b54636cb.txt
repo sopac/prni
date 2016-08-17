@@ -1,0 +1,112 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… WGS 1984 UTM Zone 1 South
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Tonga, 1991, Fafa Island, Sand Volume, Results of High Resolution Seismic Survey,
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 02-Sep-1991 14:00:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… A high resolution seismic survey was carried out in July 1991 to improve the definition of a major sand resource northwest of Fafa Island, Nuku’alofa, Tonga.
+  │   ├─Purpose………………………………………………………………………………………… The main objective of the survey was to improve the definition of the potentially economic sand resources in Basin A of Smith and Gatliff (1991) using high resolution 400 to 4000 Hz seismic profiling.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… to_tr_133_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… to_tr_133.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, seismic profiling,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Tonga
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Copyright
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 175°21′36″W
+  │           ├─East bound longitude………………………………… 173°54′24.588″W
+  │           ├─South bound latitude………………………………… 21°16′05.016″S
+  │           └─North bound latitude………………………………… 18°34′05.016″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://www.sopac.org/data/virlib/TR/TR0133.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Technical Report 133, VOLUME OF SAND IN BASIN A, NORTHWEST OF FAFA ISLAND, NUKU'ALOFA LAGOON,  TONGA: RESULTS OF HIGH RESOLUTION, SEISMIC SURVEY
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=39&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (3 of 3)                     
+  │           └─Protocol………………………………………………………………… OGC:WMS-1.1.1-http-get-map
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 12-Apr-2011 14:55:40
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 4585544b-b489-45e0-8467-9094b54636cb
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

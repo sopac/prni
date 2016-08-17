@@ -1,0 +1,135 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Division, Mead Road, Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Division, Mead Road, Nabua, FJ
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience (SOPAC)
+  ├─Reference system info……………………………………………………………… Projection UTM, Zone 2S (WGS84)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Niue, 1994, Shallow Water Bathymetry data
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 13-May-2011 10:15:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This metadata entry holds a gridded bathymetry data Niue, 1994. Original dataset are stored in Universal Traverse Mercator (UTM) WGS84 which are referenced to MapInfo standard projection. Datasets are available for download from the Distribution section of this entry as the original DXF file, MapInfo files and as Shapefiles, with appropriate permission from the Secretariat. Datasets contains UTM annotation, coastlines & labelled bathy datapts, no contour grids or other text available.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)337040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC Division, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Geophysicist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… niue_1994_bathy_thumbnail2_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… niue_1994_bathy_thumbnail2.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, shallow water bathymetry,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Niue
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 173°W
+  │           ├─East bound longitude………………………………… 167°W
+  │           ├─South bound latitude………………………………… 22°23′59.998626709″S
+  │           └─North bound latitude………………………………… 16°30′S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1205&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1205&fname=mapinfor_1994_niue.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mapinfor_1994_niue.zip
+  │       │   └─Description………………………………………………………… Niue, 1994, Bathymetry data, File format: MapInfo file in zip folders
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1205&fname=shapefiles_1994_niue.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… shapefiles_1994_niue.zip
+  │       │   └─Description………………………………………………………… Niue, 1994, Bathymetry data, File format:  Shapefiles in zip folders
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1205&fname=niue.dxf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… niue.dxf
+  │       │   └─Description………………………………………………………… Niue, 1994, Bathymetry data, File format: DXF Format
+  │       ├─On line (5 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1205&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1205&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (7 of 7)                     
+  │           └─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  ├─Data quality info (1 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Niue (part of) ,100/5m any  D 1994 ¶ Original file : niue.dxf ¶ Maplnfo Files:niue.DAT, *.ID, *.MAP, *.TAB ¶ (Contains: UTM annotation, coastline & labeled bathy datapts. No contours, grid, or other text)
+  ├─Data quality info (2 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder, Velocity Control. ¶ Navigation Equipment, Navigation Control. ¶ See RNZN Hydrographic Instruction 78 - 1984 (HMNZS Monuwai) ¶ XBT (for depths less than 200m) and connected by NP139 (for depths more than 200m). See RNZN Hydrographic Instruction 178 - 1994 See RNZN Hydrographic Instruction 178 -1994
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 24-May-2011 10:18:35
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 33b19d73-9709-46f6-8baf-87e81468bec9
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

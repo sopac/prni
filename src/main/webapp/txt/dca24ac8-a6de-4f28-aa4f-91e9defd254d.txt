@@ -1,0 +1,226 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… SOPAC Secretariat
+  │   │   │       ├─Postal code……………………………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva
+  │   │   │       ├─Country………………………………………………………… FJ
+  │   │   │       └─Electronic mail address……………… geonetwork@sopac.org
+  │   │   └─Position name……………………………………………………………… Ocean and Islands Programme
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Topology level……………………………………………………………………… Topology3D
+  │   └─Geometric objects                        
+  │       ├─Geometric object type………………………………………… Point
+  │       └─Geometric object count……………………………………… 342
+  ├─Reference system info……………………………………………………………… UTM Zone 57N, WGS 84
+  ├─Metadata extension info                      
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Federated States of Micronesia, Deepsea Mineral Resources Survey, (MBES) Bathymetry, 1996, Dataset
+  │   │   └─Date                                 
+  │   │       ├─Date…………………………………………………………………………… 11-Feb-2010 16:28:00
+  │   │       └─Date type……………………………………………………………… Publication
+  │   ├─Abstract……………………………………………………………………………………… A Joint Basic Study by the South Pacific Applied Geoscience Commission (SOPAC) and the Government of Japan undertaken for marine geological and other studies relating to mineral prospecting to assess the mineral resources potential of the deep sea bottom in the offshore regions of SOPAC member countries. ¶ This metadata entry presents a survey carried out from July 15 to September 26, 1997 in an area of 1,900,000 km2 in the exclusive economic zone of the Federated States of Micronesia. The survey was composed of topographic cruising for topographic mapping, geochemical explanatory sampling for bottom sediments and geological deposit survey for confirmation of deposits and ore sampling. Bathymetry Datasets in XYZ formats can be downloaded from the appropriate link under Online Resources with appropriate permission from the Secretariat. This bathymetry dataset was produced by the Joint Japan International Cooperation Agency and SOPAC.
+  │   ├─Purpose………………………………………………………………………………………… The survey is to assess the potential of submarine mineral resources within the Exclusive Economic Zone of the Federated States of Micronesia,
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Custodian
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Emily Artack
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Maritime Boundaries Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… Not planned
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… deepsea_1997_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… deepsea_1997.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword (1 of 2)……………………………………………………… Deepsea mineral resources, cobalt rich manganese crust
+  │   │   ├─Keyword (2 of 2)……………………………………………………… Bathymetry
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Micronesia,Fed States of
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Restricted
+  │   │   └─Other constraints…………………………………………………… Not suitable for navigation
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   └─Extent (2 of 2)                          
+  │       ├─Geographic element                   
+  │       │   ├─West bound longitude………………………………… 158°07′12.36″E
+  │       │   ├─East bound longitude………………………………… 163°02′34.404″E
+  │       │   ├─South bound latitude………………………………… 5°15′42.012″N
+  │       │   └─North bound latitude………………………………… 6°58′39.504″N
+  │       ├─Temporal element                     
+  │       └─Vertical element                     
+  ├─Content info                                 
+  │   ├─Included with dataset…………………………………………………… false
+  │   └─Feature catalogue citation               
+  │       └─Date                                 
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=1996.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 1996.mb21.zip
+  │       │   └─Description………………………………………………………… MBES Bathymetry Dataset 1996, format: MB21 files in ZIP files
+  │       ├─On line (2 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=1996.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 1996.xyz.zip
+  │       │   └─Description………………………………………………………… MBES Bathymetry Dataset 1996, format:XYZ files in ZIP files
+  │       ├─On line (3 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms01.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms01.mb21.zip
+  │       │   └─Description………………………………………………………… ms01 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (4 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms01.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms01.xyz.zip
+  │       │   └─Description………………………………………………………… ms01 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (5 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms02.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms02.mb21.zip
+  │       │   └─Description………………………………………………………… ms02 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (6 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms02.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms02.xyz.zip
+  │       │   └─Description………………………………………………………… ms02  Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (7 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms03,mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms03,mb21.zip
+  │       │   └─Description………………………………………………………… ms03 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (8 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms03.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms03.xyz.zip
+  │       │   └─Description………………………………………………………… ms03 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (9 of 20)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms04.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms04.mb21.zip
+  │       │   └─Description………………………………………………………… ms04 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (10 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms04.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms04.xyz.zip
+  │       │   └─Description………………………………………………………… ms04 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (11 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms05.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms05.mb21.zip
+  │       │   └─Description………………………………………………………… ms05 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (12 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms05.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms05.xyz.zip
+  │       │   └─Description………………………………………………………… ms05 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (13 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms06.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms06.mb21.zip
+  │       │   └─Description………………………………………………………… ms06 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (14 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms06.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms06.xyz.zip
+  │       │   └─Description………………………………………………………… ms06 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (15 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms07.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms07.mb21.zip
+  │       │   └─Description………………………………………………………… ms07 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (16 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms07.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms07.xyz.zip
+  │       │   └─Description………………………………………………………… ms07 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (17 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms08.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms08.mb21.zip
+  │       │   └─Description………………………………………………………… mc08 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       ├─On line (18 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms08.xyz.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms08.xyz.zip
+  │       │   └─Description………………………………………………………… mc08 Bathymetry Dataset, format: XYZ files in ZIP files
+  │       ├─On line (19 of 20)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms09.mb21.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ms09.mb21.zip
+  │       │   └─Description………………………………………………………… ms09 Bathymetry Dataset, format: MB21 files in ZIP files
+  │       └─On line (20 of 20)                   
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=524&fname=ms09.xyz.zip&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… ms09.xyz.zip
+  │           └─Description………………………………………………………… ms09 Bathymetry Dataset, format: MB21 files in ZIP files
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Please refer to The Ocean Resources Investigation In The Sea Area Of SOPAC Report: On The Joint Basic Study For The Development Of Resources
+  ├─Portrayal catalogue info                     
+  │   └─Portrayal catalogue citation             
+  │       └─Date                                 
+  │           └─Date type……………………………………………………………… Publication
+  ├─Metadata constraints                         
+  │   ├─Access constraints…………………………………………………………… Restricted
+  │   ├─Use constraints…………………………………………………………………… Copyright
+  │   └─Use limitation……………………………………………………………………… Not suitable for navigation
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Jan-2012 11:52:24
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… dca24ac8-a6de-4f28-aa4f-91e9defd254d
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

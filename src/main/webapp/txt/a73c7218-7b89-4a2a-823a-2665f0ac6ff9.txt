@@ -1,0 +1,128 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Number of dimensions……………………………………………………… 2
+  │   ├─Axis dimension properties (1 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Row
+  │   │   └─Dimension size…………………………………………………………… 3,291
+  │   ├─Axis dimension properties (2 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Column
+  │   │   └─Dimension size…………………………………………………………… 2,782
+  │   ├─Axis dimension properties (3 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Sample
+  │   │   └─Dimension size…………………………………………………………… 24
+  │   ├─Cell geometry………………………………………………………………………… Area
+  │   └─Transformation parameter availability………… false
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Tuvalu, Funafuti, Bathymetry Survey Chart , 1 :50 000
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 25-Apr-2007 11:05:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Edition……………………………………………………………………………… ER0050.7
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… Funafuti is the largest atoll of the nine low reef islands and atolls that form the Tuvalu volcanic island chain. It comprises numerous islets around a central lagoon that is approximately 25.1 km (N-S) by 18.4 km (W-E), centered on 179 degrees 7'E and 8 degrees 30'S. The resultant data from the SOPAC marine survey carried out for Tuvalu in 2004 was used to produce nine bathymetry charts ,at scales ranging from 1:20 000 to 1:50 000 and the Funafuti Chart is available here for download under the section Distribution Info. ¶ This work was initiated by the SOPAC/EU Reducing Vulnerability of Pacific ACP States Project (Task no.: TV 1.1.1).
+  │   ├─Purpose………………………………………………………………………………………… To provide a descriptive picture of the ocean bottom terrain, vividly revealing the size, shape and distribution of underwater features, and serve as the basic tool for scientific, engineering, marine geophysical and environmental studies, as well as marine and coastal resource management.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kruger, Jens
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Funafuti_bathy_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Funafuti_bathy.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Tuvalu
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Restricted Download: Needs requests to SOPAC Secretariat via the SOPAC Geonetwork listed contact.
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 176°17′42.936″E
+  │           ├─East bound longitude………………………………… 179°13′56.244″E
+  │           ├─South bound latitude………………………………… 8°33′40.644″S
+  │           └─North bound latitude………………………………… 6°05′21.984″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 2)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=112&fname=funafuti_a0_chart_600dpi.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… funafuti_a0_chart_600dpi.pdf
+  │       │   └─Description………………………………………………………… Funafuti Bathymetry Chart
+  │       └─On line (2 of 2)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=112&fname=readme.pdf&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… readme.pdf
+  │           └─Description………………………………………………………… Tuvalu, Summary Survey Report :PDF Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Bathymetry chart is contoured at intervals ¶ of 50 m and 5 m for the ocean-side and lagoon, respectively. The chart also includes smaller-scale insets of 3D images, slope angle, shaded relief, lagoon bathymetry, and ¶ interpreted seabed morphology. The interpreted seabed morphology is reproduced in Figure ¶ 15 in the report to aid discussion. Refer to Tuvalu High Resolution Survey Report available as a different metadata entry from the SOPAC Geonetwork.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 19-Jan-2012 08:55:14
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… a73c7218-7b89-4a2a-823a-2665f0ac6ff9
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

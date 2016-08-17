@@ -1,0 +1,164 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC, SOPAC Division, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… Reference to various British Admiralty chart datum
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Vanuatu Islands, 1981,  Maritime Boundaries, Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 04-Feb-2011 13:32:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds, GIS layers that contains poly-lines and point features that represent the maritime boundaries of Vanuatu. This includes a gazetted polyline representing the 200 nautical mile Exclusive Economic Zone over which Vanuatu has sovereign rights, for the purposes of exploring and exploiting, conserving and managing the natural resources of the seabed, subsoil and superjacent waters. The layers represent the archipelagic straight baselines and base points for the country's maritime zone. The Secretariat has updated these baselines against more recent and accurate information supplied by the respective government . The Pacific Islands Regional Maritime Boundaries data release contains the revised straight baselines as are currently proclaimed. New coordinates has been updated to this dataset and deposited with UN in July 2010. This record also contains digital information about the treaties. These baselines are held at the Secretariat on behalf of the Vanuatu Government and can be downloaded from the appropriate link under the Distribution Infor section.
+  │   ├─Purpose………………………………………………………………………………………… The Pacific Islands Regional Maritime Boundaries Project is assisting countries deal with the critical issue of delineation of their maritime boundaries with a focus on: * Providing maritime boundaries delimitation data and information for the member countries to assist in preparation of claims for delimitation of their EEZ; * Developing comprehensive data-sets which facilitate definition of the legal and administrative offshore limits for member countries, in accordance with the provisions of UNCLOS; * Building national capacity within member countries to undertake these assessments * Providing advice and assistance to member countries on relevant provisions of UNCLOS; * Acting as an information and data repository. ¶  ¶ These GIS layers are a unique delineation of maritime boundaries of the different member Pacific Island countries. These baselines can be used for diverse purposes by government agencies, surveyors, environmentalist, mariners and other individuals. These applications include biogeography for the creation of species distribution lists per country, determination of legal catch area for fishing, marine transportation, determination of pollution and other environmental issues within a coastal state , regulate disturbance of sea floor activities, educational purposes and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Emily Artack
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3370040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Oceans & Islands Programme
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Secretariat of the Pacific Community, SOPAC Division, Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Maritime Boundaries Project Officer (Cartographer)
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Appied Geoscience and Technology Division
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Andrick Lal
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3370040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Oceans & Islands Programme
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Secretariat of the Pacific Community, SOPAC Division, Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Project Officer-Surveying
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Appied Geoscience and Technology Division
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… vanuatu_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… vanuatu.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Exclusive Economic Zone , Maritime Boundaries, Ocean,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Papua New Guinea
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 3)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 3)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 140°51′31.896″E
+  │   │       ├─East bound longitude………………………………… 155°58′00.624″E
+  │   │       ├─South bound latitude………………………………… 11°38′33″S
+  │   │       └─North bound latitude………………………………… 1°21′19.008″S
+  │   ├─Extent (3 of 3)                          
+  │   │   └─Vertical element                     
+  │   └─Supplemental information…………………………………………… The Vanuatu group of 80 islands lies roughly 500 miles west of Fiji and 258 miles north-east of ¶ New Caledonia between 12Â° South and 21Â° South (or 22Â° 30â€™ South including Matthew and Hunter ¶ Islands) and 166Â° East and 171Â° East. The land area is approximately 12,189 sq km, excluding ¶ Matthew and Hunter Islands. These islands, originally part of the New Hebrides Condominium, ¶ became part of New Caledonia in 1955 and are now claimed by both Vanuatu and France. The ¶ principal islands of the group are Espiritu Santo, Malekula, Epi, Pentecost, Aoba, Maewo, Paama, ¶ Ambrym, Efate, Erromanga, Tanna, and Aneityum.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 8)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… Archipelagic Straight Baselines.zip
+  │       │   └─Description………………………………………………………… Archipelagic Straight Baselines, Format: MapInfo file in Zip file
+  │       ├─On line (2 of 8)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… Vanuatu_An Introduction.pdf
+  │       │   └─Description………………………………………………………… Inroduction to Vanuatu & Vanuatu Maritime Laws: PDF Format
+  │       ├─On line (3 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=901&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (4 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=901&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (5 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=901&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (6 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=901&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (7 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=901&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (8 of 8)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=901&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info (1 of 3)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… ARCHIPELAGIC STRAIGHT BASELINE: Storage type of this layer: MapInfo File, number of features in this layer: 1, Geometry type of the features in this layer: Line ¶  ¶ ARCHIPELAGIC STRAIGHT BASEPOINT: Storage type of this layer: MapInfo File, number of features in this layer: 77, Geometry type of the features in this layer: Line
+  ├─Data quality info (2 of 3)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Software
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… MarZone software was used for the computation of the outer limit of the various maritime zone. ( i.e 3,12,24,200 and 350 nautical miles (M)) and computation of the Article 76 requirements - Extended Continental Shelf.
+  ├─Data quality info (3 of 3)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Attribute
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… LIMITS OF NATIONAL JURISDICTION: ¶ The Maritime Zones Act 1981 establishes and defines the 12 nautical mile territorial sea and archipelagic waters of Vanuatu. The Act also defines a contiguous zone extending 24 nautical miles from the baselines from which the territorial sea is measured. The continental shelf of Vanuatu extends to the outer edge of the continental margin or to a distance of 200 nautical miles from the baseline from which the territorial sea is measured where the outer edge of the continental shelf does not extend up to that distance. The Act establishes a 200 nautical mile exclusive economic zone and provides that Vanuatu has sovereign rights for the purpose of exploration, exploitation, conservation and management of all resources in the exclusive economic zone and continental shelf. The total size of the exclusive economic zone is 680,000 sq km. Vanuatu shares maritime boundaries with France in respect of New Caledonia, Solomon Islands and Fiji. No maritime boundary agreements have been finalised, though the boundary with Solomon islands has been agreed in principle.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 11-Feb-2011 11:26:41
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… b1a3de02-9349-447a-9271-7247ae46f0af
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

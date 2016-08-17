@@ -1,0 +1,145 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Division, Mead Road, Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Division, Mead Road, Nabua, FJ
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM , Zone 4S (WGS 84)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Cook Islands, Manihiki, 1996, Shallow Water Bathymetry data
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 22-Jun-2011 15:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This entry holds a gridded bathymetry data of Manhiki in the Cook Islands. Dataset are stored in Universal Traverse Mercator (UTM) ,Zone 4S WGS84 ( Eastings & Northings & Depths). ¶ The original files in DXF, MapInfor, ASCII Tab delimited formats have been converted to shapefiles. MapInfor files contains Eastings, Northings and depths. Contours are unlabelled and all formats are available for download from the 'Online Resources' Link of this metadata entry with approval from the Division.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)337040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC Division, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Geophysicist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… manahiki_bathymetry_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… manahiki_bathymetry.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, shallow water bathymetry,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Cook Islands, Manihiki, Murihiti, Tauhanu, Tukao
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints (1 of 2)………………………… Copyright
+  │   │   ├─Access constraints (2 of 2)………………………… Restricted
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       ├─Description…………………………………………………………………… Manihiki
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 161°02′34.8″E
+  │           ├─East bound longitude………………………………… 160°56′49.2″E
+  │           ├─South bound latitude………………………………… 10°28′30″S
+  │           └─North bound latitude………………………………… 10°22′30″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1283&fname=manihiki_bathy.txt&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… manihiki_bathy.txt
+  │       │   └─Description………………………………………………………… Cook Islands, Manihiki, Bathymetry data, File format: txt format
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1283&fname=manihiki_bathymetry_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… manihiki_bathymetry_shp.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Manihiki, Bathymetry data, File format: SHP format in zip folder
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1283&fname=manahiki_bathy_MapInfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… manahiki_bathy_MapInfo.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Manihiki, Bathymetry data, File format: MapInfo format in zip folder
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1283&fname=manahiki_contour_mapInfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… manahiki_contour_mapInfo.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Manihiki, Contour data, File format: MapInfo format in zip folder
+  │       ├─On line (5 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1283&fname=manihiki_contour.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… manihiki_contour.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Manihiki, Contour data, File format: SHP format in zip folder
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1283&fname=manahiki_contour.dxf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… manahiki_contour.dxf
+  │       │   └─Description………………………………………………………… Cook Islands, Manihiki, Contour data, File format: DXF format
+  │       └─On line (7 of 7)                     
+  │           ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0246.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Technical Report : Circulation Studies in Manihiki Lagoon, August 1997, Steve Solomon
+  ├─Data quality info (1 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Files: ¶ manihiki_contour.dxf, ¶ manihiki_bathy.txt, ¶ manihiki_contour.DAT,*.ID, *.MAP, *.TAB, ¶ manihiki_bathymetry.ID, *.MAP, *.TAB, ¶ manihiki_bathymetry.dbf, *.prj, *.qpj, *.shp, *.shx, ¶ manihiki_contour.dbf, *.prj, *.qpj, *.shp, *.shx
+  ├─Data quality info (2 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder: Raytheon DE 719C ¶ Velocity Control: Bar Check ¶ Navigation Equipment: Del Norte DMU 520 (Range- Range) ¶ Navigation Control: Based on shore stations at known bench marks
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 17-Jul-2015 11:05:25
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 8b884d8d-e7aa-4125-8239-60c7cdace8b4
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

@@ -1,0 +1,146 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Author
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Sally Rimon
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3381377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3370040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─Postal code……………………………………………… Private Mail Bag, GPO
+  │   │   │       ├─Country………………………………………………………… Fiji
+  │   │   │       └─Electronic mail address……………… geonetwork.sopac.org
+  │   │   └─Position name……………………………………………………………… Intern
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Reference system info……………………………………………………………… Not georeferenced
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Kiribati, Betio, 1981, Mole Extension Survey, Figure 3, Bathymetry map
+  │   │   ├─Alternate title (1 of 2)………………………………… SOPAC Reference code: KI_Betio_BA_0004h.tif
+  │   │   ├─Alternate title (2 of 2)………………………………… Figure 3
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 23-Jun-2014 22:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record shows a Bathymetric map of the Betio Mole extension survey during the Tarawa Nearshore project in 1981. The Project was undertaken to survey the possible areas for the Betio-Bairiki causeway site. There are another 9 accompanying sheets that are linked to this map belonging to the same project. A copy of the map can be downloaded by selecting the appropriate link under 'Online resources' with permission from the Secretariat.
+  │   ├─Purpose………………………………………………………………………………………… To provide material for the construction of a road causeway, and possibly an airfield, linking Betio and Bairiki islands. Also, to undertake a geophysical survey to attempt to extrapolate the borehole data over the whole area of interest and to obtain as much additional data as possible on the nature of the sea bed and sub-bottom soils materials and to gather a certain amount of marine baseline environmental data from the site of the proposed causeway and lagoon borrow pit, and from nearby areas. It is intended that this data should in part provide a basis for determining the long term effects of the causeway construction.
+  │   ├─Credit…………………………………………………………………………………………… Map was digitised with the support of the SOPAC Compendium Project.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Dorene Naidu
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… dorenen@spc.int
+  │   │   │   └─Position name…………………………………………………… Library Service Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… roberts@spc.int
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… KI_Betio_NG_0004h_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… KI_Betio_NG_0004h.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, mole extension, nearshore, Betio, Bairiki, Tarawa
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Kiribati
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Restricted
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Description…………………………………………………………………… Coverage of Map Area
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 172°32′24″E
+  │   │       ├─East bound longitude………………………………… 172°34′12″E
+  │   │       ├─South bound latitude………………………………… 0°N
+  │   │       └─North bound latitude………………………………… 0°N
+  │   └─Supplemental information…………………………………………… The work was undertaken as part of the CCOP/SOPAC work programme elements CCSP-1/KI.4 (Surveys for Landfill/Construction Materials) and CCSP-1/KI.5 (Coastal Zone Surveys on Sedimentation, Erosion and Pollution Problems). The Marine Superintendent at Betio has reported possible changes in the shallow areas in the main Betio shipping channel since the major hydrographic survey carried out by H.M. survey ship COOK in 1959. In order to update this survey soundings were made across the width of the main shipping channel from Betio to the western reef entrance.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/CR0063.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Cruise Report 63: Nearshore surveys, Tarawa, Kiribati, 5 November - December 1981.PDF
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://ict.sopac.org/VirLib/NR0018.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Training Reports 0018: CCOP/SOPAC coastal mapping workshop, 7-15 July 1988, Kiribati. pdf
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://ict.sopac.org/VirLib/TR0091.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Technical Report 0091: Nearshore sediment distribution, South Tarawa, Kiribati. pdf
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Process step                         
+  │       │   ├─Description………………………………………………………… Maps were scanned using the magnum G600 Wide format scanner: Scan resolution of optical 600dpi: true colour compatibility; File size: 794MB. Tiff format output.
+  │       │   └─Rationale……………………………………………………………… The SOPAC colllection of maps were scanned to create digital formats of the maps, readily providing historical information to SOPAC Scientist, to support their work and also archive priceless data available within the SOPAC Division.
+  │       └─Source                               
+  │           ├─Description………………………………………………………… These maps was obtained from the hardcopy SOPAC Map collections, produced by the Divisions scientists and obtained from external sources to support marine and oceanographic work done by the Division for over 30 years.
+  │           └─Source spatial resolution        
+  │               └─Equivalent scale             
+  │                   ├─Double value………………………………… �
+  │                   └─Denominator…………………………………… 0
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 23-Jun-2014 16:29:21
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 0262cc85-16b6-4208-b078-09f87401cf3d
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

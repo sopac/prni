@@ -1,0 +1,201 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… FSM, Kosrae, Kosrae Runway, 12 July 1985 Aerial Photographs
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 06-Sep-2011 16:52:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This photoset is a collection of historical black and white aerial photographs that was taken of the Kosrae Runway, in the north-western part of Kosrae Island in the Federated States of Micronesia, acquired in 1985. Coverage is limited to areas that fall around the inland of Okat, Kosrae Airport, Okat channels and outer reef area. The original paper prints have been scanned at a resolution of 1200 DPI on a Magnum G600 Wide format scanner and stored as TIFF format images. The original photographic paper prints are at a scale 1:2,100. The images have been uploaded according to their frame numbers. All 15 photographs have not been rectified. These photoset are held at the SOPAC Secretariat on behalf of the FSM Government.
+  │   ├─Purpose………………………………………………………………………………………… The SOPAC Secretariats aerial photographs is a unique detailed record of the physical landscapes from the different member Pacific Island countries. These photographs can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, engineers and other individuals. These purposes include determination of past land uses, marine mapping, coral reef habitat mapping ( change detection), restoration of natural areas, assessing historical changes , and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Dr Arthur Webb
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… Arthur@sopac.org
+  │   │   │   └─Position name…………………………………………………… Manager, Ocean &  Islands Programme and Coastal Processes Adviser
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… kosrae12july1985.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… kosrae12july1985_small_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Historical Photos, Aerial Photos, Change Detection, Base Map, GIS, Mapping, geography, Digital Image, imageryBaseMapsEarthCover,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Micronesia,Fed States of, Kosrae, Okat
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Intellectual property rights
+  │   │   ├─Use constraints………………………………………………………… Copyright
+  │   │   └─Other constraints…………………………………………………… These aerial photographs is the property of the Goverment of the Federated States of Micronesia and  held at the SOPAC Secretariat member country. Request can be made to the secreatriat via the listed point of contact.
+  │   ├─Spatial representation type…………………………………… Grid
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 158°07′12.36″E
+  │   │       ├─East bound longitude………………………………… 163°02′34.404″E
+  │   │       ├─South bound latitude………………………………… 5°15′42.012″N
+  │   │       └─North bound latitude………………………………… 6°58′39.504″N
+  │   └─Supplemental information…………………………………………… The Kosrae Island of the Federated States of Micronesia is located appropriately, 5degrees 18'50.19"N and 162degrees 58'05.18"E. Kosrae is one of the four states of the Federated States of Micronesia. The Kosrae airport is located in the northern part of the Island approximately 5 degrees 21' 23.73"North and 162 degrees 57'52.89"East.
+  ├─Distribution info                            
+  │   ├─Transfer options (1 of 2)                
+  │   │   ├─On line (1 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (2 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (3 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (4 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (5 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (6 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=&access=private
+  │   │   │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   ├─On line (7 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=95.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 95.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 95, tiff Format
+  │   │   ├─On line (8 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=96.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 96.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 96, tiff Format
+  │   │   ├─On line (9 of 21)                    
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=97.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 97.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 97, tiff Format
+  │   │   ├─On line (10 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=98.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 98.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 98, tiff Format
+  │   │   ├─On line (11 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=99.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 99.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 99, tiff Format
+  │   │   ├─On line (12 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=100.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 100.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 100, tiff Format
+  │   │   ├─On line (13 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=106.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 106.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 106, tiff Format
+  │   │   ├─On line (14 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=107.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 107.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 107, tiff Format
+  │   │   ├─On line (15 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=108.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 108.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 108, tiff Format
+  │   │   ├─On line (16 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=218.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 218.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 218, tiff Format
+  │   │   ├─On line (17 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=219.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 219.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 219, tiff Format
+  │   │   ├─On line (18 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=220.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 220.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 220, tiff Format
+  │   │   ├─On line (19 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=221.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 221.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 221, tiff Format
+  │   │   ├─On line (20 of 21)                   
+  │   │   │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=222.tif&access=private
+  │   │   │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │   │   ├─Name…………………………………………………………………………… 222.tif
+  │   │   │   └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 222, tiff Format
+  │   │   └─On line (21 of 21)                   
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=711&fname=223.tif&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… 223.tif
+  │   │       └─Description………………………………………………………… FSM, Phonpei Runway, 12 July 1985, Frame 223, tiff Format
+  │   └─Transfer options (2 of 2)                
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Black and white panchromatic aerial photographs. Photographs were scanned using the magnum G600 Wide format scanner : Scan resolution of optical 1200dpi: true color Grayscale compatibility; Tiff format output
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Jan-2012 11:46:15
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 2f831fef-4e55-4043-ab52-e630762430cb
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

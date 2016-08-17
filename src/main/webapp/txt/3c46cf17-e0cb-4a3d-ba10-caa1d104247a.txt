@@ -1,0 +1,115 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… WGS 84, UTM Zone , UTM Zone 59 South
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Kiribati, Abaiang Lagoon, 1999, Study for Numerical Circulation Model, Bathymetry dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 19-Oct-1999 10:10:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a high resolution bathymetry data that was collected for Abaiang Atoll , Kiribati in 1999. ¶ The 800 kilometres of high resolution bathymetry data collected is the result of the SOPAC assistance to the Kiribati, Ministry of Natural Resources Development to develop marine resources management plans for Abaiang Atoll. ¶ Five sites were occupied to measure the flow. Three current meters were deployed in five locations during the survey period. Two water level recorders were also deployed to monitor tide .Twenty seven stations in the lagoon were monitored for salinity ,temperature and dissolved oxygen, measured with and turbidity determined with the aid of a secchi disk. Bottom sediments were also taken at each of these locations. For longer term monitoring , six long term temperature loggers were deployed for a period of up to twelve months. ¶ Dataset developed was used to create a hydrodynamic model of the lagoon circulation that models a number of water quality parameters. Data was also used to assist with a survey of coral species , abundance and distribution implemented by the Kiribati Ministry in 1999. ¶ Bathymetry datasets can be downloaded from the appropriate link under Distribution Info with appropriate permission from the Secretariat.
+  │   ├─Credit…………………………………………………………………………………………… Funding support for this study was from New Zealand and Australia
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO Suva,Fj
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Kiribati_LR112_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Kiribati_LR112.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Singlebeam,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Kiribati, Abaiang Lagoon
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 168°E
+  │           ├─East bound longitude………………………………… 148°W
+  │           ├─South bound latitude………………………………… 13°S
+  │           └─North bound latitude………………………………… 7°N
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/LR0112.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Preliminary Report 112, Study for numerical circulation model of Abaiang Lagoon Kiribati, PDF Format
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=578&fname=Depth_space.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… Depth_space.xyz
+  │       │   └─Description………………………………………………………… Kiribati, Abaiang Atoll, Singlebeam ,Bathymetry Dataset,  Format: ascii, tab delimiter, xyz
+  │       └─On line (3 of 3)                     
+  │           └─Protocol………………………………………………………………… OGC:WMS-1.1.1-http-get-map
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Jan-2012 15:44:50
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 3c46cf17-e0cb-4a3d-ba10-caa1d104247a
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

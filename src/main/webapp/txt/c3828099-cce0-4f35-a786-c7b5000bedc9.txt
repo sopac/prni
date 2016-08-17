@@ -1,0 +1,156 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Author
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Manish Singh
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3381377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3370040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─Postal code……………………………………………… Private Mail Bag, GPO
+  │   │   │       ├─Country………………………………………………………… Fiji
+  │   │   │       └─Electronic mail address……………… geonetwork.sopac.org
+  │   │   └─Position name……………………………………………………………… Intern
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Axis dimension properties (1 of 2)       
+  │   │   └─Dimension name…………………………………………………………… Row
+  │   ├─Axis dimension properties (2 of 2)       
+  │   │   └─Dimension name…………………………………………………………… Row
+  │   ├─Cell geometry………………………………………………………………………… Point
+  │   ├─Transformation parameter availability………… false
+  │   ├─Control point availability……………………………………… false
+  │   └─Orientation parameter availability………………… false
+  ├─Reference system info……………………………………………………………… Not georeferenced
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Solomon Islands, New Georgia Sound, Sheet 14, 1993, Acoustic Imagery Map
+  │   │   ├─Alternate title………………………………………………………… SOPAC reference code: SB_New_Georgia_Sound_Sheet_14_AC_0006ba.tiff
+  │   │   ├─Date (1 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 08-Jul-2011 08:25:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Date (2 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 06-Sep-1993 00:00:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a Acoustic Imagery map, Sheet 14 of New Georgia Sound in the Solomon Islands. Survey was conducted by R/V L'Atalante under the SOPACMAP project, to gain an accurate and reliable assessment of the potential living and non-living resources of selected areas of the ocean floor within the EEZs of Fiji, Solomon Islands, Tuvalu and Vanuatu. A copy of the map can be downloaded by selecting the appropriate link under 'Online resources' with permission from the Secretariat.
+  │   ├─Credit…………………………………………………………………………………………… Map was digitised with the support of the SOPAC Compendium Project.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kata Duaibe
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… kata@sopac.org
+  │   │   │   └─Position name…………………………………………………… Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_New_Georgia_Sound_Sheet_14_AC_0006ba_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_New_Georgia_Sound_Sheet_14_AC_0006ba.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… ocean, acoustic imagery, Backscatter Imagery, Magnetic, Navigation, Bathymetry, Gravity
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Solomon Islands, Central Solomon Trough, New Georgia Sound
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Restricted
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Description…………………………………………………………………… Coverage of Map Area
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 156°18′E
+  │   │       ├─East bound longitude………………………………… 157°18′E
+  │   │       ├─South bound latitude………………………………… 8°18′S
+  │   │       └─North bound latitude………………………………… 7°S
+  │   └─Supplemental information…………………………………………… Complete scientific study with interpretative maps and geological reports, acoustic side scan imagery and multi-beam bathymetric profiles of the seafloor were needed in the project, along with high resolution 3.5 khz sub-bottom profiles, single channel seismic reflection, gravity and magnetic data. These data and images had to be fully processed and co-registered on mosaics.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://ict.sopac.org/VirLib/TR0192.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Technical Report 192, SOPACMAPS Project, Final Report, Central Solomon Trough, PDF Format
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://ict.sopac.org.fj/VirLib/MR0278.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Miscellaneous Report 0278, SOPACMAPS Project; Short Report, PDF Format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/LR0062.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Preliminary Report 0062, SOPACMAPS Project, Leg 2, PDF Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Process step                         
+  │       │   ├─Description………………………………………………………… Maps were scanned using the magnum G600 Wide format scanner: Scan resolution of optical 600dpi: true colour compatibility; Tiff format output.
+  │       │   └─Rationale……………………………………………………………… The SOPAC colllection of maps were scanned to create digital formats of the maps, readily providing historical information to SOPAC Scientist, to support their work and also archive priceless data available within the SOPAC Division.
+  │       └─Source                               
+  │           ├─Description………………………………………………………… These maps was obtained from the hardcopy SOPAC Map collections, produced by the Divisions scientists and obtained from external sources to support marine and oceanographic work done by the Division for over 30 years.
+  │           └─Source spatial resolution        
+  │               └─Equivalent scale             
+  │                   ├─Double value………………………………… �
+  │                   └─Denominator…………………………………… 0
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 10-Jul-2014 12:25:44
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… c3828099-cce0-4f35-a786-c7b5000bedc9
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

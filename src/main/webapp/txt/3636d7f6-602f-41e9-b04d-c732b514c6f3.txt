@@ -1,0 +1,145 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Number of dimensions……………………………………………………… 3
+  │   ├─Axis dimension properties (1 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Row
+  │   │   └─Dimension size…………………………………………………………… 865
+  │   ├─Axis dimension properties (2 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Column
+  │   │   └─Dimension size…………………………………………………………… 597
+  │   ├─Axis dimension properties (3 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Sample
+  │   │   └─Dimension size…………………………………………………………… 24
+  │   ├─Cell geometry………………………………………………………………………… Area
+  │   └─Transformation parameter availability………… false
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Tonga, Tongatapu's Fanga'uta Lagoon, Single Beam Bathymetry Survey
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 19-Nov-2003 13:54:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   ├─Edition……………………………………………………………………………… 2004
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… A single beam bathymetry survey was carried out in Tongatapu's Fanga'uta lagoon. Where an Echotrac paper plotter was used to collect single beam bathymetry data for the whole lagoon. A small boat carrying the equipment was used, where it followed drawn lines in Hypack max software at 200m intervals, each line was numbered and data was recorded according to the line surveyed. This work was initiated by the SOPAC/EU Reducing Vulnerability of Pacific ACP States Project
+  │   ├─Purpose………………………………………………………………………………………… The purpose of the survey was to understand the marine movement in the lagoon, which can help understand the dynamics that occur within the lagoon, from coastal erosion and flushing rates.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kruger, Jens
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kumar, Salesh
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… salesh@sopac.org
+  │   │   │   └─Position name…………………………………………………… Technical Officer EU EDF Project
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… fanga-Uta-lagoon_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… fanga-Uta-lagoon.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Single Beam Line survey
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Tonga
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 175°21′36″W
+  │   │       ├─East bound longitude………………………………… 173°54′24.588″W
+  │   │       ├─South bound latitude………………………………… 21°16′05.016″S
+  │   │       └─North bound latitude………………………………… 18°34′05.016″S
+  │   └─Supplemental information…………………………………………… The Echotrac paper feeder was used to record bathymetry data from a single beam transducer. Where both hard and digital copies of the incoming data is collected at real time. ¶  ¶ A smaller Triton Acoustic Doppler was used to monitor water movement within the Fanga'uta lagoon where it was placed in a number of locations during the single beam survey.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 2)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=84&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (2 of 2)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=84&fname=&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           └─Description………………………………………………………… Tongatapu's Bathymetry Chart
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Refer to Multibeam and Marine survey of Tonga, Tongatapu and Niuafo'ou islands Report (tonga_tr_marine_report)
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 25-Jan-2012 12:40:29
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 3636d7f6-602f-41e9-b04d-c732b514c6f3
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

@@ -1,0 +1,145 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Number of dimensions……………………………………………………… 2
+  │   ├─Axis dimension properties (1 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Row
+  │   │   └─Dimension size…………………………………………………………… 3,294
+  │   ├─Axis dimension properties (2 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Column
+  │   │   └─Dimension size…………………………………………………………… 3,432
+  │   ├─Axis dimension properties (3 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Sample
+  │   │   └─Dimension size…………………………………………………………… 24
+  │   ├─Cell geometry………………………………………………………………………… Area
+  │   └─Transformation parameter availability………… false
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Vanuatu High-Resolution Bathymetry Survey Technical Report (ER110)
+  │   │   ├─Alternate title………………………………………………………… ER110, Final Report (ER110)
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 25-Oct-2006 11:22:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Edition……………………………………………………………………………… 2006
+  │   │   └─Presentation form…………………………………………………… Document digital
+  │   ├─Abstract……………………………………………………………………………………… This report describes a high-resolution bathymetric mapping survey of the seabed surrounding the island of Efate in Vanuatu, by the Pacific Islands Applied Geoscience Commission ¶ (SOPAC). The survey was carried out over a period of 25 ¶ days in August 2003, resulting in the acquisition of over 600 line kilometres of MBES data. ¶ The resultant compilation was used to produce ¶ bathymetry charts of Efate at scales of 1 : 100 000 and 1 : 50 000, with more detailed charts of ¶ Mele Bay, Forari Bay and Havannah Bay at 1 : 20 000. ¶ Upon approval from the secretariat, the report can be downloaded by selecting the appropriate link under online resources and the charts can be downloaded from their separate metadata entries. ¶ This work was initiated by the SOPAC/EU project ‘Reducing Vulnerability of Pacific ¶ ACP States’, which called for an investigation of the nearshore seabed around the island of ¶ Efate using a multibeam echosounder (MBES).
+  │   ├─Purpose………………………………………………………………………………………… To give a descriptive picture of the ocean bottom terrain, vividly revealing the size, shape and distribution of underwater features, and serve as the basic tool for scientific, engineering, marine geophysical and environmental studies, as well as marine and coastal ¶ resource management.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kruger, Jens
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Sharma, Ashishika
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… ashishika@sopac.org
+  │   │   │   └─Position name…………………………………………………… Technical Officer EU EDF Project
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Screenshot-Efate_bathy_1to100_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Screenshot-Efate_bathy_1to100.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Vanuatu
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… None
+  │   ├─Spatial representation type…………………………………… Grid
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 166°31′17.904″E
+  │   │       ├─East bound longitude………………………………… 169°53′37.896″E
+  │   │       ├─South bound latitude………………………………… 20°15′15.012″S
+  │   │       └─North bound latitude………………………………… 13°42′25.992″S
+  │   └─Supplemental information…………………………………………… The dominant seafloor feature in Vanuatu's EEZ is the NNW-SSE trending Vanuatu Trench (New Hebrides Trench). The 7000 m-deep trench is the seafloor expression of the eastward dipping subduction zone which marks the present-day boundary between the Indo-Australian plate to the west, and the microplate of the North Fiji Basin to the east.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       └─On line                              
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=58&fname=ER110.pdf&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… ER110.pdf
+  │           └─Description………………………………………………………… Vanuatu, High resolution bathymetry survey, Technical Report ER110 ; PDF format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Bathymetric data are GEBCO and Smith and Sandwell (1997) predicted water depths in metres (S2004 1-minute grid as described in Marks and Smith, 2006).
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 11-Jun-2013 13:01:14
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 57ad365f-572f-45b6-bfe5-4fbba4ce5c94
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

@@ -1,0 +1,157 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Author
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Rave Tiuhea
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3381377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3370040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─Postal code……………………………………………… Private Mail Bag, GPO
+  │   │   │       ├─Country………………………………………………………… Fiji
+  │   │   │       └─Electronic mail address……………… SOPACGeonetwork@spc.int
+  │   │   └─Position name……………………………………………………………… Compendium Project Assistant
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Axis dimension properties (1 of 2)       
+  │   │   └─Dimension name…………………………………………………………… Row
+  │   ├─Axis dimension properties (2 of 2)       
+  │   │   └─Dimension name…………………………………………………………… Row
+  │   ├─Cell geometry………………………………………………………………………… Point
+  │   ├─Transformation parameter availability………… false
+  │   ├─Control point availability……………………………………… false
+  │   └─Orientation parameter availability………………… false
+  ├─Reference system info……………………………………………………………… Not georeferenced
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Solomon Islands, San Jorge, 1982, Chromite Sand Survey Grab Sample Position and Sediment Distribution Map
+  │   │   ├─Alternate title (1 of 2)………………………………… SOPAC Reference Code: SB_San_Jorge_Island_MISC_0004b.tif
+  │   │   ├─Alternate title (2 of 2)………………………………… San Jorge Chromite Sand Survey, Figure 5
+  │   │   ├─Date (1 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 23-Apr-1983 12:34:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Date (2 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 15-Jul-2011 00:00:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a Chromite Sand Survey Grab Sample Position and Sediment Distribution Map, Figure 5, Northeastern Area of San Jorge Island in Solomon Islands. The is part of a marine geophysical and sea bed sampling survey, Cruise SI-82-1, undertaken in 9-29 July 1982 around San Jorge Island, Santa Isabel Province, Solomon Islands by UNDP staff and assisted by personnel from the Ministry of Lands, Energy and Natural Resources, Honiara. The survey was conducted as part of the CCOP/SOPAC work programme CCSP-l/SI.16 (Evaluation of Heavy Mineral Sands in the San Jorge Island and Southeast Santa Isabel Near shore Areas) by an inter-island cargo boat, the Ligomo II, chartered for the work by the Geological Survey. A copy of the map can be downloaded by selecting the appropriate link under 'Online resources' with permission from the Secretariat.
+  │   ├─Credit…………………………………………………………………………………………… Map was digitised with the support of the SOPAC Compendium Project.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kata Duaibe
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… kata@sopac.org
+  │   │   │   └─Position name…………………………………………………… Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Adviser Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_San_Jorge_Island_MISC_0004b_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_San_Jorge_Island_MISC_0004b.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Chromite Sand Survey Grab Sample Position, Sediment Distribution Map, Grab, sand, silt, coastline, reef, rivers, heavy mineral, sediments, sea bed, bedrock
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… San Jorge, Ortega Channel, Taselao, Thousand Ships Bay, Solomon Islands
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Restricted
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Description…………………………………………………………………… Coverage of Map Area
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 155°22′12″E
+  │   │       ├─East bound longitude………………………………… 159°27′E
+  │   │       ├─South bound latitude………………………………… 8°17′24″S
+  │   │       └─North bound latitude………………………………… 8°13′12″S
+  │   └─Supplemental information…………………………………………… Coastline, reef and rivers have been enlarged from Solomon Islands 1:50 000 series X711 (D.O.S. 456) topographic maps. Grid is U.T.M.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/CR0066.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Cruise Report 66, San Jorge heavy mineral sands survey, Solomon Islands, Cruise SI-82-1, 9 - 29 July 1982, PDF Format
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1361&fname=&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   └─Description………………………………………………………… <Map for download> (click to download)
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1361&fname=&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           └─Description………………………………………………………… <Chart for download> (click to download)
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Process step                         
+  │       │   ├─Description………………………………………………………… Maps were scanned using the magnum G600 Wide format scanner: Scan resolution of optical 300dpi: true colour compatibility; Tif format output.
+  │       │   └─Rationale……………………………………………………………… The SOPAC colllection of maps were scanned to create digital formats of the maps, readily providing historical information to SOPAC Scientist, to support their work and also archive priceless data available within the SOPAC Division.
+  │       └─Source                               
+  │           ├─Description………………………………………………………… These maps was obtained from the hardcopy SOPAC Map collections, produced by the Divisions scientists and obtained from external sources to support marine and oceanographic work done by the Division for over 30 years.
+  │           └─Source spatial resolution        
+  │               └─Equivalent scale             
+  │                   ├─Double value………………………………… �
+  │                   └─Denominator…………………………………… 0
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 28-Apr-2015 11:23:44
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 46891b1c-ce5a-43ce-846d-9e6b4647477b
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

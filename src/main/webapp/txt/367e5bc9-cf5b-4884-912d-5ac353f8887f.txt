@@ -1,0 +1,123 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 54 South, WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Papua New Guinea - Sissano Bathymetry Chart 1 : 50 000
+  │   │   ├─Date                                 
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… High-resolution swath mapping, using multibeam echo sounder was used to delineate the seabed morphology around Sissano.The resultant data was used to produce bathymetry charts and the Sissano Bathymetry chart is available for download from its appropriate link under Distribution Info. This work was initiated by the Pacific Islands Applied Geoscience Commission (SOPAC) and the European Union (EU) Reducing Vulnerability of Pacific ACP States Project.
+  │   ├─Purpose………………………………………………………………………………………… The objective of the survey was to investigate the seabed and provide information about water depths in the coastal areas using a Multibeam echosounder (MBES). ¶  ¶ Bathymetry maps/ charts should provide information about water depths around the islands. These new bathymetric maps should also give a descriptive picture of the ocean bottom terrain, vividly revealing the size, shape and distribution of underwater features. They can serve as the basic tool for scientific, engineering, marine geophysical and environmental studies, as well as marine and coastal resource management.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Jens Kruger
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… sissano_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… sissano.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Multibeam Echo Sounder Survey, EEZ
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Papua New Guinea, Sissano
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints (1 of 2)………………………………… Intellectual property rights
+  │   │   ├─Use constraints (2 of 2)………………………………… Restricted
+  │   │   └─Other constraints…………………………………………………… Accebility to Chart: Charts are available on request for download from the SOPAC Secretariat via the listed SOPAC Geonetwork contact
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 140°51′31.896″E
+  │   │       ├─East bound longitude………………………………… 155°58′00.624″E
+  │   │       ├─South bound latitude………………………………… 11°38′33″S
+  │   │       └─North bound latitude………………………………… 1°21′19.008″S
+  │   └─Supplemental information…………………………………………… SUMMARY OF SEABED AROUND SISSANO ¶ Sissano is located approximately 142.07 degrees East and 2.016 degrees South, of the Northern end of Papua New Guinea. ¶ The sea floor offshore Sissano is quite featureless except for the two canyons. For around 10 km offshore the seafloor stays almost flat with an average slope angle of around 3o (Figure ¶ 13). The water depth within this area is around 100 m. A canyon originates at approximately 3km to the north of Yalingi River, in water depths of around 200 m. This canyon runs northeast for approximately 3 km and then trends in the north northeast direction. Numerous slump features are visible on either side of the canyon, with few small seamounts on the edge of the canyon which have partly succumbed to the slumping. A second much smaller canyon was mapped at about 6 km to the north of Raihu River. This canyon originates in about 100 m water depth, runs approximately about 2 km northeast, then trends north and levels off in about 700 m water depth. Few smaller canyons are seen to the ¶ west of this canyon.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=145&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=145&fname=readme.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… readme.pdf
+  │       │   └─Description………………………………………………………… PNG - Survey Summary Report, PDF Format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=145&fname=sissano_bathy_1to50000_a0_chart.pdf&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… sissano_bathy_1to50000_a0_chart.pdf
+  │           └─Description………………………………………………………… Papua New Guinea, Sissano Bathymetry Chart,1 : 50 000, PDF Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Statement………………………………………………………………………… The charts are drawn at a scale of 1:50 000 with contour intervals varying from 10 to 100m depending on water depth and seabed terrain. Chart also include additional MBES data that was available in the public domain. These included small inserts of a three dimentional perspective image of Sissano looking south, shaded relief map and a gradient slope angle map of Sissano.
+  │       └─Process step                         
+  │           ├─Description………………………………………………………… MAP PRODUCTION SEQUENCE: Input XYZ outpaut data from Hypack reduced to 1 mm at charting scale (e.g 50m grid size for a chart at 1 :50 000 SURFACE MODEL: XYZ output data were gridded using Kriging method in surfer 8.05. data gaps were interpolated using three times the grid spacing. OUTPUT: DXF contours , PDF chart, backdrop images, and DTM model in the project coordinate system
+  │           └─Rationale……………………………………………………………… various levels of smoothing were applied to the contours and DTM, which gave a realistic impression of the seabed without removing any real features from the dataset
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 10-Jan-2012 11:06:08
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 367e5bc9-cf5b-4884-912d-5ac353f8887f
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

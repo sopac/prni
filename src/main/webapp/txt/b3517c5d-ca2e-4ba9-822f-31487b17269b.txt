@@ -1,0 +1,154 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Author
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Manish Singh
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3381377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3370040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─Postal code……………………………………………… Private Mail Bag, GPO
+  │   │   │       ├─Country………………………………………………………… Fiji
+  │   │   │       └─Electronic mail address……………… geonetwork.sopac.org
+  │   │   └─Position name……………………………………………………………… Intern
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Axis dimension properties (1 of 2)       
+  │   │   └─Dimension name…………………………………………………………… Row
+  │   ├─Axis dimension properties (2 of 2)       
+  │   │   └─Dimension name…………………………………………………………… Row
+  │   ├─Cell geometry………………………………………………………………………… Point
+  │   ├─Transformation parameter availability………… false
+  │   ├─Control point availability……………………………………… false
+  │   └─Orientation parameter availability………………… false
+  ├─Reference system info……………………………………………………………… Not georeferenced
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Solomon Islands, Melanesian Arc Gap Area, Sheet 7, 1993, Navigation Map
+  │   │   ├─Alternate title (1 of 2)………………………………… SOPAC reference code: SB_ Melanesian_Arc_Gap_NG_0020d.tif
+  │   │   ├─Alternate title (2 of 2)………………………………… SOPACMAPS, Leg 2, Sheet 7
+  │   │   ├─Date (1 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 19-Sep-2013 15:53:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Date (2 of 2)                        
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a Navigation Map, Sheet 7 of Melanesian Arc Gap Area in Solomon Islands. The map is part of the SOPACMAPS [Project Sheets 1-25] collection produced for the SOPACMAPS Project Leg 2 cruise that was conducted by the oceanographical research vessel L'Atalante in September 9, 1993. Prior to the at-sea operations, a sheet assemblage (at 1/250,000 scale) was established and used during the survey and for the processing of the first set of charts. The swath mapping project was funded by the EEC (Lome III - European Development Fund No 6) known as SOPACMAPS, and was awarded to IFREMER. A copy of the map can be downloaded by selecting the appropriate link under 'Online resources' from this record with permission from the Secretariat.
+  │   ├─Credit…………………………………………………………………………………………… Map was digitised with the support of the SOPAC Compendium Project.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Dorene Naidu
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… dorenen@spc.int
+  │   │   │   └─Position name…………………………………………………… Library Services Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… roberts@spc.int
+  │   │   │   └─Position name…………………………………………………… Senior Adviser Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… ocean, underwater, isobathes, navigation, SOPACMAPS Leg 2, L'Atalante, IFREMER
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Solomon Islands, South West Pacific, melanesian Arc Gap Area, Tinakula Island, Nukapu Island, Nupani Island
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Restricted
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Description…………………………………………………………………… Coverage of Map Area
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 165°E
+  │   │       ├─East bound longitude………………………………… 167°18′E
+  │   │       ├─South bound latitude………………………………… 10°09′S
+  │   │       └─North bound latitude………………………………… 8°27′N
+  │   └─Supplemental information…………………………………………… SOPACMAPS Leg 2, Cruise ID: AL9302, Project: Swath mapping areas of seafloor, Chiefs Scientist: Jean-Marie Auzende, Institutions: EEC, ORSTOM, IFREMER. The Solomon Islands Arc ends abruptly northeast of San Cristobal Island. The far north of the New Hebrides Island Arc is also sharply interrupted northwards and westwards at the Reef Islands and Tinakula volcano. Between those two arcs, lies a basin with an average depth of 4,000 m, apparently unnamed, although its western part is occasionaly named Ulawa Deep, from the name of the Ulawa Island, north of San Cristobal. We propose naming this region the "Melanesian Arc Gap"
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://ict.sopac.org/VirLib/TR0195.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Technical Report 0195, SOPACMAPS Project, Final Report, Melanesian Arc gap, PDF Format
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://ict.sopac.org.fj/VirLib/MR0278.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Miscellaneous Report 0278, SOPACMAPS Project; Short Report, PDF Format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/LR0062.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Preliminary Report 0062, SOPACMAPS Project, Leg 2, PDF Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Process step                         
+  │       │   ├─Description………………………………………………………… Maps were scanned using the magnum G600 Wide format scanner: Scan resolution of optical 600dpi: true colour compatibility; Tiff format output.
+  │       │   └─Rationale……………………………………………………………… The SOPAC colllection of maps were scanned to create digital formats of the maps, readily providing historical information to SOPAC Scientist, to support their work and also archive priceless data available within the SOPAC Division.
+  │       └─Source                               
+  │           ├─Description………………………………………………………… These maps was obtained from the hardcopy SOPAC Map collections, produced by the Divisions scientists and obtained from external sources to support marine and oceanographic work done by the Division for over 30 years.
+  │           └─Source spatial resolution        
+  │               └─Equivalent scale             
+  │                   ├─Double value………………………………… �
+  │                   └─Denominator…………………………………… 0
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 04-Feb-2014 12:50:52
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… b3517c5d-ca2e-4ba9-822f-31487b17269b
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

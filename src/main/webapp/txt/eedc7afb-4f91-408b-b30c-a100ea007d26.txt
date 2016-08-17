@@ -1,0 +1,243 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Reference system info (1 of 2)……………………………………… Time Zone: UTC, Vertical Reference Frame: MSLT, TGBM Name/Number: +/-2mm, TGBM Elevation relative to the vertical reference: Geodetic Datum of Australia (GDA94)
+  ├─Reference system info (2 of 2)……………………………………… Unnamed
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Papua New Guinea Sea Level Information
+  │   │   ├─Alternate title (1 of 2)………………………………… South Pacific Sea Level & Climate Monitoring Project
+  │   │   ├─Alternate title (2 of 2)………………………………… Station Number: BoM=200862 ATT=5613 WMO=92036
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 03-Feb-2011 14:44:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Table digital
+  │   ├─Abstract……………………………………………………………………………………… In September 1994, a SEAFRAME (Sea Level Fine Resolution Acoustic Measuring Equipment) gauge was installed in Manus Island, Papua New Guinea. Information recorded from the gauge, is held in this record and provided in the form of Yearly Reports, Tide Prediction Calendars and Hourly Sea Level and meteorological data from the Manus - Lombrum station. This is downloadable from the Distribution Info Section of this metadata record and dataset available in digital text format.Aside from a ten month interval when the wharf was being refurbished, the gauge has been returning high resolution, good scientific quality data since installation.SEAFRAME gauges not only measure sea level by two independent means, but also a number of "ancillary" variables - air and water temperatures, wind speed, wind direction and atmospheric pressure. This is part of the AusAID-sponsored South Pacific Sea Level and Climate Monitoring Project ("Pacific Project") for the FORUM region, in response to concerns raised by its member countries over the potential impacts of an enhanced Greenhouse Effect on climate and sea levels in the South Pacific region. Project Implementation partners include Australian Bureau of Meteorology , National Tide Center, National Climate Center, Geoscience Australia and SPC ,SOPAC Division.
+  │   ├─Purpose………………………………………………………………………………………… To monitor changes in sea level and climate in the Pacific. The SPSLCMP project information is a unique detailed record of Tide predictions and Meteorological information from the different member Pacific Island countries. These information can be used for diverse purposes by boats, fishermen, government agencies, surveyors, planners, consulting scientists, environmental engineers and other individuals. These purposes include navigation purposes in shallow and narrow ports and intra-coastal waterways, improving fish catches , planning coastal rehabilitation, construction projects, recreation purposes such as catching big waves for surfers and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact (1 of 3)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Delaine Tagaloa Cooper
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… Tagaloa@sopac.org
+  │   │   │   └─Position name…………………………………………………… Regional Communications & Coordination Advisor - SPSLCMP
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 3)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Bill Mitchell
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +618 8366 2710
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +618 8366 2651
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 25 College Rd, Kent Town, South Australia
+  │   │   │   │       ├─City……………………………………………………… Adelaide 5001
+  │   │   │   │       ├─Postal code…………………………………… P. O. Box 421, Kent Town, SA 5067.
+  │   │   │   │       ├─Country……………………………………………… Australia
+  │   │   │   │       └─Electronic mail address…… b.mitchell@bom.gov.au
+  │   │   │   └─Position name…………………………………………………… Director
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… National Tidal Facility Australia
+  │   ├─Point of contact (3 of 3)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Bob Twilley
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +612 6249 9066
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +612 6249 9929
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Cnr Jerrabomberra Ave & Hindmarsh Drive, Narrabundah, Canberra.
+  │   │   │   │       ├─City……………………………………………………… Canberra
+  │   │   │   │       ├─Postal code…………………………………… GPO Box 378, Canberra ACT 2601
+  │   │   │   │       ├─Country……………………………………………… Australia
+  │   │   │   │       └─Electronic mail address…… Bob.Twilley@ga.gov.au
+  │   │   │   └─Position name…………………………………………………… GNSS Networks Manager
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… National Geospatial Reference Systems, Geoscience Australia Earth Monitoring Division
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… 1_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… 1.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Sea level and climate change in Papua New Guinea, Marine, oceanography, water
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Papua New Guinea, Manus, Lombrum
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… None
+  │   ├─Spatial representation type…………………………………… Text table
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Climatology meteorology atmosphere
+  │   ├─Extent                                   
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 140°51′31.896″E
+  │   │       ├─East bound longitude………………………………… 155°58′00.624″E
+  │   │       ├─South bound latitude………………………………… 11°38′33″S
+  │   │       └─North bound latitude………………………………… 1°21′19.008″S
+  │   └─Supplemental information…………………………………………… Station Location: PNG, Manus, Lombrum,  Height of Seaframe Sensor Bench Mark above Tide Gauge Zero -4.5813, Latitude -  02° 02' 10" S, Longitude - 147° 22' 31" E. ¶  ¶ Tide gauges measures relative sea level change, i.e., the change in sea level relative to the tide gauge, which is connected to the land. ¶ SEAFRAME location: Papua New Guinea; ¶ Minimum recorded air temperature (degrees C): 21.5; Maximum recorded air temperature (degrees C): 31.8.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_report_IDO60029.2010.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_report_IDO60029.2010.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Pacific Country Report 2010, PDF Format
+  │       ├─On line (2 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=png_Report_2009.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… png_Report_2009.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Pacific Country Report 2009, PDF Format
+  │       ├─On line (3 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=png_report_2008.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… png_report_2008.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Pacific Country Report 2008, PDF Format
+  │       ├─On line (4 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG.2007.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG.2007.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Pacific Country Report 2007,  PDF Format
+  │       ├─On line (5 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=pn2006cr.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… pn2006cr.pdf
+  │       │   ├─Description………………………………………………………… Papua New Guinea Pacific Country Report 2006, PDF Format
+  │       │   └─Function………………………………………………………………… Download
+  │       ├─On line (6 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_Lombrum_TC_2013_IDO60042.2013.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_Lombrum_TC_2013_IDO60042.2013.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Lombrum 2013, PDF Format
+  │       ├─On line (7 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_Tide_Calendar_IDO60042.2012.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_Tide_Calendar_IDO60042.2012.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Lombrum 2012, PDF Format
+  │       ├─On line (8 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_Lombrum_TC2011.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_Lombrum_TC2011.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Lombrum 2011, PDF Format
+  │       ├─On line (9 of 18)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=png_lombrum_tidecal_2010.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… png_lombrum_tidecal_2010.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Lombrum 2010, PDF Format
+  │       ├─On line (10 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=pn09cal.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… pn09cal.pdf
+  │       │   ├─Description………………………………………………………… Papua New Guinea Tide Calendar - Lombrum 2009, PDF Format
+  │       │   └─Function………………………………………………………………… Download
+  │       ├─On line (11 of 18)                   
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_Port Moresby_TC_IDO60041.2013.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Port Moresby 2013, PDF Format
+  │       ├─On line (12 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_Port_Moresby_TideCalendar_IDO60041.2012.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_Port_Moresby_TideCalendar_IDO60041.2012.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Port Moresby 2012, PDF Format
+  │       ├─On line (13 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=png_portmoresby_tidecalendar_2011.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… png_portmoresby_tidecalendar_2011.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Port Moresby 2011, PDF Format
+  │       ├─On line (14 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=png_portmoresby_tidecale_2010.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… png_portmoresby_tidecale_2010.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea Tide Calendar - Port Moresby 2010, PDF Format
+  │       ├─On line (15 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=pm09cal.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… pm09cal.pdf
+  │       │   ├─Description………………………………………………………… Papua New Guinea Tide Calendar - Port Moresby 2009, PDF Format
+  │       │   └─Function………………………………………………………………… Download
+  │       ├─On line (16 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_sea_level_data_1994_2014_April.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_sea_level_data_1994_2014_April.zip
+  │       │   ├─Description………………………………………………………… PNG,  -Manus & Lombrum ,Seal Level Data from 1993 to 2014 ,Format csv files in Zip archive
+  │       │   └─Function………………………………………………………………… Download
+  │       ├─On line (17 of 18)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=35&fname=PNG_Pacific_metadata_2010.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… PNG_Pacific_metadata_2010.pdf
+  │       │   └─Description………………………………………………………… Papua New Guinea, Metadata for Tidal Data Exchange, Dec 2010, PDF format
+  │       └─On line (18 of 18)                   
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… SPSLCMP_file Information and Instruction.pdf
+  │           └─Description………………………………………………………… SPSLCMP File information and Instructions, PDF Format
+  ├─Data quality info (1 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Refer to Papua New Guinea Pacific Country Report. ¶ Hourly Data are presented in Comma Separated Variable (.csv) format which is compatible with use in a spreadsheet such as MS Excel.
+  ├─Data quality info (2 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… ERRORS in the DATA: The data has an error value assigned to values that are either missing or erroneous. 1. This value is -9999 and should be removed before generating a chart. 2. To do this, once you have opened the .csv file select the whole of the spreadsheet by clicking on the top left cell. You may also just select the column of data that you want to chart. 3. You must then find and replace all error values (-9999), to do this click on edit in the toolbar and select replace. In the "find what" box type "-9999" and leave the "replace with" box blank. Click on "replace all" to replace all error values with a blank cell or on "replace" to replace one cell at a time. *Note that if you have opened the file from the table and not saved it to your computer then you will be prompted to save the changes. You will need to specify where to save the file. If you wish to save formatting changes and Charts, you will need to specify "Microsoft Excel Workbook (*.xls) in the "Save as type:" box.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 14-Apr-2014 16:08:18
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… eedc7afb-4f91-408b-b30c-a100ea007d26
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

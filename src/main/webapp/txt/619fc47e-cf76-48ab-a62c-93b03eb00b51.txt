@@ -1,0 +1,146 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Author
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Amali Shaw
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3381377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3370040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─Postal code……………………………………………… Private Mail Bag, GPO
+  │   │   │       ├─Country………………………………………………………… Fiji
+  │   │   │       └─Electronic mail address……………… geonetwork@sopac.org
+  │   │   └─Position name……………………………………………………………… Intern
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Reference system info……………………………………………………………… Not georeferenced
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Fiji Islands, Northern North Fiji Basin, 1987, Bathymetry Maps
+  │   │   ├─Alternate title (1 of 2)………………………………… SOPAC reference code: FJ_Northern_North_Fiji_Basin_BA_0002e.tif
+  │   │   ├─Alternate title (2 of 2)………………………………… SOPAC Reference Code: FJ_Northern_North_Fiji_Basin_BA_0012c
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 07-Dec-2011 00:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a series of bathymetric maps of the Northern North Fiji Basin in the Fiji Islands. Map was produced from the scientific cruise SO-35 (Sonne Cruise) conducted between December 6th 1984 to February 6th 1985. The cruise investigated 2 areas in the Lau Basin and 2 in the North Fiji Basin. The contour intervals ranges from 1700m to 3800m. ¶ Attached in this record are 2 different representations of bathymetric maps of the Northern North Fiji Basin. ¶  ¶  ¶ A copy of the map can be downloaded by selecting the appropriate link under 'Online resources' with permission from the Secretariat.
+  │   ├─Credit…………………………………………………………………………………………… Map was digitised with the support of the SOPAC Compendium Project.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Dorene Naidu
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… dorene@sopac.org
+  │   │   │   └─Position name…………………………………………………… Library Services Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… FJ_Northern_North_Fiji_Basin_BA_0002e_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… FJ_Northern_North_Fiji_Basin_BA_0002e.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, seabeam, sounding, sonne cruise, SO35, sonne 35 cruise
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… fiji islands, north fiji basin, northern north fiji basin,
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Restricted
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Description…………………………………………………………………… northern north fiji basin
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 176°33′E
+  │   │       ├─East bound longitude………………………………… 177°15′E
+  │   │       ├─South bound latitude………………………………… 15°09′S
+  │   │       └─North bound latitude………………………………… 13°30′S
+  │   └─Supplemental information…………………………………………… In the North Fiji Basin fresh basalt occurs along a narrow valley interpreted as a leaky transform fault. Oxide and sulfide hydrothermal mineralization is ¶ found associated with the young volcanics of ¶ both basins. (Lau basin and North Fiji Basin)The North Fiji Basin is located in the convergence zone between the Pacific and Austral- India Plates. It lies between 2 subduction zones with opposite and convergent polarities, the Tonga zone to the east and the Vanuatu zone to the west.These 2 subduction zones are linked to each other by fault zones one of which the Hunter Fracture Zone constitutes the southern boundary of the basin.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/PS0015.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Proceedings Report 15. Proceedings of the fifteenth session, Rarotonga, Cook Islands, 5-13 September 1986 . PDF Format
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TB0008.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Technical Bulletin Report 8. Geology and submarine resources of the Tonga-Lau-Fiji region . PDF Format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1628&fname=FJ_Northern_North_Fiji_Basin_BA_0012c.jpg&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… FJ_Northern_North_Fiji_Basin_BA_0012c.jpg
+  │           └─Description………………………………………………………… 12c) Bathymetric Map of the Northern North Fiji Basin
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Process step                         
+  │       │   ├─Description………………………………………………………… Maps were scanned using the magnum G600 Wide format scanner: Scan resolution of optical 600dpi: true colour compatibility; file size: 466MB, 517MB; Tiff format output.
+  │       │   └─Rationale……………………………………………………………… The SOPAC colllection of maps were scanned to create digital formats of the maps, readily providing historical information to SOPAC Scientist, to support their work and also archive priceless data available within the SOPAC Division.
+  │       └─Source                               
+  │           ├─Description………………………………………………………… These maps was obtained from the hardcopy SOPAC Map collections, produced by the Divisions scientists and obtained from external sources to support marine and oceanographic work done by the Division for over 30 years.
+  │           └─Source spatial resolution        
+  │               └─Equivalent scale             
+  │                   ├─Double value………………………………… �
+  │                   └─Denominator…………………………………… 0
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 24-May-2013 12:09:34
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 619fc47e-cf76-48ab-a62c-93b03eb00b51
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

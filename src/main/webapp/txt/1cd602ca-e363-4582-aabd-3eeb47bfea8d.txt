@@ -1,0 +1,136 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Cook Is, Rarotonga, 1987 - 1991, Wave Energy Data
+  │   │   ├─Date (1 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 04-May-2011 00:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Date (2 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 01-Jan-1993 00:00:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   ├─Presentation form (1 of 2)…………………………… Document digital
+  │   │   └─Presentation form (2 of 2)…………………………… Table digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the wave energy time series dataset ,collected from measurements conducted in the offshore areas of Rarotonga Is, Cook Islands from 1987 - 1991. Data was collected using a Waveriderbuoy . Instrumentation system consists of 3 main component, a) Datawell Waveriderbuoy ,b) Data processingin the Waveriderbuoy, c) Satellite transmission the Argos system. Datasets are held in .txt file format in a zip file and is accompanied with an excel sheet. The wave power data collection programme in the South Pacific started in 1987 to 1995. The work was initially financed by the Norwegian Agency for Development Cooperation, NORAD and organized through an agreement between the Norwegian Engineering Council on Oceanic Resources, NECOR, and the Norwegian Hydrotechnical Laboratory, NHL a member of the SINTEF Group. In 1990, the Oceanographic Company of Norway A/S, OCEANOR, signed an agreement with NECOR and took over NHL's role in the project. The wave measurement programme provided technical support to the intergovernmental organization SOPAC (South Pacific Applied Geoscience Commission) through its Technical Secretariat (TechSec) in Suva, Fiji. These datasets are held at the SOPAC Secretariat and can be downloaded from the appropriate link under Distribution Infor with appropriate permission from the Secretariat.
+  │   ├─Purpose………………………………………………………………………………………… This information can be used to greatly improve the prediction and warnings for dangerous storms.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Adviser, Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… ck_wave_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… ck_wave.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… buoy, wave height, wave, ARGOS,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Cook Islands, Rarotonga
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Data Accessibity - Contact SOPAC Secreatariat via listed contacts
+  │   ├─Spatial representation type…………………………………… Text table
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 167°W
+  │           ├─East bound longitude………………………………… 156°W
+  │           ├─South bound latitude………………………………… 25°S
+  │           └─North bound latitude………………………………… 6°S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1175&fname=cooks_rarotonga_1.txt&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… cooks_rarotonga_1.txt
+  │       │   └─Description………………………………………………………… Cook Is, Rarotonga (1987 July 18th - 1988 Nov 25th) wave data , txt format
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1175&fname=cooks_rarotonga_2.txt&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… cooks_rarotonga_2.txt
+  │       │   └─Description………………………………………………………… Cook Is, Rarotonga (1989 Feb 23rd - 1990 Feb 22nd) wave data , txt format
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1175&fname=cooks_rarotonga_3.txt&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… cooks_rarotonga_3.txt
+  │       │   └─Description………………………………………………………… Cook Is, Rarotonga (1990 April 24th - 1991 Jan 25th) wave data , txt format
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1175&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (5 of 7)                     
+  │       │   └─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0200.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Technical Report 0200, Wave Climate of the Cook Islands, June 1994 . PDF Format
+  │       └─On line (7 of 7)                     
+  │           └─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Wave Parameters ¶  ¶ Hm0 (m) - Significant wave height (dm) ¶ Tp (s) ¶ Tm-10(s) - Wave Period (.1 s) ¶ Tm02 (s) ¶ J Tot (kW/m) ¶ JT-60(kW/m) ¶ mn ¶ S(f) (m's) ¶ - significant wave height ¶ - peak period ¶ - energy wave period ¶ - mean wave period ¶ - total wave power flux ¶ - mean wave power over time (with records > 60 kW/m rejected) ¶ - spectral moments, mn = /S(f)f'df ¶ - wave spectrum as a function of frequency ¶  ¶ S1- S8 Scaled Wave energy flux
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 19-Jun-2013 10:28:38
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 1cd602ca-e363-4582-aabd-3eeb47bfea8d
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

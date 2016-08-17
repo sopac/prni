@@ -1,0 +1,147 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Author
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Rave Tiuhea
+  │   │   ├─Contact info                         
+  │   │   │   ├─Phone (1 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3381377
+  │   │   │   │   └─Number type……………………………………………… VOICE
+  │   │   │   ├─Phone (2 of 2)                   
+  │   │   │   │   ├─Number…………………………………………………………… + (679) 3370040
+  │   │   │   │   └─Number type……………………………………………… FACSIMILE
+  │   │   │   └─Address                          
+  │   │   │       ├─Delivery point……………………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─City………………………………………………………………… Suva
+  │   │   │       ├─Administrative area………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │       ├─Postal code……………………………………………… Private Mail Bag, GPO
+  │   │   │       ├─Country………………………………………………………… Fiji
+  │   │   │       └─Electronic mail address……………… geonetwork@sopac.org
+  │   │   └─Position name……………………………………………………………… Intern
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Reference system info……………………………………………………………… Not georeferenced
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Solomon Islands, North New Hebrides Back Arc Area, Sheet 15, 1993, Bathymetry Map
+  │   │   ├─Alternate title (1 of 2)………………………………… SOPACMAPS Leg 2, Sheet 15
+  │   │   ├─Alternate title (2 of 2)………………………………… SOPAC Reference Code: SB_North_New_Hebrides_Back_Arc_Area_Sheet_15_BA_0003oa.tiff
+  │   │   ├─Date (1 of 2)                        
+  │   │   │   ├─Date…………………………………………………………………………… 19-Oct-2011 16:25:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   ├─Date (2 of 2)                        
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds a Bathymetry Map, Sheet 15 of of the North New Hebrides Back Arc Area, Solomon Islands, 1993. Prior to the at-sea operations, a sheet assemblage (at 1/250,000 scale) was established and used during the survey and for the processing of the first set of charts. Isobathes: 50 m. / Mait. : 250 m. Pas du MNT: 250.0 metres (written in French on the map). The map is part of the SOPACMAPS collection produced for the SOPACMAPS Project cruise conducted by the oceanographical research vessel L'Atalante operated by IFREMER in 1993. The swath mapping project was funded by the EEC (Lome III - European Development Fund No 6) known as SOPACMAPS. A copy of the map can be downloaded by selecting the appropriate link under 'Online resources' with permission from the Secretariat.
+  │   ├─Credit…………………………………………………………………………………………… Map was digitised with the support of the SOPAC Compendium Project.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kata Duaibe
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… kata@sopac.org
+  │   │   │   └─Position name…………………………………………………… Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… 241 Mead Road, SOPAC Division, SPC, Nabua
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag , Suva.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_North_New_Hebrides_Back_Arc_Area_Sheet_15_BA_0003oa_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_North_New_Hebrides_Back_Arc_Area_Sheet_15_BA_0003oa.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry map, cean floor, seafloor, underwater, isobathes, Simrad EM12, SOPACMAPS Project, L'Atalante, IFREMER, Sheet 15
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Solomon Islands, South West Pacific, North New Hebrides Back Arc Area, Vanikoro, Anuta, Nendo, Duff Ridge
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Restricted
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   ├─Description…………………………………………………………………… Coverage of Map Area
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 167°18′E
+  │   │       ├─East bound longitude………………………………… 170°E
+  │   │       ├─South bound latitude………………………………… 10°09′S
+  │   │       └─North bound latitude………………………………… 8°27′S
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Supplemental information…………………………………………… The SOPACMAPS Project was designed to investigate as much area as possible of the EEZs of the SOPAC member countries: Solomon Islands, Vanuatu, Fiji and Tuvalu.The main objectives were to map the bathymetry, investigate the resource potential and to study geological processes, including geological hazards. The 85 m R/V L'Atalante, launched in 1990, was built specifically for swath mapping surveys and carries a dual Simrad EM12 multibeam bathymetric system. The schedule of the cruises was: * Leg 1- 19 July in Noumea (New Caledonia) to 15 August 1993 in Honiara (Solomon Islands), * Leg 2 - 19 August in Honiara (Solomon Islands) to 16 September 1993 in Suva (Fiji), * Leg 3 - 22 September in Suva (Fiji) to 20 October 1993 in Noumea (New Caledonia). The Melanesian Arc Gap Area was, before the SOPACMAPS cruise, poorly mapped, and only few information were available. That region had not been surveyed during the Tripartite 1982-1984 program.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0196.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Technical Report 196, SOPACMAPS Project, Final Report, North New Hebrides Back Arc Area, PDF Format
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/MR0278.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Miscellaneous Report 0278, SOPACMAPS Project; Short Report, PDF Format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://ict.sopac.org/VirLib/LR0061.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Preliminary Report 0061, SOPACMAPS Project, Leg 1, PDF Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Process step                         
+  │       │   ├─Description………………………………………………………… Maps were scanned using the magnum G600 Wide format scanner: Scan resolution of optical 600dpi: true colour compatibility; Tiff format output.
+  │       │   └─Rationale……………………………………………………………… The SOPAC colllection of maps were scanned to create digital formats of the maps, readily providing historical information to SOPAC Scientist, to support their work and also archive priceless data available within the SOPAC Division.
+  │       └─Source                               
+  │           ├─Description………………………………………………………… These maps was obtained from the hardcopy SOPAC Map collections, produced by the Divisions scientists and obtained from external sources to support marine and oceanographic work done by the Division for over 30 years.
+  │           └─Source spatial resolution        
+  │               └─Equivalent scale             
+  │                   ├─Double value………………………………… �
+  │                   └─Denominator…………………………………… 0
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 25-Jul-2014 11:36:20
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 59130b8c-e1d0-4ff0-b011-a726e3d7f069
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

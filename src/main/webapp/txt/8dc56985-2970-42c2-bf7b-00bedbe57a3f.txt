@@ -1,0 +1,207 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Reference system info……………………………………………………………… null
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… FSM, Pohnpei, Kolonia & Temwen Is,1975 Aerial Photographs
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 01-Sep-2009 10:59:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… These are 2 photoset collections of historical black and white aerial photographs that was taken of Pohnpei Island in the Federated States of Micronesia, acquired in 1975. Coverage of the first photoset is limited to areas that fall around the inland and coastal areas of Kolonia along the Northern part of Pohnpei Island. The second photoset covers the land area, coastal area, reef area and towards the deep sea area of on the South Eastern part of Pohnpei Island (Temwen Island, Nan Mandol Ruins and Nahkapw. The original paper prints have been scanned at a resolution of 1200 DPI on a Magnum G600 Wide format scanner and stored as TIFF format images. The 16 images have been uploaded according to their frame numbers. All photographs have not been rectified. These aerial photographs are held at the SOPAC Secretariat on behalf of the FSM Government.
+  │   ├─Purpose………………………………………………………………………………………… The SOPAC Secretariats aerial photographs is a unique detailed record of the physical landscapes from the different member Pacific Island countries. These photographs can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, engineers and other individuals. These purposes include determination of past land uses, coastal landforms, marine mapping, coral reef habitat mapping ( change detection), restoration of natural areas, assessing historical changes , and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… Historical archive
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Arthur Webb
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat,
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… arthur@sopac.org
+  │   │   │   └─Position name…………………………………………………… Manager Ocean & Islands Programme/ Coastal Processes Adviser
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… pho_75_thumbnail.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… pho_75_thumbnail_small_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Historical Photos, Aerial Photos, Change Detection, Base Map, GIS, Mapping, geography, Digital Image, imageryBaseMapsEarthCover
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Micronesia,Fed States of, Kolonia, Temwen, Nan Mandol Ruins, Nahkapw and Na
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… These aerial photographs is the property of the Goverment of the Federated States of Micronesia ,held at the SOPAC Secretariat. Request for access to images can be made to the secreatriat via the listed point of contact.
+  │   ├─Spatial representation type…………………………………… Grid
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 158°07′12.36″E
+  │   │       ├─East bound longitude………………………………… 163°02′34.404″E
+  │   │       ├─South bound latitude………………………………… 5°15′42.012″N
+  │   │       └─North bound latitude………………………………… 6°58′39.504″N
+  │   └─Supplemental information…………………………………………… The Pohnpei Island of the Federated States of Micronesia is located appropriately, 6 degrees 54' 11.42"N and 158 degrees 13' 42.84"E. Pohnpei is one of the four states of the Federated States of Micronesia. Palikir the capital of the Federated States of Micronesia is located in Pohnpei.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=86.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 86.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 86, tif format
+  │       ├─On line (2 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=87.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 87.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 87, tif format
+  │       ├─On line (3 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=88.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 88.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 88, tif format
+  │       ├─On line (4 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=89.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 89.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 89, tif format
+  │       ├─On line (5 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=90.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 90.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 90, tif format
+  │       ├─On line (6 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=153.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 153.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 153, tif format
+  │       ├─On line (7 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=154.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 154.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 154, tif format
+  │       ├─On line (8 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=155.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 155.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 155, tif format
+  │       ├─On line (9 of 22)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=156.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 156.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 156, tif format
+  │       ├─On line (10 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=157.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 157.tif
+  │       │   └─Description………………………………………………………… North Pohnpei, Frame 157, tif format
+  │       ├─On line (11 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=170.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 170.tif
+  │       │   └─Description………………………………………………………… South East Pohnpei, Frame 170, tif format
+  │       ├─On line (12 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=171.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 171.tif
+  │       │   └─Description………………………………………………………… South East Pohnpei, Frame 171, tif format
+  │       ├─On line (13 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=172.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 172.tif
+  │       │   └─Description………………………………………………………… South East Pohnpei, Frame 172, tif format
+  │       ├─On line (14 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=173.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 173.tif
+  │       │   └─Description………………………………………………………… South East Pohnpei, Frame 173, tif format
+  │       ├─On line (15 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=174.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 174.tif
+  │       │   └─Description………………………………………………………… South East Pohnpei, Frame 174, tif format
+  │       ├─On line (16 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=175.tif&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 175.tif
+  │       │   └─Description………………………………………………………… South East Pohnpei, Frame 175, tif format
+  │       ├─On line (17 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=FSM_pohnpei_1975.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… FSM_pohnpei_1975.pdf
+  │       │   └─Description………………………………………………………… FSM, Pohnpei 1975 Aerial Photographs Attribute Summary Record, PDF Format
+  │       ├─On line (18 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (19 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (20 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (21 of 22)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (22 of 22)                   
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=709&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Black and white panchromatic aerial photographs. Photographs were scanned using the magnum G600 Wide format scanner : Scan resolution of optical 1200dpi: true color Grayscale compatibility; Tiff format output
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Jan-2012 11:54:12
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 8dc56985-2970-42c2-bf7b-00bedbe57a3f
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

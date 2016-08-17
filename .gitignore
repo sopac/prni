@@ -33,3 +33,4 @@
 
 # "temporary" build files
 /target
+/build

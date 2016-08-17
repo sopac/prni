@@ -1,0 +1,143 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM, Zone 2S (WGS84)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Tonga, Vavau, 1996, Shallow Water Bathymetry Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 12-Jan-2011 08:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the gridded bathymetry dataset in ASCII tab delimited format of Vavau in Tonga, 1996. Survey was conducted using a high-resolution swath mapping multibeam echosounder ,to map the complete morphology of the sea floor as well as objects on the sea floor. Datasets can be accessed from the 'Distribution Info Section' of this metadata record with appropriate permission from the Secretariat.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Marine Geophycist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Vavau_thumbnail_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Vavau_thumbnail.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Multibeam bathymetry, Sediment Sampling ,Analysis and composition,Modelling bathymetric change
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Tonga, Vava'u,
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Intellectual property rights
+  │   │   └─Use constraints………………………………………………………… Restricted
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 180°W
+  │           ├─East bound longitude………………………………… 172°E
+  │           ├─South bound latitude………………………………… 24°30′S
+  │           └─North bound latitude………………………………… 14°30′S
+  ├─Distribution info                            
+  │   ├─Transfer options (1 of 7)                
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_bathy_points_mapinfo.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… to_vavau_1996_bathy_points_mapinfo.zip
+  │   │       └─Description………………………………………………………… Vavau, 1996, Bathymetry dataset, mapinfo Format in zip File
+  │   ├─Transfer options (2 of 7)                
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_bathy_points_shp.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… to_vavau_1996_bathy_points_shp.zip
+  │   │       └─Description………………………………………………………… Vavau, 1996, Bathymetry , shp Format in zip file
+  │   ├─Transfer options (3 of 7)                
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_contour_polylines_mapinfo.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… to_vavau_1996_contour_polylines_mapinfo.zip
+  │   │       └─Description………………………………………………………… Vavau, 1996, contour, mapinfo Format in zip file
+  │   ├─Transfer options (4 of 7)                
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_contour_polylines_shp.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… to_vavau_1996_contour_polylines_shp.zip
+  │   │       └─Description………………………………………………………… Vavau, 1996, contour, shp Format in zip file
+  │   ├─Transfer options (5 of 7)                
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_contour_polylines.dxf&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… to_vavau_1996_contour_polylines.dxf
+  │   │       └─Description………………………………………………………… Vavau, 1996, contour, DXF Format
+  │   ├─Transfer options (6 of 7)                
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_bathy.dxf&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… to_vavau_1996_bathy.dxf
+  │   │       └─Description………………………………………………………… Vavau, 1996, Depth , DXF Format
+  │   └─Transfer options (7 of 7)                
+  │       └─On line                              
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1207&fname=to_vavau_1996_bathymetry.xyz&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… to_vavau_1996_bathymetry.xyz
+  │           └─Description………………………………………………………… Vavau, 1996, Bathymetry dataset, txt Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder : Echotrak Mark 1 ¶ Velocity Control : Odom digibar/CTD SBE19 ¶ Navigation Equipment : Del Norte 1009+ in DGPS Real time ¶ Navigation Control: Reference station established over 24 hours with Del Norte 1009+
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 17-Jan-2012 15:16:04
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 708f5aca-23b5-4a93-9deb-22d7f35acfea
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

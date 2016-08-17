@@ -1,0 +1,130 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SPC, SOPAC Division, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC, SOPAC Division, Mead Road ,Nabua
+  │   │           ├─Postal code……………………………………………… SPC, SOPAC Division, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 4 South, WGS 84, EPSG: 32704
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Cook Islands, Aitutaki, Arutanga Passage Bathymetry Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 14-Mar-2007 14:31:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the ASCII Tab delimited bathymetry dataset of Arutanga Passage ,Rarotonga . Dataset was collected using an Echotrac single beam 200-kHz sounder with DGPS for navigation, control based on UTM Zone 4 WGS84 Spheroid. For tide corrections, data retrieved from the gauge sited in Avatiu Harbour was used to reduce all soundings for the harbours surveyed on Rarotonga. All data has been reduced to tide gauge zero with is reported to be 0.02 m above Lowest Astronomical Tide 92-93 as established by the National Tidal Facility Project. These bathymetry dataset are held at the SOPAC Secretariat on behalf of the Cook Islands Goverment. Dataset can be downloaded from the appropriate link under Distribution Infor with appropriate permission from the Secretariat. ¶  ¶  ¶  ¶ Bathymetric maps of the four harbours in the Cook Islands,  For the Arutanga Harbour, Aitutaki, tidal reduction of soundings was based on measured data from a triton water level gauge.
+  │   ├─Purpose………………………………………………………………………………………… The secretariats bathymetry dataset is a unique detailed record of physical underwater landscape of the different member Pacific Island countries. These bathymetry can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, navigators, and other individuals. These purposes include the study of rocks and minerals on the ocean floor, mineral exploration, study of underwater earthquakes or volcanoes, diving missions, paleobathymetry, monitoring of ecology of an ocean bed, assessment of the possible impact of hydrodynamic changes in rivers, lakes and determining of suitability of channels for barge passage. Bathymetry is a crucial component in many fields of marine research and hydrology
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Marine Geophycist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… aitutaki_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… aitutaki.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Ocean, Bathymetry, sea floor, water depth, JetProbing
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Cook Islands, Aitutaki, Arutanga
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Other restrictions
+  │   │   └─Other constraints…………………………………………………… Data Accessibity - Contact Secretariat via listed contacts
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 167°W
+  │   │       ├─East bound longitude………………………………… 155°W
+  │   │       ├─South bound latitude………………………………… 25°S
+  │   │       └─North bound latitude………………………………… 6°S
+  │   └─Supplemental information…………………………………………… In layer spatial reference system units : xMin,yMin 414860.94,7913160.40 : xMax,yMax 415770.94,7915160.40
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=896&fname=ck_arutanga.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ck_arutanga.xyz
+  │       │   └─Description………………………………………………………… ck_aitutaki_arutanga_harbour_bathymetry, File format - ascii, tab delimiter, xyz
+  │       ├─On line (2 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=896&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (3 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=896&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (4 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=896&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (5 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=896&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (6 of 6)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=896&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─Off line                             
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… The number of features in this layer: 2635, Geometry type of the features in this layer: Point
+  ├─Metadata constraints                         
+  │   ├─Access constraints…………………………………………………………… Restricted
+  │   └─Other constraints……………………………………………………………… (Restricted Report), REPORT on HARBOUR SURVEYS,  Authorization by the Goverment  of Cook Islands is needed for release of report.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Feb-2011 15:19:36
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… e6a2aa0a-90fd-4e76-b4b7-b247242274c2
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

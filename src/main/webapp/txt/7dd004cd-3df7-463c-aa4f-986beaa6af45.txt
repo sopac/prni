@@ -1,0 +1,151 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Spatial representation info                  
+  │   ├─Number of dimensions……………………………………………………… 2
+  │   ├─Axis dimension properties (1 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Row
+  │   │   └─Dimension size…………………………………………………………… 2,995
+  │   ├─Axis dimension properties (2 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Column
+  │   │   └─Dimension size…………………………………………………………… 2,078
+  │   ├─Axis dimension properties (3 of 3)       
+  │   │   ├─Dimension name…………………………………………………………… Sample
+  │   │   └─Dimension size…………………………………………………………… 24
+  │   ├─Cell geometry………………………………………………………………………… Area
+  │   └─Transformation parameter availability………… false
+  ├─Reference system info……………………………………………………………… WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Kiribati Islands High Resolution Bathymetry Survey Report (ER114)
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 25-Sep-2007 13:12:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   ├─Edition……………………………………………………………………………… 2007
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the Technical report describing a SOPAC Division marine survey carried out for Kiribati, on the islands of Abaiang, Tarawa, Abemama, Banaba and Onotoa. ¶ This report describes the high-resolution bathymetric mapping survey of the seabed surrounding the islands of Abaiang, Tarawa, Abemama, Banaba and Onotoa in Kiribati. ¶ The work was initiated by the Pacific Islands Applied Geoscience Commission (SOPAC) and the European Union (EU) Reducing Vulnerability of Pacific ACP States ¶ Project.
+  │   ├─Purpose………………………………………………………………………………………… The survey described in the report was conducted to investigate the seabed and provide information about water depths around the islands using a multibeam echosounder (MBES).
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Kruger, Jens
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Point of contact
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Sharma, Ashishika
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… ashishika@sopac.org
+  │   │   │   └─Position name…………………………………………………… Technical Officer EU EDF Project
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… report_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… report.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Kiribati EEZ, Bathymetry, Digital terrain model, Multibeam echosounder, Acoustic Doppler velocimeter
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Kiribati
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… None
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 172°E
+  │   │       ├─East bound longitude………………………………… 157°10′21.18″W
+  │   │       ├─South bound latitude………………………………… 4°S
+  │   │       └─North bound latitude………………………………… 2°01′58.98″N
+  │   └─Supplemental information…………………………………………… Coastline: Predominantly small, lowlying and   relatively flat, Kiribati can be considered as entirely coastal. ¶  ¶ The Republic of Kiribati comprises 33 atolls, of which only 20 are inhabited, in 3 principal island groups, scattered within an area of about 5 million square kilometers (2 million square miles) in the mid-Pacific Ocean. The three island groups are the Gilbert Islands, the Line Islands, and the Phoenix Islands. ¶ The country extends about 3870 kilometres from east to west and about 2050 kilometres from north to south and has a coastline of 1143 kilometers .The total land area is 811 square kilometres. The nearest neighbors are Nauru to the west, and Tuvalu and Tokelau to the south. The capital, Tarawa, is on the island of Bairiki, the most populous island with ¶ around 65 000 inhabitants. The nation's largest atoll is Kiritimati (Christmas Island) in the Line Islands group at the eastern extremityâ€”at 388 square kilometres. The smallest is Banaba Island in the west at 6 square kilometers.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 2)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=37&fname=ER114.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ER114.pdf
+  │       │   ├─Description………………………………………………………… Kiribati, High Resolution bathymetry Survey Technical Report (ER 114) : PDF format
+  │       │   └─Function………………………………………………………………… Download
+  │       └─On line (2 of 2)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=37&fname=ki_bathy_a0_charts.zip&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… ki_bathy_a0_charts.zip
+  │           ├─Description………………………………………………………… Kiribati Bathymetry Charts A0, Zip archive 39 MB
+  │           └─Function………………………………………………………………… Download
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Refer to the Kiribati Technical Survey Report V6.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Mar-2012 14:54:00
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 7dd004cd-3df7-463c-aa4f-986beaa6af45
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

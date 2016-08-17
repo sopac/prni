@@ -1,0 +1,146 @@
+Metadata                                      
+  ├─Character set…………………………………………………………………………… UTF-8
+  ├─Contact                                   
+  │   ├─Role………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                        
+  │   │   ├─Name……………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                      
+  │   │       ├─Phone (1 of 2)                
+  │   │       │   ├─Number…………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                
+  │   │       │   ├─Number…………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………… FACSIMILE
+  │   │       └─Address                       
+  │   │           ├─Delivery point……………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………… Suva
+  │   │           ├─Administrative area………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………… FJ
+  │   │           └─Electronic mail address……… geonetwok@sopac.org
+  │   └─Party (2 of 2)                        
+  │       └─Name……………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  ├─Reference system info……………………………………………………… WGS 1984
+  ├─Identification info                       
+  │   ├─Citation                              
+  │   │   ├─Title…………………………………………………………………………… Marshall Islands, Majuro, B/W, 18th April 1983, Aerial Photographs
+  │   │   ├─Date                              
+  │   │   │   ├─Date…………………………………………………………………… 10-Mar-2010 09:00:00
+  │   │   │   └─Date type……………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………… Image digital
+  │   ├─Abstract……………………………………………………………………………… This photoset is a collection of historical black and white (panchromatic) aerial photographs that was taken in Majuro atoll, Marshall Islands in 1983. Coverage is limited to areas that fall around the coastal, reef and outer reef area of the Eastern area of Majuro Atoll. The original paper prints have been scanned at a resolution of 1200 DPI on a Magnum G600 Wide format scanner, resized to approximately maximum of 7000 x 7000 pixels (148.0MB) for all images and stored as TIFF format. All 10 photographs have not been rectified but mosaicked for viewing purposes and uploaded according to their frame numbers. These photosets are held at the Secretariat on behalf of the Marshall Islands Government. Images can be downloaded from the appropriate link under Distribution Info with appropriate permission from the Secretariat.
+  │   ├─Purpose………………………………………………………………………………… These aerial photographs is a unique detailed record of the physical landscapes from the different member Pacific Island countries. These photographs can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, engineers and other individuals. These purposes include determination of past land uses, coastal landforms, marine mapping, coral reef habitat mapping ( change detection), restoration of natural areas, assessing historical changes , and a variety of other applications. These Images are also valuable in the identification of different soil categories, surface rocks, coast types, hydro-graphical controls and exploration of shallow water concentration bottoms because of the possibility of water-transparency compared to the panchromatic photographs.
+  │   ├─Status…………………………………………………………………………………… Historical archive
+  │   ├─Resource maintenance                  
+  │   │   └─Maintenance and update frequency…… As needed
+  │   ├─Graphic overview (1 of 2)             
+  │   │   ├─File name………………………………………………………………… MH_large.png
+  │   │   ├─File description……………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)             
+  │   │   ├─File name………………………………………………………………… MH_small_s.png
+  │   │   ├─File description……………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)         
+  │   │   └─Keyword……………………………………………………………………… Historical Photos, Aerial Photos, Change Detection, Base Map, GIS, Mapping, geography, Digital Image, imageryBaseMapsEarthCove
+  │   ├─Descriptive keywords (2 of 2)         
+  │   │   └─Keyword……………………………………………………………………… Marshall Island, Majuro
+  │   ├─Resource constraints                  
+  │   │   ├─Access constraints………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………… Grid
+  │   ├─Spatial resolution                    
+  │   │   └─Equivalent scale                  
+  │   │       ├─Double value……………………………………………… �
+  │   │       └─Denominator………………………………………………… 0
+  │   ├─Language……………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………… Imagery base maps earth cover
+  │   ├─Extent (1 of 2)                       
+  │   │   └─Temporal element                  
+  │   └─Extent (2 of 2)                       
+  │       └─Geographic element                
+  │           ├─West bound longitude………………………… 162°19′29.892″E
+  │           ├─East bound longitude………………………… 169°58′17.832″E
+  │           ├─South bound latitude………………………… 5°36′01.008″N
+  │           └─North bound latitude………………………… 14°35′38.508″N
+  ├─Distribution info                         
+  │   └─Transfer options                      
+  │       ├─On line (1 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=12.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 12.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 12, tiff format
+  │       ├─On line (2 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=14.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 14.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 14, tiff format
+  │       ├─On line (3 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (4 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=16.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 16.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 16, tiff format
+  │       ├─On line (5 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=18.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 18.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 18, tiff format
+  │       ├─On line (6 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=21.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 21.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 21, tiff format
+  │       ├─On line (7 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=23.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 23.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 23, tiff format
+  │       ├─On line (8 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=25.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 25.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 25, tiff format
+  │       ├─On line (9 of 14)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=32.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 32.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 32, tiff format
+  │       ├─On line (10 of 14)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=34.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 34.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 34, tiff format
+  │       ├─On line (11 of 14)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=41.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 41.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 41, tiff format
+  │       ├─On line (12 of 14)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=43.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 43.tif
+  │       │   └─Description………………………………………………… Majuro, 1983, Frame No 43, tiff format
+  │       ├─On line (13 of 14)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (14 of 14)                
+  │           ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=748&fname=&access=private
+  │           └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                         
+  │   ├─Scope                                 
+  │   │   └─Level…………………………………………………………………………… Dataset
+  │   └─Lineage                               
+  │       └─Statement………………………………………………………………… Black and white aerial photographs. Photographs were scanned using the magnum G600 Wide format scanner : Scan resolution of optical 1200dpi: true color compatibility; Tiff format output
+  ├─Date info                                 
+  │   ├─Date………………………………………………………………………………………… 21-Jul-2014 12:44:18
+  │   └─Date type…………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………… English
+  ├─Metadata identifier                       
+  │   └─Code………………………………………………………………………………………… e6161ec3-880c-4abc-9cc5-ee7ff2adc4ab
+  └─Metadata standard                         
+      ├─Title……………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………… 1.0

@@ -1,0 +1,150 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Division, Mead Road, Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Division, Mead Road, Nabua, FJ
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience (SOPAC)
+  ├─Reference system info……………………………………………………………… Traverse Mercator Fiji, Fiji Map Grid or other text (WGS 72)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Fiji, Yasawa, 1990, Shallow Water Bathymetry data
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 18-May-2011 15:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This entry holds a gridded bathymetry data of the North West and South West of the Yasawa Islands, Fiji Islands collected in 1996. Original dataset are stored in Universal Traverse Mercator (UTM) WGS84 which are referenced to MapInfo standard projection. Bathymetry datasets are available for download from the Distribution section of this entry as MapInfo formats, ,TXT ASCII files and as Shapefiles, with appropriate permission from the Secretariat. Survey was conducted by the South Pacific Applied Geoscience Commission (SOPAC) as part of Task 91.FJ.19e: Bedrock Miocene structure around Yasawa Islands and the top end of Nacula Island in the Yasawas. Funding for the survey was provided by Government of New Zealand.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)337040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC Division, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Geophysicist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… yasawa_thumbnail_1_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… yasawa_thumbnail_1.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, shallow water bathymetry,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Fiji, Yasawa
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 173°E
+  │   │       ├─East bound longitude………………………………… 177°W
+  │   │       ├─South bound latitude………………………………… 25°S
+  │   │       └─North bound latitude………………………………… 6°S
+  │   └─Supplemental information…………………………………………… FIJI MAP GRID COORDINATES: Fiji's bathymetyric data are stored referenced to the Fiji Geodetic Datum ( effective data 1st January, 1987) and referenced to as the Fiji Map Grid FMG) in the MapInfo Pacific standard projections: UTM (FMG, SPEROID = WGS72, Scale factor on central meridian = .99985, False Easting=2,000,000, False Northing=4.000,000,Origin of Grid=178deg45E,17degSouth. ¶  ¶ YASAWA WEST: The Yasawa West survey grid lies between 5 and 15 km northwest of Yasawa Island. The area ¶ includes survey lines 1 - 13 and 26-29.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1190&fname=yasawa_d.txt&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… yasawa_d.txt
+  │       │   └─Description………………………………………………………… Fiji_Yasawa, 1990, bathymetry data, File format: txt format
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1190&fname=yasawa_bathymetry_Mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… yasawa_bathymetry_Mapinfo.zip
+  │       │   └─Description………………………………………………………… Fiji_Yasawa, 1990, bathymetry data, File format: MapInfo format in .zip file
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1190&fname=Yasawa_bathymetry_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… Yasawa_bathymetry_shp.zip
+  │       │   └─Description………………………………………………………… Fiji_Yasawa, 1990, bathymetry data, File format: shapefile format in .zip file
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1190&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (5 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1190&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1190&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (7 of 7)                     
+  │           ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0165.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Technical Report 0165, INTERPRETATION OF MARINE MAGNETIC SURVEYS YASAWA ISLAND, NW FIJI, 5 November -15 December1995, PDF Format
+  ├─Data quality info (1 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       ├─Statement………………………………………………………………………… ORIGINAL Yasawa Bay bathymetry datasets - Yasawa_d.txt, ¶ MapInfo files: Yasawa_d.ID, *.MAP, *.TAB. , Shapefiles: Yasawa_d.shp, *.mshp,*.shp,*.dbf,
+  │       └─Process step                         
+  │           └─Description………………………………………………………… Shapefiles created in SAGA GIS from the .txt file using the Shapes - Points Module
+  ├─Data quality info (2 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… YASAWA WEST BATHYMETRY: The bathymetric map shows depths ranging from 30 m t o over 100 m. As might be expected the depth generally increases from the SE t o NW with increasing distance from the shoreline of Yasawa Island.
+  ├─Data quality info (3 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… YASAWA EAST BATHYMETRY: The Yasawa East survey grid covers an area 6 t o about 1 6 km. southeast of Yasawa Island ¶ and extends further t o the south of the main island. The survey area comprises lines 14-24
+  ├─Data quality info (4 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder: Echotrak Mk1, Velocity Control: Odom digibar/Seabird CTD SBE19, Navigation Equipment: del Norte 1009+DGPS: Real Time, Navigation Control: Shore points established with DGPS real time from FMG Lands Trig Station.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Jan-2012 13:21:48
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 5319b341-0766-45e2-8abe-614696ca1736
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

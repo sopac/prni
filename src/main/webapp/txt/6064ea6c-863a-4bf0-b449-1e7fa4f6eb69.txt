@@ -1,0 +1,160 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM, Zone 60N (WGS72)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Tuvalu, Funafuti, Fongafale Dredgesite, 1993, Shallow Water Bathymetry Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 12-Jan-2011 08:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the gridded bathymetry dataset from a dredge site in Fongafale, Tuvalu in 1993. ¶ A De 719e Raytheon precision echo sounder was used for profiling the seabed. Sixty lines of bathymetry profile data were collected. This bathymetry dataset is the result from a  bathymetric survey of the pilot dredge area following dredging, carried out to fulfill the requirements of SOPAC Task 93.TU11. Results of the complete survey is collated into a final report . Links to the related reports and the bathymetry datasets can be accessed from the 'Distribution Info Section' of this metadata record with appropriate permission from the Secretariat.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Marine Geophycist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… OFF_FONGAFALE_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… OFF_FONGAFALE.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Multibeam bathymetry, Sediment Sampling ,Analysis and composition,Modelling bathymetric change
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Tuvalu, Vaiaku Wharf
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Intellectual property rights
+  │   │   └─Use constraints………………………………………………………… Restricted
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   ├─Description…………………………………………………………………… East Funafuti: Dredgesite area
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 179°10′48″E
+  │   │       ├─East bound longitude………………………………… 179°12′E
+  │   │       ├─South bound latitude………………………………… 8°31′12″S
+  │   │       └─North bound latitude………………………………… 8°30′50.4″S
+  │   └─Supplemental information…………………………………………… Datasets are listed originally in the SOPAC archive record as "depth93.txt" and "contour93.Dat, *.ID, *.Map, *.Tab."
+  ├─Distribution info                            
+  │   ├─Transfer options (1 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1421&fname=tv_fongafale_dredgesite_bathymetry_1993.xyz&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… tv_fongafale_dredgesite_bathymetry_1993.xyz
+  │   │       └─Description………………………………………………………… Tuvalu, Fongafale, 1993, dredgesite bathymetry. ASCII Tab delimited XYZ format
+  │   ├─Transfer options (2 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1421&fname=tv_fongafale_dredgesite_bathymetry_1993_mapinfo.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… tv_fongafale_dredgesite_bathymetry_1993_mapinfo.zip
+  │   │       └─Description………………………………………………………… Tuvalu, Fongafale, 1993, dredgesite bathymetry. MapInfo format in Zip File
+  │   ├─Transfer options (3 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1421&fname=tv_fongafale_dredgesite_bathymetry_1993_shpfiles.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… tv_fongafale_dredgesite_bathymetry_1993_shpfiles.zip
+  │   │       └─Description………………………………………………………… Tuvalu, Fongafale, 1993, dredgesite bathymetry. shp format in Zip File
+  │   ├─Transfer options (4 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/LR0069.pdf
+  │   │       ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │   │       └─Description………………………………………………………… SOPAC Preliminary Report 0069, Borrow Pit Resources-Related Surveys, Funafuti Atoll, Tuvalu
+  │   ├─Transfer options (5 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1421&fname=tv_fongafale_dredgesite_bathycontour_1993_mapinfo.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… tv_fongafale_dredgesite_bathycontour_1993_mapinfo.zip
+  │   │       └─Description………………………………………………………… Tuvalu, Fongafale, 1993, dredgesite contour. MapInfo format in Zip file
+  │   ├─Transfer options (6 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1421&fname=tv_fongafale_dredgesite_bathycontour_1993.dxf&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… tv_fongafale_dredgesite_bathycontour_1993.dxf
+  │   │       └─Description………………………………………………………… Tuvalu, Fongafale, 1993, dredgesite contour. dxf format
+  │   ├─Transfer options (7 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1421&fname=tv_fongafale_dredgesite_bathycontour_1993_shp.zip&access=private
+  │   │       ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │   │       ├─Name…………………………………………………………………………… tv_fongafale_dredgesite_bathycontour_1993_shp.zip
+  │   │       └─Description………………………………………………………… Tuvalu, Fongafale, 1993, dredgesite contour. shp format in Zip File
+  │   ├─Transfer options (8 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/LR0045.pdf
+  │   │       ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │   │       └─Description………………………………………………………… SOPAC Preliminary Report 45, PDF Format
+  │   ├─Transfer options (9 of 11)               
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0105.pdf
+  │   │       ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │   │       └─Description………………………………………………………… SOPAC Technical Report 0105, PDF Format
+  │   ├─Transfer options (10 of 11)              
+  │   │   └─On line                              
+  │   │       ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0213.pdf
+  │   │       ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │   │       └─Description………………………………………………………… SOPAC Technical Report 0216, PDF Format
+  │   └─Transfer options (11 of 11)              
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder : Echotrak Mark 1 ¶ Velocity Control : Odom digibar/CTD SBE19 ¶ Navigation Equipment : Del Norte DMU 520 ( Range-Range) ¶ Navigation Control: Bench mark trig points obtained from Tuvalu Lands & Survey Department & New Zealand Hydrographic Unit.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 19-Jan-2012 09:18:33
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 6064ea6c-863a-4bf0-b449-1e7fa4f6eb69
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

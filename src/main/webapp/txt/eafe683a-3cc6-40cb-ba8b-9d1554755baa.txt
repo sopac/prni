@@ -1,0 +1,155 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Division, Mead Road, Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Division, Mead Road, Nabua, FJ
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience (SOPAC)
+  ├─Reference system info……………………………………………………………… Traverse Mercator Fiji, Fiji Map Grid or other text (WGS 72)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Fiji, Tavua Bay, 1995, Shallow Water Bathymetry data
+  │   │   ├─Alternate title………………………………………………………… Survey ID FJ9501 - FJ11
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 17-May-2011 15:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This metadata entry holds a gridded bathymetry data of Tavua Bay, Fiji Islands collected in 1995. Original dataset are stored in Universal Traverse Mercator (UTM) WGS84 which are referenced to MapInfo standard projection. Bathymetry datasets are available for download from the Distribution section of this entry as ,ASCII files, MapInfo files and as Shapefiles, with appropriate permission from the Secretariat. Datasets also include contour file of the area in .dxf file format, MapInfo and as shapefiles. ¶  ¶  ¶ Survey was conducted by the South Pacific Applied Geoscience Commission (SOPAC) and the Mineral Resources Department, Fiji (MRD) between the 5th and the 15th December in 1995, to fulfil the requirements of Task Survey ID FJ9501 - FJ11. The survey was funded principally by the Government of the Republic of Fiji with additional ¶ support from the European Union and the Governments of Canada and Australia.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)337040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC Division, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Geophysicist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… tavua_nasivi_river_2_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… tavua_nasivi_river_2.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, shallow water bathymetry,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Fiji, Nadi Bay
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 173°E
+  │   │       ├─East bound longitude………………………………… 177°W
+  │   │       ├─South bound latitude………………………………… 25°S
+  │   │       └─North bound latitude………………………………… 6°S
+  │   └─Supplemental information…………………………………………… FIJI MAP GRID COORDINATES: Fiji's bathymetyric data are stored referenced to the Fiji Geodetic Datum ( effective data 1st January, 1987) and referenced to as the Fiji Map Grid FMG) in the MapInfo Pacific standard projections: UTM (FMG, SPEROID = WGS72, Scale factor on central meridian = .99985, False Easting=2,000,000, False Northing=4.000,000,Origin of Grid=178deg45E,17degSouth. ¶  ¶ LOCATION of NASIVI RIVER: ¶ The Nasivi River delta lies approximately at 177040' E and 17033' S on the northern coast of Viti Levu, near Tavua .
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1189&fname=tavua_d.txt&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tavua_d.txt
+  │       │   └─Description………………………………………………………… Fiji_Tavua_Nasivi River, 1995, bathymetry data, File format: .txt, File format: .txt
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1189&fname=tavua_1995_bathy_mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tavua_1995_bathy_mapinfo.zip
+  │       │   └─Description………………………………………………………… Fiji_Tavua_Nasivi River, 1995, bathymetry data, File format: MapInfo format in .zip file
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1189&fname=tavua_1995_bathy_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tavua_1995_bathy_shp.zip
+  │       │   └─Description………………………………………………………… Fiji_Tavua_Nasivi River, 1995, bathymetry data, File format: shapefile format in .zip file
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1189&fname=contour.dxf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… contour.dxf
+  │       │   └─Description………………………………………………………… Fiji_Tavua_Nasivi River, 1995, contours, File format: DXF format
+  │       ├─On line (5 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1189&fname=tavua_contour_mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tavua_contour_mapinfo.zip
+  │       │   └─Description………………………………………………………… Fiji_Tavua_Nasivi River, 1995, contours, File format: MapInfo format
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1189&fname=tavua_contour_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… tavua_contour_shp.zip
+  │       │   └─Description………………………………………………………… Fiji_Tavua_Nasivi River, 1995, contours, File format: Shapefiles format
+  │       └─On line (7 of 7)                     
+  │           ├─Linkage…………………………………………………………………… http://dev.sopac.org.fj/VirLib/TR0231.pdf
+  │           ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │           └─Description………………………………………………………… SOPAC Technical Report 0231, DETRITAL GOLD RESOURCES SURVEY NASIVI RIVER DELTA, TAVUA,FIJI, 5 November -15 December1995, PDF Format
+  ├─Data quality info (1 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… ORIGINAL Tavua Bay contour datasets - contour.dxf, MapInfo files: tavua_c.ID, *.MAP,*.TAB. Shapefiles: tavua_d.SHP,*.MSHP,*.DBF,*.SHX ¶ ORIGINAL Tavua Bay bathymetry datasets - tavua_d.txt, MapInfo files: tavua_d.DAT, *.ID, *.MAP, *.TAB. Shapefiles:fj_nadi_bay_contour_1994.shp, *.SHP, *.QPJ,*.PRJ,*.DBF
+  ├─Data quality info (2 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Thirty-eight lines, equating to approximately ¶ 140 line kilometres, of bathymetry and high ¶ resolution seismic profile data were acquired within the Taba-Ko-Nalomo Passage, west of Olaca Reef and Natobu Drauivi Passage in Tavua Bay.
+  ├─Data quality info (3 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       ├─Statement………………………………………………………………………… Echo Sounder: Odom Echotrak Mk1, Velocity Control: Odom digibar/Seabird CTD SBE19, Navigation Equipment: del Norte 1009+DGPS: Real Time, Navigation Control: Based on shore station at known trig points. Data obtained from Geodetic Section, Lands & Survey Department. ¶  ¶ The odom echotrac precision echo sounder provided both analogue and digital records of ¶ bathymetric information within the area of investigation. Digital bathymetry data was logged ¶ and processed on the Del Norte 1009 microwave/GPS digital distance measuring unit, and ¶ analogue position and depth data on an EPG graphic recorder. The bar check method was used to calibrate the echo sounder. All bathymetric data acquired during the survey were reduced to chart datum based on tidal information extracted from the Lautoka tide gauge for the final report of results.
+  │       └─Process step                         
+  │           └─Description………………………………………………………… BATHYMETRY COLLECTION PROCESS:  An adom echotrac precision echo sounder provided both analogue and digital records of bathymetric information within the area of investigation. Digital bathymetry data was logged and processed on the Del Norte 1009 microwave/GPS digital distance measuring unit, and analogue position and depth data on an EPG graphic recorder. The bar check method was used to calibrate the echo sounder. All bathymetric data acquired during the survey were reduced to chart datum based on tidal information extracted from the Lautoka tide gauge for the final report of results.
+  ├─Data quality info (4 of 4)                   
+  │   ├─Scope                                    
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 10-Jan-2012 07:50:50
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… eafe683a-3cc6-40cb-ba8b-9d1554755baa
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

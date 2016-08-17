@@ -1,0 +1,134 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 60 South, WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Fiji - Deepsea Mineral Resources Survey (Atlas & Reports)
+  │   │   ├─Date                                 
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… The Cooperative Study on the Deepsea Mineral Resources in Selected Offshore Areas of the SOPAC Region, 2001 -Sea Area of The Republic of the Fiji Islands. In the second year of the Stage II Phase 2 program of the joint study program for the deep sea mineral resources survey in the exclusive economic zone (EEZ) of the SOPAC member countries the study was conducted in the EEZ of the Republic of the Fiji Islands. Within the EEZ of Fiji, the surveys were conducted in 1999 and 2001 and two areas, Central Hill and ERZ A, were selected to be high potential for hydrothermal mineralization in the survey of 1999. Based on the results of the survey in 1999, the survey in 2004, included bathymetric survey, seafloor observation (FDC), samplings (FPG AD), was conducted in the two areas for assessing the potentiality of seafloor hydrothermal mineralization. Further, the environmental survey using RO and MC was carried out as baseline studies of the area to predict the magnitude of mining impact on the deep-sea environment
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Emily Artack
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Maritime Boundaries Project Officer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… FIJI_Deepseaminearals_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… FIJI_Deepseaminearals.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Deep sea mineral Reosources, Maritime Boundary, manganese nodules,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Fiji Islands
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   └─Access constraints………………………………………………… Copyright
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 175°E
+  │   │       ├─East bound longitude………………………………… 180°E
+  │   │       ├─South bound latitude………………………………… 19°09′46.008″S
+  │   │       └─North bound latitude………………………………… 16°09′12.492″S
+  │   └─Supplemental information…………………………………………… Latitide  Longitude a)16°00′S ¶ 177°15′E ¶ b) 16°00′S ¶ 177°35′E ¶ c) 16°30′S ¶ 177°35′E ¶ d)16°30′S ¶ 177°15′E ¶ e)16°00′S ¶ 177°15′E
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 7)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… THE COOPERATIVE STUDY PROJECT_VOL5_SeaAreaOftheRepublicofFiji_Feb10_2000.pdf
+  │       │   └─Description………………………………………………………… Fiji Islands, Report on The Cooperative Study Project on the Deepsea mineral Resources ,2000, PDF format
+  │       ├─On line (2 of 7)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… REPORT ON THE COOPERATIVE STUDY PROJECT_VOL2_SeaAreaoftheRepublicofFijiIs_Feb28_2002.pdf
+  │       │   └─Description………………………………………………………… Fiji Islands, Report on The Cooperative Study Project on the Deepsea mineral Resources ,2002, PDF format
+  │       ├─On line (3 of 7)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… REPORT ON THE COOPERATIVE STUDY PROJECT_VOL2_SeaAreaoftheRepublicoftheFijiIslands_Feb28_2005.pdf
+  │       │   └─Description………………………………………………………… Fiji Islands, Report on The Cooperative Study Project on the Deepsea mineral Resources, PDF format
+  │       ├─On line (4 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=132&fname=fiji01_b.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… fiji01_b.pdf
+  │       │   └─Description………………………………………………………… Fiji Islands, SOPAC Deepsea Mineral Resources atlas 01 , File format - pdf
+  │       ├─On line (5 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=132&fname=fiji02_b.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… fiji02_b.pdf
+  │       │   └─Description………………………………………………………… Fiji Islands, SOPAC Deepsea Mineral Resources atlas 02, (Central Hill and N - S Hill ), File format - pdf
+  │       ├─On line (6 of 7)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=132&fname=fiji03_b.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… fiji03_b.pdf
+  │       │   └─Description………………………………………………………… Fiji Islands, SOPAC Deepsea Mineral Resources atlas 03, (Triple Junction Area, Geology), File format - pdf
+  │       └─On line (7 of 7)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=132&fname=fiji04_b.pdf&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… fiji04_b.pdf
+  │           └─Description………………………………………………………… Fiji Islands, SOPAC Deepsea Mineral Resources atlas 04, (Triple Junction Area, Typical Chimney- Mound Obeserved by FDC ), File format - pdf
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 30-Aug-2013 09:57:02
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… e8b53530-9a1a-47fd-ad42-07433199bb5b
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

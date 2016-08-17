@@ -1,0 +1,117 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  ├─Reference system info……………………………………………………………… null
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Kiribati, Line Islands, 1985,Deepsea Minerals Resources Survey, (NBS), Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 12-Feb-2010 13:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Image digital
+  │   ├─Abstract……………………………………………………………………………………… A Joint Basic Study by the South Pacific Applied Geosience Commission (SOPAC) and the Government of Japan undertaken for marine geological and other studies relating to mineral prospecting to assess the mineral resources potential of the deep sea bottom in the offshore regions of SOPAC member countries. This metadata entry presents survey conducted in the sea area of the Republic of the Kiribati Islands, for the Year 1985. Bathymetry dataset was produced by the Joint Japan International Cooperation Agency and SOPAC Deepsea Mineral Survey.  Survey included Position locating using GPS, acoustic surveys seafloor (topographic survey carried out by MBES) , sea floor observation and photography, core sampling and CTD measurements. Bathymetry datasets can be downloaded from the appropriate link under Distribution Info with appropriate permission from the Secretariat.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Akuila Tawake
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… akuila@sopac.org
+  │   │   │   └─Position name…………………………………………………… Project Officer - Maritime Boundaries
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… 1985nbsthumbnail_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… 1985nbsthumbnail.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Narrow Beam Survey, Deepsea Mineral ,topographic survey,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Kiribati, Line islands, Palmyra Atoll, Teraina (Washininton Island), Fanning island, Christmas Island
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 168°E
+  │           ├─East bound longitude………………………………… 148°W
+  │           ├─South bound latitude………………………………… 13°S
+  │           └─North bound latitude………………………………… 7°N
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=728&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=728&fname=1985nbs.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 1985nbs.xyz
+  │       │   └─Description………………………………………………………… 1985, Kiribati, Bathymetry Survey Dataset (NBS): Format: XYZ format
+  │       └─On line (3 of 3)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=728&fname=1985nbs.shp.zip&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… 1985nbs.shp.zip
+  │           └─Description………………………………………………………… 1985, Kiribati, Bathymetry Survey Bathymetry Dataset (NBS): Format: XYZ format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Name of dataset: 1985NBS.DAT ¶  ¶ DATA TOTALS: ¶ Number of records: 30,504 ¶  ¶ START OF DATA: ¶ Date: 1985 May 10th ¶ Time: 5.45.30 ¶ Lon: 7.0856 ¶ Lat :-157.9112 ¶ Depth: 5329 ¶  ¶ End of data: ¶ Date:1985 May 10th ¶ Time: 05.04.00 ¶ Long: 7.9961 ¶ Lat: -159.4921 ¶ Depth: -5233 ¶  ¶  ¶  ¶ LIMITS OF DATA: ¶ West Bound Longitude: 8.2611 ¶ East Bound Longitude: 7.4909 ¶ North Bound Latitude: 158.5205 ¶ South Bound latitude: 156.8928 ¶ Minimum Depth: -3763, Maximum Depth: -5984
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 01-Mar-2013 12:25:29
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 2b56efb1-b244-4914-8c30-19041075b5a3
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

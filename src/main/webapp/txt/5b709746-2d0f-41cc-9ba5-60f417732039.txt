@@ -1,0 +1,145 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 58 North,WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Marshall Islands, Deepsea Minerals Survey (Atlas & Report)
+  │   │   ├─Date                                 
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… The Cooperative Study on the Deepsea Mineral Resources in Selected Offshore Areas of the SOPAC Region, 2002, Sea Area of the Republic of the Marshall Islands .On the basis of the previous survey results, three seamounts, MS01, MS11, and ¶ MS12 were selected and drilling by BMS (deep sea boring system) was conducted to understand the ¶ occurrence of cobalt crust. Environmental survey was carried out to make clear the environmental characteristics of the area. The area was selected in accordance with the joint study program for deepsea ¶ mineral resources in the EEZ of the SOPAC member countries agreed upon by the Japanese ¶ executing agency and the South Pacific Applied Geoscience Commission (SOPAC) on March 3, ¶ 2000.  By the survey, seafloor topographic maps and acoustic reflectivity data by MultiNarrow ¶ Beam Echo Sounder (MBES) of thirteen seamounts had been obtained, and sampling mainly by ¶ dredging had been carried out.
+  │   ├─Purpose………………………………………………………………………………………… The purpose of the survey lies in the assessment of the potential of cobalt rich manganese crust (cobalt crust) resources and the environmental characteristic within the Exclusive Economic Zone (EEZ) of the Republic of the Marshall Islands, a member country of SOPAC.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Akuila Tawake
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… akuila@sopac.org
+  │   │   │   └─Position name…………………………………………………… Project Officer (Surveying)
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Maritime Boundary, Deepsea Mineral Resources, Cobalt rich manganese crust, Seamounts
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Marshall Island
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Data Accesibility - for dowloading privledges refer to listed point of contact
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 162°19′29.892″E
+  │   │       ├─East bound longitude………………………………… 169°58′17.832″E
+  │   │       ├─South bound latitude………………………………… 5°36′01.008″N
+  │   │       └─North bound latitude………………………………… 14°35′38.508″N
+  │   └─Supplemental information…………………………………………… SURVEY AREA   Latitude Longitude ¶   a.) 20°20’S  155°00’E ¶   b.) 20°00’S  175°00’E ¶   c.)  5°00’S  175°00’E ¶   d.)  5°00’S  155°00’E ¶   a.) 20°00’S  155°00’E ¶  ¶ SEAMOUNTS:     The MS01 seamount belongs to the Ralik Chain, and the MS11 and the MS12 seamounts ¶ belong to the group of seamount including the Anewetak Atoll. The MS12 seamount is called Mij­ ¶ Lep Guyot
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 9)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… REPORT ON THE COOPERATIVE STUDY PROJECT_VOL3_SeaAreaofTheRepublicofMarshalIslands_Feb28_2003.pdf
+  │       │   └─Description………………………………………………………… Marshall Islands, Report on Coperative Study Project on Deepsea Minearal Resources, 2003, PDF Format
+  │       ├─On line (2 of 9)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… REPORT ON THE COOPERATIVE STUDY PROJECT_VOL4-1_SeaAreaofRepublicofMarshalIslands_Feb10_1999.pdf
+  │       │   └─Description………………………………………………………… Marshall Islands, Report on Coperative Study Project on Deepsea Minearal Resources, 1999, PDF Format
+  │       ├─On line (3 of 9)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… REPORT ON THE COOPERATIVE STUDY PROJECT_VOL2_SeaAreaOftheRepublicOfMarshalIslands_Feb10_1997.pdf
+  │       │   └─Description………………………………………………………… Marshall Islands, Report on Coperative Study Project on Deepsea Minearal Resources, 1998, PDF Format
+  │       ├─On line (4 of 9)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=135&fname=marshall01_b.jpg&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… marshall01_b.jpg
+  │       │   └─Description………………………………………………………… Marshall Islands, Deepsea Mineral Resources Atlas 01, JPG Format
+  │       ├─On line (5 of 9)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=135&fname=marshall02_b.jpg&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… marshall02_b.jpg
+  │       │   └─Description………………………………………………………… Marshall Islands, Deepsea Mineral Resources Atlas 02, JPG Format
+  │       ├─On line (6 of 9)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=135&fname=marshall03_b.jpg&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… marshall03_b.jpg
+  │       │   └─Description………………………………………………………… Marshall Islands, Deepsea Mineral Resources Atlas 03, JPG Format
+  │       ├─On line (7 of 9)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=135&fname=marshall04_b.jpg&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… marshall04_b.jpg
+  │       │   └─Description………………………………………………………… Marshall Islands, Deepsea Mineral Resources Atlas 04, JPG Format
+  │       ├─On line (8 of 9)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=135&fname=marshall05_b.jpg&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… marshall05_b.jpg
+  │       │   └─Description………………………………………………………… Marshall Islands, Deepsea Mineral Resources Atlas 05, JPG Format
+  │       └─On line (9 of 9)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=135&fname=marshall06_b.jpg&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… marshall06_b.jpg
+  │           └─Description………………………………………………………… Marshall Islands, Deepsea Mineral Resources Atlas 06, JPG Format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 30-Aug-2013 10:40:12
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 5b709746-2d0f-41cc-9ba5-60f417732039
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

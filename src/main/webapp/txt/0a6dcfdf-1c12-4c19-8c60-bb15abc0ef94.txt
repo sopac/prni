@@ -1,0 +1,124 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 58 South, WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Nauru, High Resolution Bathymetry Survey, Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 30-Sep-2005 11:58:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… The Pacific Islands Applied Geoscience Commission, SOPAC, carried out a marine survey in the waters around Nauru. ¶ High-resolution bathymetric mapping survey of the seabed surrounding the island of Nauru. The survey achieved 100 % coverage of the sea floor from approximately 50 m depth in the nearshore area to an average offshore distance of 3 km, reaching water depths of some 1800 m. ¶ A review of external sources of available bathymetry was also undertaken, and the survey data was supplemented with publicly available data for Nauru EEZ. The resultant data ¶ compilation was used to produce a bathymetry chart of Nauru at 1:25 000. The resultant datasets in ascii, tab delimiter files are available from this metadata entry. The charts and related reports are available as separate metadata entries here on the SOPAC Geonetwork site. ¶ This work was initiated by the SOPAC/EU Reducing Vulnerability of Pacific ACP States ¶ Project.
+  │   ├─Purpose………………………………………………………………………………………… The objective was to investigate the seabed and provide information about the nearshore water depths around the island using a multibeam echo sounder (MBES).
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Jens Kruger
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Multibeam Echo Sounder System, Multibeam Backscatter
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Nauru
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Restricted: Datasets available for download upon request to SOPAC Secretariat via the listed SOPAC GEONETWORK contact.
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 166°54′15.912″E
+  │           ├─East bound longitude………………………………… 166°57′25.38″E
+  │           ├─South bound latitude………………………………… 0°33′07.992″S
+  │           └─North bound latitude………………………………… 0°29′35.988″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 4)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=179&fname=nr_nauru_bathy_10m_grid.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… nr_nauru_bathy_10m_grid.xyz
+  │       │   └─Description………………………………………………………… Nauru Bathymetry, 10m grid, Format: ascii, tab delimiter, xyz
+  │       ├─On line (2 of 4)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=179&fname=nr_nauru_bathy_50m_grid.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… nr_nauru_bathy_50m_grid.xyz
+  │       │   └─Description………………………………………………………… Nauru Bathymetry, 50m grid, Format: ascii, tab delimiter, xyz
+  │       ├─On line (3 of 4)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=179&fname=nr_nauru_bathy_all_points.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… nr_nauru_bathy_all_points.xyz
+  │       │   └─Description………………………………………………………… Nauru Bathymetry, Format: ascii, tab delimiter, xyz
+  │       └─On line (4 of 4)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=179&fname=nr_noaa_and_sopac_bathy_100m_buffer_combined.xyz&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… nr_noaa_and_sopac_bathy_100m_buffer_combined.xyz
+  │           └─Description………………………………………………………… Nauru, Noaa Bathymetry, 100m buffer, Format: ascii, tab delimiter, xyz
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Refer to Nauru Technical Report: High Resolution Bathymetry Survey , Jens Kruger and Ashishika Sharma, SOPAC Secretariat
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 11-Jun-2013 23:03:43
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 0a6dcfdf-1c12-4c19-8c60-bb15abc0ef94
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

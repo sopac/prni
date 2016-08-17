@@ -1,0 +1,113 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 4 South, WGS 84, EPSG Code : 32704
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Cook Islands, Rarotonga, Avarua Avatiu Lagoon Bathymetry Survey Datasets
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 05-Sep-1987 08:47:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds an ASCII Tab delimited bathymetry dataset of Anearshore area from Avarua to Avatiu harbour . ¶ This operation was undertaken for the CCOP/SOPAC Work Programme CCSP/CK.8 "Feasibility studies for Harnessing Wave Energy for Rarotonga funded by the Goverment of Norway. As part of a wave energy study program in the South Pacific the Norwegian Goverment also supplied CCOP/SOPAC with Waverider Buoys for installation in several locations in the CCOP/SOPAC area . The result of the survey are datasets of the wave rider buoy (wave site) area and the Avarua to Avatiu harbour offshore dataset. that was extracted from a complete rarotonga nearshore mutibeam bathymetry survey which was done for the Australian goverment's overseas aid program and further processed for the two particular study area. Datasets in tab delimited format are presented here while the reports are been presented in a separate metadata entry. ¶  ¶  ¶  ¶  Dataset was collected using an Echotrac single beam 200-kHz sounder with DGPS for navigation, control based on UTM Zone 4 WGS84 Spheroid. For tide corrections, data retrieved from the gauge sited in Avatiu Harbour was used to reduce all soundings for the harbours surveyed on Rarotonga. All data has been reduced to tide gauge zero with is reported to be 0.02 m above Lowest Astronomical Tide 92-93 as established by the National Tidal Facility Project. These bathymetry dataset are held at the SOPAC Secretariat on behalf of the Cook Islands Goverment. Dataset can be downloaded from the appropriate link under Distribution Infor with appropriate permission from the Secretariat. Bathymetric maps of the four harbours in the Cook Islands, For the Arutanga Harbour, Aitutaki, tidal reduction of soundings was based on measured data from a triton water level gauge.
+  │   ├─Purpose………………………………………………………………………………………… Purpose of the survey is to map the morphology of the sea bed.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat,
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… avarua_avatiu_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… avarua_avatiu.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, wave rider buoy
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Cook Islands, Aitutaki Lagoon, Avarua Lagoon
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Copyright
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 165°50′54.024″W
+  │           ├─East bound longitude………………………………… 157°42′13.572″W
+  │           ├─South bound latitude………………………………… 21°56′26.988″S
+  │           └─North bound latitude………………………………… 10°52′52.752″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 2)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=162&fname=ck_avatiu_avaura.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… ck_avatiu_avaura.xyz
+  │       │   └─Description………………………………………………………… Cook Islands, Raratonga, Aitutaki and Avarua harbour bathymetry, File format- ascii, tab delimiter, xyz
+  │       └─On line (2 of 2)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=162&fname=ck_raro_avanna_wave_site_bathy.xyz&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… ck_raro_avanna_wave_site_bathy.xyz
+  │           └─Description………………………………………………………… Cook Islands, Avanna Harbour, wave site bathymetry, 2mx2m matrix , File format- ascii, tab delimiter, xyz
+  ├─Data quality info                            
+  │   └─Scope                                    
+  │       └─Level…………………………………………………………………………………… Dataset
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 15-Apr-2011 10:37:21
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 39eaeb71-cebc-446b-9665-ef2114d4b886
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

@@ -1,0 +1,186 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC , Mead Road, Nabua, FJ
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag ,GPO, Suva, FJ
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience
+  ├─Reference system info……………………………………………………………… Vertical Datum: UTM Zone 59 ,WGS 84, Horizontal Datum: Lowest Astronomical Tide (LAT)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Marshall Islands, 2004, Majuro Atoll, Sand and Gravel Resources survey, Bathymetry datasets
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 01-May-2004 23:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… SOPAC conducted a 478 kilometers of high resolution multibeam bathymetry survey in Majuro , Marshall Islands. Areas covered included the eastern part portion of the lagoon from the airport to Uliga in the east , the inner margin of the lagoon and the northern margin from Calalin channel to Rita. A single reconnaissance multibeam line was also completed along the lagoon reef slope of the western margin of the atoll. Seismic information and data on the physical properties of the water were collected concurrently. ¶ Together with previous survey data were plotted onto high resolution IKONS satellite imagery to show the effects of past dredgings. Data collected was used to produce bathymetry maps and are available here in PDF formats for download with appropriate permission from the SOPAC secretariat. ¶  ¶ The government of Australia and Taiwan were the major funding of the project and the project had the support and assistance of the government of the Republic of the Marshall islands through the Marshall islands Marine Resources Authority (MIMRA).
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… mh_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… mh.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Multibeam bathymetry, Oceanography, Sampling and analysis, Sediment Composition, jetprobe, conductivity depth profiler
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Marshall Island, Majuro Atoll, Uliga Peace Park, Laura, Calalin Channel, Rita
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Appropriate permission from the SOPAC Secreatariat is needed for data download
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 162°19′29.892″E
+  │   │       ├─East bound longitude………………………………… 169°58′17.832″E
+  │   │       ├─South bound latitude………………………………… 5°36′01.008″N
+  │   │       └─North bound latitude………………………………… 14°35′38.508″N
+  │   └─Supplemental information…………………………………………… Majuro Atoll is located 7 deg 04'N, 171deg 16'E. Uliga is the island town located is located 7 deg 05' 53"N, 171 deg 23' 56"E.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_22nd.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_22nd.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, 22nd Multibeam Bathymetry Map,  Ascii tab delimter file, XYZ
+  │       ├─On line (2 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_area_1.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_area_1.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Resource Area 1 Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (3 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_area_2.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_area_2.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Resource Area 2 Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (4 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_area_5.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_area_5.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Resource Area 5 Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (5 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_area_6.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_area_6.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Resource Area 6 Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (6 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_kramer_z.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_kramer_z.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Kramer Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (7 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_maj_z.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_maj_z.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (8 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_north_z.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_north_z.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, North, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (9 of 16)                    
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_pearl_farm.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_pearl_farm.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Pearl Farm, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (10 of 16)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_site_3.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_site_3.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Resource Site 3, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (11 of 16)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_west_majuro.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_west_majuro.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll,West, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (12 of 16)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_wreck_2.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_wreck_2.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Wreck 2 area, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (13 of 16)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_wreck_junk.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_wreck_junk.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Wreck_junk area, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (14 of 16)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_wreck_line39.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_wreck_line39.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Wreck line area, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       ├─On line (15 of 16)                   
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_wreck_ship.xyz&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… mh_wreck_ship.xyz
+  │       │   └─Description………………………………………………………… Majuro Atoll, Wreck Ship area, Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  │       └─On line (16 of 16)                   
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=799&fname=mh_wreck_z.xyz&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… mh_wreck_z.xyz
+  │           └─Description………………………………………………………… Majuro Atoll, Wreck area Multibeam Bathymetry Map, Ascii tab delimter file, XYZ
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… All bathymetric data acquired during the survey are reduced to the tide gauge zero of the Majuro Tide gauge located at Uliga dock Easter Majuro Lagoon.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Sep-2011 15:12:37
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… c5ab33c7-84f6-4868-bed6-7f58ee30fd3c
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

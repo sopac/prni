@@ -1,0 +1,115 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 59 North,WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Marshall Island, High Resolution Bathymetry Survey, Technical report (ER117)
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 01-Sep-2008 08:59:00
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Document digital
+  │   ├─Abstract……………………………………………………………………………………… High-resolution bathymetric survey was carried out in Majuro Atoll in the Marshall Islands over a period of 10 days from 18 to 27 July, resulting in the acquisition of 752 km of multibeam echo sounder data. This report describes the marine survey work carried out by the Pacific Islands Applied Geoscience Commission (SOPAC) for Majuro. The resultant data compilation was used to produce bathymetry charts available from the SOPAC geonetwork site as a separate metadata entry. The report is available for download from its appropriate link under Distribution Info. This work was initiated by the SOPAC/EU Reducing Vulnerability of Pacific ACP States Project, under the European Development Fund.
+  │   ├─Purpose………………………………………………………………………………………… The objective of the survey contained in the report was to investigate the seabed and provide information about water depths in and around the atoll using a Multibeam echosounder (MBES).
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Jens Kruger
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO Suva,Fj
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… MH_Majuro_report_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… MH_Majuro_report.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Digital elevation model, Digital terrain model, Multibeam echosounder, Seamount catalogue, Acoustic Doppler current profilers
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Marshall Island, Majuro Atoll, South Pacific Ocean
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Restricted: Downloading of Report needs request from SOPAC Secreretariat via the listed SOPAC Geonetwork contact.
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Geoscientific information
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 162°19′29.892″E
+  │   │       ├─East bound longitude………………………………… 169°58′17.832″E
+  │   │       ├─South bound latitude………………………………… 5°36′01.008″N
+  │   │       └─North bound latitude………………………………… 14°35′38.508″N
+  │   └─Supplemental information…………………………………………… Majuro is located  171 degr12' E and 7degr 09'N. ¶ The atolls of Marshall Islands consist of circular to elliptical chains of small carbonate islands associated with a coral-reef platform encircling a shallow, central, seawater lagoon. The atoll islands, which typically consist of reef debris and atoll sediments, are exposed or emerged portions of a thick carbonate platform that has formed on top of a subsided and submerged volcanic edifice. The Marshall Islands sit atop the Pacific Plate and are thought to represent a senescent ¶ volcanic chain produced by a long-inactive hotspot (Scott and Rotondo 1983). Unlike the nearby linear volcanic island chains in the Pacific, the volcanoes that underlie the present- ¶ day Marshall Islands are widely scattered and do not exhibit any apparent age linearity. ¶ The survey achieved good coverage of the seafloor in the lagoon within the survey area from approximately 10 to 70 m water depths. The eastern nearshore area of the reef slope was ¶ mapped from approximately 10 m depth to an average offshore distance of 5 km, reaching water depths of some 2200 m. The seafloor terrain was found to be highly irregular with an ¶ average slope of 31 degrees.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   └─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=574&fname=MajuroBathy-edJJ.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… MajuroBathy-edJJ.pdf
+  │       │   └─Description………………………………………………………… MH, majuro Atoll, High Resolution Bathymetry Survey Technical Report(ER 117)
+  │       └─On line (3 of 3)                     
+  │           └─Protocol………………………………………………………………… OGC:WMS-1.1.1-http-get-map
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Attribute
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Report Introduction includes a summary background of survey, Geographical situation  and setting of survey area and list of previous bathymetry compilation of surveys in the area. ¶ Report also presents the results ,methods for data acquisition and processing and Appendices which includes the high resolution Charts, Majuro Bathymetry.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 19-Feb-2009 15:32:39
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 5fd3f31e-cf16-436c-802d-3e8ec37df33b
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

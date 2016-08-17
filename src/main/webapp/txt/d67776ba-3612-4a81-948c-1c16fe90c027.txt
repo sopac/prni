@@ -1,0 +1,144 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Division, Mead Road, Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Division, Mead Road, Nabua, FJ
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM , Zone 4S (WGS 84)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Cook Islands, Penrhyn, 1997, Shallow Water Bathymetry data
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 22-Jun-2011 15:00:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This entry holds a gridded bathymetry data of Penrhyn Atoll in the Cook Islands. Dataset are stored in Universal Traverse Mercator (UTM) ,Zone 4S WGS84 ( Eastings & Northings & Depths). ¶ The original files in DXF, MapInfor, ASCII Tab delimited formats have been converted to shapefiles. MapInfor files contains Eastings, Northings and depths. Contours are unlabelled and all formats are available for download from the 'Online Resources' Link of this metadata entry with approval from the Division.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +(679)337040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC Division, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… Fiji
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Geophysicist
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Division of Applied Geoscience Commission
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… penryhn_1993_bathy_thumbnail_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… penryhn_1993_bathy_thumbnail.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… bathymetry, shallow water bathymetry,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Cook Islands, Manihiki, Murihiti, Tauhanu, Tukao
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints (1 of 2)………………………… Copyright
+  │   │   ├─Access constraints (2 of 2)………………………… Restricted
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       ├─Description…………………………………………………………………… Manihiki
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 161°02′34.8″E
+  │           ├─East bound longitude………………………………… 160°56′49.2″E
+  │           ├─South bound latitude………………………………… 10°28′30″S
+  │           └─North bound latitude………………………………… 10°22′30″S
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1362&fname=CK_Penryhn_1993_bathy_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… CK_Penryhn_1993_bathy_shp.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Penrhyn, Bathymetry data, File format: SHP in ZIP folders
+  │       ├─On line (2 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1362&fname=CK_Penrhyn_bathy_mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… CK_Penrhyn_bathy_mapinfo.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Penrhyn, Bathymetry data, File format: MapInfo format in zip folder
+  │       ├─On line (3 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1362&fname=CK_Penrhyn_1993_contour_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… CK_Penrhyn_1993_contour_shp.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Penrhyn, Contour data, File format: SHP format in ZIP folder
+  │       ├─On line (4 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1362&fname=CK_Penryhn_contour_mapinfo.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… CK_Penryhn_contour_mapinfo.zip
+  │       │   └─Description………………………………………………………… Cook Islands, Penrhyn, Contour data, File format: MapInfo format in zip folder
+  │       ├─On line (5 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1362&fname=CK_Coast_Reef_Roads_shp.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… CK_Coast_Reef_Roads_shp.zip
+  │       │   └─Description………………………………………………………… Cook Island, Penrhyn_(Reef, Roads, Coast). SHP in Zip files
+  │       ├─On line (6 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=1362&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (7 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://ict.sopac.org/VirLib/LR0089.pdf
+  │       │   ├─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       │   └─Description………………………………………………………… SOPAC Preliminary Report 0089: Shallow Water Bathymetry Database, PDF Format
+  │       └─On line (8 of 8)                     
+  ├─Data quality info (1 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Files: ¶ manihiki_contour.dxf, ¶ manihiki_bathy.txt, ¶ manihiki_contour.DAT,*.ID, *.MAP, *.TAB, ¶ manihiki_bathymetry.ID, *.MAP, *.TAB, ¶ manihiki_bathymetry.dbf, *.prj, *.qpj, *.shp, *.shx, ¶ manihiki_contour.dbf, *.prj, *.qpj, *.shp, *.shx
+  ├─Data quality info (2 of 2)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Collection hardware
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Echo Sounder: Raytheon DE 719C ¶ Velocity Control: Bar Check ¶ Navigation Equipment: Del Norte DMU 520 (Range- Range) ¶ Navigation Control: Based on shore stations at known bench marks
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 21-Jul-2015 09:42:07
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… d67776ba-3612-4a81-948c-1c16fe90c027
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

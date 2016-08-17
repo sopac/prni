@@ -1,0 +1,118 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat,
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 59 North,WGS 1984
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Kiribati, Abemama, 2005, Bathymetry Chart, (1 : 40 000)
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 19-Oct-2005 11:32:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… High-resolution bathymetric mapping survey was carried out for Kiribati Islands around Abaiang, Tarawa, Abemama, Banaba and Onotoa. The survey was carried out over a period of six weeks in September and October 2005, resulting in the acquisition of over 900 km of multibeam echo sounder (MBES) data. Resultant data compilation was used to produce bathymetry charts including Abemana bathymetry chart and is available for download from its appropriate link under Distribution Info. This work was initiated by the Pacific Islands Applied Geoscience Commission (SOPAC) and the European Union (EU) Reducing Vulnerability of Pacific ACP States Project.
+  │   ├─Purpose………………………………………………………………………………………… To investigate the seabed and provide information about water depths around the islands using a multibeam echo sounder (MBES).
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Jens Kruger
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… jkruger@sopac.org
+  │   │   │   └─Position name…………………………………………………… Physical Oceanographer
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Abemama_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Abemama.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Bathymetry, Multibeam Echo Sounder System Survey, EEZ
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Kiribati, Abemana
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints (1 of 2)………………………………… Intellectual property rights
+  │   │   ├─Use constraints (2 of 2)………………………………… Restricted
+  │   │   └─Other constraints…………………………………………………… Charts are available on request from the SOPAC Secretariat via the listed SOPAC Geonetwork contact.
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 157°34′54.12″W
+  │   │       ├─East bound longitude………………………………… 157°10′21.18″W
+  │   │       ├─South bound latitude………………………………… 1°42′18″N
+  │   │       └─North bound latitude………………………………… 2°01′58.98″N
+  │   └─Supplemental information…………………………………………… Abemama Atoll located 0 degrees 24'N and 173 degrees 52'E, in the central part of the Kiribati (Gilberts) Group is just north of the Equator and has an area of 16 square kilometres. Multibeam bathymetric survey extended approximately 500m offshore on all sides of the atoll and a maximum depth coverage of 300m.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 2)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=139&fname=readme.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… readme.pdf
+  │       │   └─Description………………………………………………………… Kiribati High Resolution bathymetry survey ,Summary Report, PDF format
+  │       └─On line (2 of 2)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=139&fname=ki_abemama__bathy_1_to_40_000.pdf&access=private
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… ki_abemama__bathy_1_to_40_000.pdf
+  │           └─Description………………………………………………………… Kiribati, Abemama Bathymetry Chart, 1 :40 000, PDF format
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… The bathymetry are contoured at intervals of 20 and 50m. The charts also include smaller scale insets of 3D ,shaded relief and slope angle bathymetric images which are also reproduced in the Bathymetry Technical Report. Refer to Kiribati, Tarawa bathymetry Chart, 1 : 100 000 for further details. ¶  ¶  ¶ Refer to Kiribati Technical Report: High Resolution bathymetry survey of Kiribati
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 03-Jul-2012 15:58:27
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… b240a9e1-8250-4b68-9a11-8e7b39274d59
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

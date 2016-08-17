@@ -1,0 +1,114 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC , Mead Road, Nabua, FJ
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………………… Private Mail Bag ,GPO, Suva, FJ
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience
+  ├─Reference system info……………………………………………………………… WSIG Western Samoa (WGS 72)
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Samoa, Northeast Savai'i, Coastal Geological Map
+  │   │   ├─Date                                 
+  │   │   │   └─Date type……………………………………………………………… Publication
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… Coastal geological and geomorphological mapping was done around Savai'i Island, Samoa. Four map sheets representing the 4 directional quarters of Savai'i island was produced and is available for download with appropriate permission. Geological and geomorphological coastal map of South-East Savai'i is contained in this metadata entry. Aerial photographs taken in 1999 were mainly used for overall mapping. Satellite (Ikonos) images, 1:100,000-scale geology map and 1:50,000-scale topography maps were also used as supplementary data. In order to check image interpretation, in situ surveys were conducted along the whole coastal area of the Savai’i island. Visual check and description, photographs or video recording, beach profiling, bathymetry survey and sampling were performed. In the laboratory, re-interpretation of images was performed based on the results of surveys and laboratory analysis. The final data were compiled using GIS software (MapInfoTM) and produced into 1:12,500- to 1:50,000-scale map sheets. This map series was published by the Korea Institute of Geoscience and Mineral resources (KIGAM) with the assistance of Samoa Meteorology Division (SMD) Ministry of Natural Resources ,Environment and Meteorology (MNREM) of Samoa and South Pacific Applied Geoscience and with the grant of UNDP under the auspices of the Ministry of Education , Science and Technology (MEST) of Korea and KIGAM. A SOPAC task WS 1999.009 intiated by the request of Samoa as apart of the SOPAC-KIGAM program.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SOPAC Secretariat
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO Suva,Fj
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience & Technology Division (SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Geological, Geomophological, barrier reef coast, Fringing reef coast, Lava cliffed coast,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Samoa,
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   ├─Use constraints………………………………………………………… Intellectual property rights
+  │   │   └─Other constraints…………………………………………………… Appropriate request to SOPAC Secreatariat is needed for data download.
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 180°W
+  │   │       ├─East bound longitude………………………………… 180°E
+  │   │       ├─South bound latitude………………………………… 90°S
+  │   │       └─North bound latitude………………………………… 90°N
+  │   └─Supplemental information…………………………………………… You can customize the template to suit your needs. You can add and remove fields and fill out default information (e.g. contact details). Fields you can not change in the default view may be accessible in the more comprehensive (and more complex) advanced view. You can even use the XML editor to create custom structures, but they have to be validated by the system, so know what you do :-)
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 3)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 4.Coastal Geological Map of Samoa(Northeast Savai'i).jpg
+  │       │   └─Description………………………………………………………… Coastal Geological & Geomophological Map of NorthEast Savai'i, Format: jpg
+  │       ├─On line (2 of 3)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=596&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (3 of 3)                     
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… 2.Explanation of Coastal Geological Map of Samoa(Savai'i Island).pdf
+  │           └─Description………………………………………………………… Explanation of Coastal Geological Map Savai'i Island, Samoa.pdf
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… The coastal geological map of Samoa, Southeast Savai'i includes detail map of Pu'apu'a , Salelologa, Tafua and Palauli. The coastal geology is described and coded with a symbolic legend, which is divided into three groups based on the relative location in the coast; onshore, shoreline and back reef. Map scales was done considering the physical dimension of major features and map arrangement
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 11-Jan-2012 08:54:56
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 451cae49-48e5-4ec5-9b73-2a6be1cf0484
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

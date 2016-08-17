@@ -1,0 +1,179 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC, SOPAC Division, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… WGS 84
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Nauru, 1997, Maritime Boundaries, Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 04-Feb-2011 13:32:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds, GIS layers that contains poly-lines and point features that represent the maritime boundaries of the Republic of Nauru. This includes a gazetted polyline representing the 200 nautical mile Exclusive Economic Zone over which Nauru has sovereign rights, for the purposes of exploring and exploiting, conserving and managing the natural resources of the seabed, subsoil and superjacent waters. Included here are point shapes representing the archipelagic straight baselines (base points) for the 3M Nauru territorial sea, 12M territorial sea, 24M contiguous zone . The Secretariat has updated these baselines against more recent and accurate information supplied by the SOPAC Division, Maritime boundary mapping and survey project team. The Pacific Islands Regional Maritime Boundaries data release contains the revised straight baselines as are currently proclaimed. These dataset was verified by the Secretariat in 2005. ¶ This record also contains digital information about the treaties. ¶ These baselines are held at the Secretariat on behalf of the Nauru Islands Government and can be downloaded from the appropriate link under the Distribution Info section.
+  │   ├─Purpose………………………………………………………………………………………… The Pacific Islands Regional Maritime Boundaries Project is assisting countries deal with the critical issue of delineation of their maritime boundaries with a focus on: * Providing maritime boundaries delimitation data and information for the member countries to assist in preparation of claims for delimitation of their EEZ; * Developing comprehensive data-sets which facilitate definition of the legal and administrative offshore limits for member countries, in accordance with the provisions of UNCLOS; * Building national capacity within member countries to undertake these assessments * Providing advice and assistance to member countries on relevant provisions of UNCLOS; * Acting as an information and data repository. ¶  ¶ These GIS layers are a unique delineation of maritime boundaries of the different member Pacific Island countries. These baselines can be used for diverse purposes by government agencies, surveyors, environmentalist, mariners and other individuals. These applications include biogeography for the creation of species distribution lists per country, determination of legal catch area for fishing, marine transportation, determination of pollution and other environmental issues within a coastal state , regulate disturbance of sea floor activities, educational purposes and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Emily Artack
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3370040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Oceans & Islands Programme
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Secretariat of the Pacific Community, SOPAC Division, Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Maritime Boundaries Project Officer (Cartographer)
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Appied Geoscience and Technology Division
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Andrick Lal
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3370040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Oceans & Islands Programme
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Secretariat of the Pacific Community, SOPAC Division, Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… andrick@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Project Officer-Surveying
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Appied Geoscience and Technology Division
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… nauru_final_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… nauru_final.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Exclusive Economic Zone , Maritime Boundaries, Ocean,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Nauru
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 2)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 173°E
+  │   │       ├─East bound longitude………………………………… 177°W
+  │   │       ├─South bound latitude………………………………… 25°S
+  │   │       └─North bound latitude………………………………… 6°S
+  │   └─Supplemental information…………………………………………… 3M TERRITORIAL SEA BASEPOINT: In layer spatial reference system units : xMin,yMin 166.909,-0.555306 : xMax,yMax 166.96,-0.500111. ¶ EEZ ZONE - (In layer spatial reference system units) xMin,yMin 163.581,-3.90503 : xMax,yMax 167.868,2.69158. ¶ CONTIGUOUS ZONE xMin,yMin 166.509,-0.957278 : xMax,yMax 167.359,-0.098139. ¶ 12M TERRITORIAL SEA ZONE : xMin,yMin 166.709,-0.756278 : xMax,yMax 167.16,-0.299167.
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=897&fname=12M_Territorial_Sea_baselines.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 12M_Territorial_Sea_baselines.zip
+  │       │   └─Description………………………………………………………… 12M_Territorial Sea Baseline, Format: MapInfo file in Zip file
+  │       ├─On line (2 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=897&fname=12M_Territorial_Sea_basepoints.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 12M_Territorial_Sea_basepoints.zip
+  │       │   └─Description………………………………………………………… 12M_Territorial Sea Basepoints, Format: MapInfo file in Zip file
+  │       ├─On line (3 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=897&fname=24M_Contiguous_Zone_baselines.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 24M_Contiguous_Zone_baselines.zip
+  │       │   └─Description………………………………………………………… 24M_Territorial Sea Basepoints, Format: MapInfo file in Zip file
+  │       ├─On line (4 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=897&fname=24M_Contiguous_Zone_basepoints.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 24M_Contiguous_Zone_basepoints.zip
+  │       │   └─Description………………………………………………………… 24M_Territorial Sea Basepoints, Format: MapInfo file in Zip file
+  │       ├─On line (5 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=897&fname=200M_ExclusiveEconomicZones_baselines.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 200M_ExclusiveEconomicZones_baselines.zip
+  │       │   └─Description………………………………………………………… 200M_Exclusive Economic Zone Baselines, Format: MapInfo file in Zip file
+  │       ├─On line (6 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=897&fname=200M_ExclusiveEconomicZones_basepoints.zip&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… 200M_ExclusiveEconomicZones_basepoints.zip
+  │       │   └─Description………………………………………………………… 200M_Exclusive Economic Zone Basepoints, Format: MapInfo file in Zip file
+  │       ├─On line (7 of 8)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… Territorial Sea basepoints.zip
+  │       │   └─Description………………………………………………………… Territorial Sea Basepoints, Format: MapInfo file in Zip file
+  │       └─On line (8 of 8)                     
+  │           ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │           ├─Name…………………………………………………………………………… NauruAn Introduction.pdf
+  │           └─Description………………………………………………………… Introduction to Nauru & Nauru Maritime Laws: PDF Format
+  ├─Data quality info (1 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… 3M TS BASEPOINTS: Storage type of this layer: MapInfo File, number of features in this layer: 1, Geometry type of the features in this layer: Line
+  ├─Data quality info (2 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… 12 TS BASEPOINTS: Storage type of this layer: MapInfo File, number of features in this layer: 1, Geometry type of the features in this layer: Line ¶  ¶ 12 TS BASELINES: Storage type of this layer: MapInfo File, number of features in this layer: 208, Geometry type of the features in this layer: Line
+  ├─Data quality info (3 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… 24M CZ BASEPOINTS: Storage type of this layer: MapInfo File, The number of features in this layer: 1, Geometry type of the features in this layer: Line ¶  ¶ 24M CZ BASELINES: Storage type of this layer: MapInfo File, number of features in this layer: 392, Geometry type of the features in this layer: Line
+  ├─Data quality info (4 of 4)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… 200M EEZ BASEPOINTS: Storage type of this layer: MapInfo File, The number of features in this layer: 673, Geometry type of the features in this layer: Line ¶  ¶ 200M EEZ BASELINE: Storage type of this layer: MapInfo File, number of features in this layer: 1, Geometry type of the features in this layer: Line
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 12-Jun-2013 11:46:06
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… 4be0b92e-ae31-4804-bebf-e280e77c50aa
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

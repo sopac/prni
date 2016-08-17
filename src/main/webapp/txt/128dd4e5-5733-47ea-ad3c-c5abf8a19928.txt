@@ -1,0 +1,177 @@
+Metadata                                      
+  ├─Character set…………………………………………………………………………… UTF-8
+  ├─Contact                                   
+  │   ├─Role………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                        
+  │   │   ├─Name……………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                      
+  │   │       ├─Phone (1 of 2)                
+  │   │       │   ├─Number…………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                
+  │   │       │   ├─Number…………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………… FACSIMILE
+  │   │       └─Address                       
+  │   │           ├─Delivery point……………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………… Suva City
+  │   │           ├─Administrative area………………… SOPAC Secretariat
+  │   │           ├─Postal code……………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………… FJ
+  │   │           └─Electronic mail address……… geonetwok@sopac.org
+  │   └─Party (2 of 2)                        
+  │       └─Name……………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission
+  ├─Reference system info……………………………………………………… null
+  ├─Identification info                       
+  │   ├─Citation                              
+  │   │   ├─Title…………………………………………………………………………… FSM, Pohnpei, 1975 Aerial Photographs
+  │   │   ├─Date                              
+  │   │   │   ├─Date…………………………………………………………………… 06-Sep-2011 16:50:00
+  │   │   │   └─Date type……………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………… Image digital
+  │   ├─Abstract……………………………………………………………………………… These 6 photosets are collections of historical black and white (panchromatic) aerial photographs that was taken around the Pohnpei Island in the Federated States of Micronesia, acquired in 1975. Coverage is limited to areas that fall around the Northern tip of Deke Sokehs, channel area between Takaieu and Maramosok, Sokeh's Harbour, channel area between Temwen Island and Tamworohi, coastal and reef area of Mudokolos in the eastern part of Pohnpei and areas around Southern coastal area of Rohi. ¶ The original paper prints have been scanned at a resolution of 1,200 DPI on a Magnum G600 Wide format scanner and stored as TIFF format images. All 14 Photographs have not been rectified but mosaicked for viewing purposes and uploaded according to their frame numbers. These photosets are held at the Secretariat on behalf of the FSM Goverment.
+  │   ├─Purpose………………………………………………………………………………… The Secretariats aerial photographs is a unique detailed record of the physical landscapes from the different member Pacific Island countries. These photographs can be used for diverse purposes by government agencies, surveyors, planners, consulting scientists, engineers and other individuals. These purposes include determination of past land uses, marine mapping, coral reef habitat mapping ( change detection), restoration of natural areas, assessing historical changes , and a variety of other applications.
+  │   ├─Status…………………………………………………………………………………… Historical archive
+  │   ├─Resource maintenance                  
+  │   │   └─Maintenance and update frequency…… As needed
+  │   ├─Graphic overview (1 of 2)             
+  │   │   ├─File name………………………………………………………………… kosrare44b.png
+  │   │   ├─File description……………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)             
+  │   │   ├─File name………………………………………………………………… kosrare44b_test_s.png
+  │   │   ├─File description……………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)         
+  │   │   ├─Keyword……………………………………………………………………… Historical Photos, Aerial Photos, Change Detection, Base Map, GIS, Mapping, geography, Digital Image, imageryBaseMapsEarthCover
+  │   │   └─Type……………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)         
+  │   │   ├─Keyword……………………………………………………………………… Micronesia,Fed States of, Deke Sokehs,Takaieu, Maramosok, Sokeh's Harbour, Temwen Island, Tamworohi, Mudokolos, Rohi.
+  │   │   └─Type……………………………………………………………………………… Place
+  │   ├─Resource constraints                  
+  │   │   ├─Access constraints………………………………………… Intellectual property rights
+  │   │   ├─Use constraints………………………………………………… Copyright
+  │   │   └─Other constraints…………………………………………… These aerial photographs is the property of the Goverment of the Federated States of Micronesia ,held at the SPC-SOPAC Division. Request for access to images can be made to the secreatriat via the listed point of contact.
+  │   ├─Spatial representation type…………………………… Grid
+  │   ├─Spatial resolution                    
+  │   │   └─Equivalent scale                  
+  │   │       ├─Double value……………………………………………… �
+  │   │       └─Denominator………………………………………………… 0
+  │   ├─Language……………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………… Imagery base maps earth cover
+  │   ├─Extent (1 of 2)                       
+  │   │   └─Temporal element                  
+  │   ├─Extent (2 of 2)                       
+  │   │   └─Geographic element                
+  │   │       ├─West bound longitude………………………… 158°07′12.36″E
+  │   │       ├─East bound longitude………………………… 163°02′34.404″E
+  │   │       ├─South bound latitude………………………… 5°15′42.012″N
+  │   │       └─North bound latitude………………………… 6°58′39.504″N
+  │   └─Supplemental information…………………………………… The Pohnpei Island of the Federated States of Micronesia is located approximately, 6 degrees 54' 11.42"N and 158 degrees 13' 42.84"E. Pohnpei is one of the four states of the Federated States of Micronesia. Palikir the capital of the Federated States of Micronesia is located in Pohnpei.
+  ├─Distribution info                         
+  │   └─Transfer options                      
+  │       ├─On line (1 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=1.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 1.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 1, Format: tif format
+  │       ├─On line (2 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=2.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 2.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 2, Format: tif format
+  │       ├─On line (3 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=3.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 3.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 3, Format: tif format
+  │       ├─On line (4 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=4.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 4.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 4, Format: tif format
+  │       ├─On line (5 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=5.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 5.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 5, Format: tif format
+  │       ├─On line (6 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=6.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 6.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 6, Format: tif format
+  │       ├─On line (7 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=7.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 7.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 7, Format: tif format
+  │       ├─On line (8 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=8.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 8.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 8, Format: tif format
+  │       ├─On line (9 of 21)                 
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=9.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 9.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 9, Format: tif format
+  │       ├─On line (10 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=10.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 10.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 10, Format: tif format
+  │       ├─On line (11 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=11.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 11.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 11, Format: tif format
+  │       ├─On line (12 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=12.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 12.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 12, Format: tif format
+  │       ├─On line (13 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=13.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 13.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 13, Format: tif format
+  │       ├─On line (14 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=14.tif&access=private
+  │       │   ├─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………… 14.tif
+  │       │   └─Description………………………………………………… FSM, Pohnpei, Frame No 14, Format: tif format
+  │       ├─On line (15 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (16 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (17 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (18 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (19 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (20 of 21)                
+  │       │   ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │       │   └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (21 of 21)                
+  │           ├─Linkage…………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=710&fname=&access=private
+  │           └─Protocol………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                         
+  │   ├─Scope                                 
+  │   │   └─Level…………………………………………………………………………… Dataset
+  │   └─Lineage                               
+  │       └─Statement………………………………………………………………… Black and white panchromatic aerial photographs. Photographs were scanned using the magnum G600 Wide format scanner : Scan resolution of optical 1200dpi: true color Grayscale compatibility; Tiff format output
+  ├─Date info                                 
+  │   ├─Date………………………………………………………………………………………… 21-Jul-2014 12:29:27
+  │   └─Date type…………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………… English
+  ├─Metadata identifier                       
+  │   └─Code………………………………………………………………………………………… 128dd4e5-5733-47ea-ad3c-c5abf8a19928
+  └─Metadata standard                         
+      ├─Title……………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………… 1.0

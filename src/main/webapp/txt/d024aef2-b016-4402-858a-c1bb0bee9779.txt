@@ -1,0 +1,166 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC Secretariat, Mead Road ,Nabua
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SPC, SOPAC Division, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwok@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Community, Applied Geoscience and Technology Division (SOPAC)
+  ├─Reference system info……………………………………………………………… Reference to various British Admiralty chart datum
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… Solomon Islands, 1979, Maritime Boundaries, Dataset
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 04-Feb-2011 13:32:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds, GIS layers that contains poly-lines and point features representing the maritime boundaries of Solomon Islands. The 5 sets of basepoints, represent the 5 different sets of basepoints around the 5 different archipelago of the Solomon Islands.  This includes a gazetted polyline representing the 200 nautical mile Exclusive Economic Zone over which Vanuatu has sovereign rights, for the purposes of exploring and exploiting, conserving and managing the natural resources of the seabed, subsoil and superjacent waters. The layers represent the archipelagic straight baselines and base points for the country's maritime zone. The Secretariat has updated these baselines against more recent and accurate information supplied by the respective Government and verified by the SOPAC Division, Maritime boundary mapping and survey project team . The Pacific Islands Regional Maritime Boundaries data release contains the revised straight baselines as are currently proclaimed. This dataset was verified in 2010 and currently being updated. ¶ This record also contains digital information about the treaties. ¶ These baselines are held at the Secretariat on behalf of the Solomon Island Government and can be downloaded from the appropriate link under the Distribution Infor section.
+  │   ├─Purpose………………………………………………………………………………………… These GIS layers are a unique delineation of maritime boundaries of the different member Pacific Island countries. These baselines can be used for diverse purposes by government agencies, surveyors, environmentalist, mariners and other individuals. These applications include biogeography for the creation of species distribution lists per country, determination of legal catch area for fishing, marine transportation, determination of pollution and other environmental issues within a coastal state , regulate disturbance of sea floor activities, educational purposes and a variety of other applications.
+  │   ├─Credit…………………………………………………………………………………………… The Pacific Islands Regional Maritime Boundaries Project is assisting countries deal with the critical issue of delineation of their maritime boundaries with a focus on: * Providing maritime boundaries delimitation data and information for the member countries to assist in preparation of claims for delimitation of their EEZ; * Developing comprehensive data-sets which facilitate definition of the legal and administrative offshore limits for member countries, in accordance with the provisions of UNCLOS; * Building national capacity within member countries to undertake these assessments * Providing advice and assistance to member countries on relevant provisions of UNCLOS; * Acting as an information and data repository.
+  │   ├─Status…………………………………………………………………………………………… On going
+  │   ├─Point of contact (1 of 2)                
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Emily Artack
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3370040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Oceans & Islands Programme
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Secretariat of the Pacific Community, SOPAC Division, Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Maritime Boundaries Project Officer (Cartographer)
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Appied Geoscience and Technology Division
+  │   ├─Point of contact (2 of 2)                
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Andrick Lal
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3381377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… +679 3370040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… Oceans & Islands Programme
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… SPC, SOPAC Division
+  │   │   │   │       ├─Postal code…………………………………… Secretariat of the Pacific Community, SOPAC Division, Private Mail Bag, GPO, Suva, FJ
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… emily@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Project Officer-Surveying
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Community, Appied Geoscience and Technology Division
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_legend_colour_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… SB_legend_colour.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Exclusive Economic Zone , Maritime Boundaries, Ocean,
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Papua New Guinea
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Boundaries
+  │   ├─Extent (1 of 3)                          
+  │   │   └─Temporal element                     
+  │   ├─Extent (2 of 3)                          
+  │   │   └─Geographic element                   
+  │   │       ├─West bound longitude………………………………… 140°51′31.896″E
+  │   │       ├─East bound longitude………………………………… 155°58′00.624″E
+  │   │       ├─South bound latitude………………………………… 11°38′33″S
+  │   │       └─North bound latitude………………………………… 1°21′19.008″S
+  │   ├─Extent (3 of 3)                          
+  │   │   └─Vertical element                     
+  │   └─Supplemental information…………………………………………… The Solomon Islands is situated in the Western Pacific between 5Â° South and 12Â° South and 1550 East ¶ and 170Â° East. The southern and eastern Solomon Islands were progressively placed under British ¶ protection in the 1890s and Santa Isabel and the other islands to the north were ceded by Germany in ¶ 1900. Full self-government was achieved on 2 January 1976 and independence on 7 July 1978. ¶ The land area of the Solomon Islands is estimated to be 29,785 sq km and the approximate population ¶ is 426,855 (July 1997 est.)
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 8)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… Archipelagic Straight Baselines.zip
+  │       │   └─Description………………………………………………………… Archipelagic Straight Baselines, Format: MapInfo file in Zip file
+  │       ├─On line (2 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=SOLOMON_Introduction.pdf&access=private
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… SOLOMON_Introduction.pdf
+  │       │   └─Description………………………………………………………… An Introduction to Solomon Is & Solomon Is Maritime Laws , PDF Format
+  │       ├─On line (3 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (4 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (5 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (6 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (7 of 8)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (8 of 8)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=899&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info (1 of 3)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… ARCHIPELAGIC STRAIGHT BASELINE: Storage type of this layer: MapInfo File, number of features in this layer: 1, Geometry type of the features in this layer: Line ¶  ¶ ARCHIPELAGIC STRAIGHT BASEPOINT: Storage type of this layer: MapInfo File, number of features in this layer: 77, Geometry type of the features in this layer: Line
+  ├─Data quality info (2 of 3)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Software
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… MarZone software was used for the computation of the outer limit of the various maritime zone. ( i.e 3,12,24,200 and 350 nautical miles (M)) and computation of the Article 76 requirements - Extended Continental Shelf.
+  ├─Data quality info (3 of 3)                   
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Attribute
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… Limits of National Jurisdiction ¶ Most of the maritime zones of Papua New Guinea are established by or under the National Seas ¶ Act 1977 (Cap.361). That Act defines the archipelagic waters of Papua New Guinea by reference ¶ to basepoints on the islands that form part of the relevant archipelago. The archipelagic waters ¶ are those waters that fall within lines drawn between these basepoints. That Act also defines the ¶ baselines from which the twelve nautical mile territorial sea is measured. The outer limit of the ¶ "offshore seas" is set out in a metes and bounds definition contained in the Offshore Seas ¶ Proclamation made under the National Seas Act in 1977. The 'offshore seas' combine the area ¶ equivalent to an exclusive economic zone (approximately 3.12 million sq km) with the territorial ¶ sea. They comprise all waters between the territorial sea baseline and the defined outer limit. ¶ The whole of the offshore seas are defined as â€˜fisheries watersâ€™ under the Fisheries Management ¶ Act 1998. ¶ Papua New Guinea has maritime boundaries agreements with Indonesia and Australia. ¶ Agreements with Solomon Islands and Federated States of Micronesia have been negotiated but ¶ not ratified.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 11-Jun-2013 22:33:41
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… d024aef2-b016-4402-858a-c1bb0bee9779
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0

@@ -1,0 +1,120 @@
+Metadata                                         
+  ├─Character set…………………………………………………………………………………… UTF-8
+  ├─Contact                                      
+  │   ├─Role………………………………………………………………………………………………… Point of contact
+  │   ├─Party (1 of 2)                           
+  │   │   ├─Name……………………………………………………………………………………… Geonetwork Team
+  │   │   └─Contact info                         
+  │   │       ├─Phone (1 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 338 1377
+  │   │       │   └─Number type……………………………………………… VOICE
+  │   │       ├─Phone (2 of 2)                   
+  │   │       │   ├─Number…………………………………………………………… + (679) 337 0040
+  │   │       │   └─Number type……………………………………………… FACSIMILE
+  │   │       └─Address                          
+  │   │           ├─Delivery point……………………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │           ├─City………………………………………………………………… Suva
+  │   │           ├─Administrative area………………………… SOPAC Secretariat, Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Postal code……………………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │           ├─Country………………………………………………………… FJ
+  │   │           └─Electronic mail address……………… geonetwork@sopac.org
+  │   └─Party (2 of 2)                           
+  │       └─Name……………………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commision                      (SOPAC)
+  ├─Reference system info……………………………………………………………… UTM Zone 57 North WGS84 , EPSG Code 32457
+  ├─Identification info                          
+  │   ├─Citation                                 
+  │   │   ├─Title…………………………………………………………………………………… FSM, Pohnpei, Kolonia Harbour Bathymetry Chart, 1: 15,000
+  │   │   ├─Date                                 
+  │   │   │   ├─Date…………………………………………………………………………… 31-Mar-2007 09:37:00
+  │   │   │   └─Date type……………………………………………………………… Creation
+  │   │   └─Presentation form…………………………………………………… Map digital
+  │   ├─Abstract……………………………………………………………………………………… This record holds the multibeam bathymetry chart of Kolonia in Pohnpei Island.  Work was carried out over ¶ a 14-day period in June/July 2006 and involved multibeam bathymetric mapping, single-channel seismic profiling, current metering and CTD (conductivity temperature depth) profiling. ¶ Detailed bathymetric mapping was completed in the following areas of the State of Pohnpei: 1) Kolonia Harbour and Lagoon; 2) Sokehs Passage and Lagoon; 3) Pohnpei Passage; 4) Matalanim Harbour; 5) Nan Madol Lagoon; 6) Rontiki Harbour; and 7) offshore bathymetry of Pohnpei Island. ¶ The offshore bathymetry chart of Pohnpei is available for download from the distribution section of this metadata record with appropriate permission from the Secretariat. Resultant datasets in XYZ format and related reports are available as a separate metadata record. ¶ This work was initiated by the SOPAC/EU project :Reducing Vulnerability of Pacific ACP States.
+  │   ├─Purpose………………………………………………………………………………………… To investigate the seabed and provide information about water depths around the islands using a multibeam echosounder (MBES).This bathymetry datasets can serve as the basic tool for scientific, engineering, marine geophysical and environmental studies, as well as marine and coastal resource management and data from the survey will be used to support activities in fisheries, mineral exploration, coastal management, and geo-hazard studies.
+  │   ├─Status…………………………………………………………………………………………… Completed
+  │   ├─Point of contact                         
+  │   │   ├─Role……………………………………………………………………………………… Originator
+  │   │   ├─Party (1 of 2)                       
+  │   │   │   ├─Name…………………………………………………………………………… Robert Smith
+  │   │   │   ├─Contact info                     
+  │   │   │   │   ├─Phone (1 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 338 1377
+  │   │   │   │   │   └─Number type…………………………………… VOICE
+  │   │   │   │   ├─Phone (2 of 2)               
+  │   │   │   │   │   ├─Number………………………………………………… + (679) 337 0040
+  │   │   │   │   │   └─Number type…………………………………… FACSIMILE
+  │   │   │   │   └─Address                      
+  │   │   │   │       ├─Delivery point…………………………… SOPAC, Mead Road, Nabua, FJ.
+  │   │   │   │       ├─City……………………………………………………… Suva
+  │   │   │   │       ├─Administrative area……………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   │   │   │       ├─Postal code…………………………………… Private Mail Bag, GPO, Suva, FJ.
+  │   │   │   │       ├─Country……………………………………………… FJ
+  │   │   │   │       └─Electronic mail address…… robert@sopac.org
+  │   │   │   └─Position name…………………………………………………… Senior Advisor Marine Geophysics
+  │   │   └─Party (2 of 2)                       
+  │   │       └─Name…………………………………………………………………………… Secretariat of the Pacific Islands Applied Geoscience Commission ( SOPAC)
+  │   ├─Resource maintenance                     
+  │   │   └─Maintenance and update frequency…………… As needed
+  │   ├─Graphic overview (1 of 2)                
+  │   │   ├─File name………………………………………………………………………… Kolonia_harbour_s.png
+  │   │   ├─File description……………………………………………………… thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Graphic overview (2 of 2)                
+  │   │   ├─File name………………………………………………………………………… Kolonia_harbour.png
+  │   │   ├─File description……………………………………………………… large_thumbnail
+  │   │   └─File type………………………………………………………………………… png
+  │   ├─Descriptive keywords (1 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Multibeam, bathymetry, Seismic Profiling,Physical Enviromental Measurement
+  │   │   └─Type……………………………………………………………………………………… Theme
+  │   ├─Descriptive keywords (2 of 2)            
+  │   │   ├─Keyword……………………………………………………………………………… Micronesia,Fed States of
+  │   │   └─Type……………………………………………………………………………………… Place
+  │   ├─Resource constraints                     
+  │   │   ├─Access constraints………………………………………………… Copyright
+  │   │   └─Use constraints………………………………………………………… Intellectual property rights
+  │   ├─Spatial representation type…………………………………… Vector
+  │   ├─Spatial resolution                       
+  │   │   └─Equivalent scale                     
+  │   │       ├─Double value……………………………………………………… �
+  │   │       └─Denominator………………………………………………………… 0
+  │   ├─Language……………………………………………………………………………………… English
+  │   ├─Character set………………………………………………………………………… UTF-8
+  │   ├─Topic category……………………………………………………………………… Oceans
+  │   ├─Extent (1 of 2)                          
+  │   │   └─Temporal element                     
+  │   └─Extent (2 of 2)                          
+  │       └─Geographic element                   
+  │           ├─West bound longitude………………………………… 158°07′12.36″E
+  │           ├─East bound longitude………………………………… 163°02′34.404″E
+  │           ├─South bound latitude………………………………… 5°15′42.012″N
+  │           └─North bound latitude………………………………… 6°58′39.504″N
+  ├─Distribution info                            
+  │   └─Transfer options                         
+  │       ├─On line (1 of 5)                     
+  │       │   └─Protocol………………………………………………………………… WWW:LINK-1.0-http--link
+  │       ├─On line (2 of 5)                     
+  │       │   ├─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       │   ├─Name…………………………………………………………………………… FM_Phonpei_Kolonia harbour_bathy_1 to 15000_AO_ chart.pdf
+  │       │   └─Description………………………………………………………… FSM, Pohnpei Island State, Kolonia, bathymetry chart, Format: pdf
+  │       ├─On line (3 of 5)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=976&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       ├─On line (4 of 5)                     
+  │       │   ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=976&fname=&access=private
+  │       │   └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       └─On line (5 of 5)                     
+  │           ├─Linkage…………………………………………………………………… http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=976&fname=&access=private
+  │           └─Protocol………………………………………………………………… WWW:DOWNLOAD-1.0-http--download
+  ├─Data quality info                            
+  │   ├─Scope                                    
+  │   │   └─Level…………………………………………………………………………………… Dataset
+  │   └─Lineage                                  
+  │       └─Statement………………………………………………………………………… The bathymetric data provided in this report has undergone preliminary processing in that noisy data has been removed.  All positions are referenced to the WGS 84 Datum. Grid co-ordinates are referenced to UTM zone 57N. ¶ Offshore data set file is Pohnpei-offshore.xyz. This file is the processed 8160 and 8101 data collected offshore Pohnpei island. Final grid extracted from processed data files was generated from pohnpei-offhore-processed.mtx with a 25m grid setting with cell centre nearest depth value. The file Pohnpei-offshore.xyz was further cleaned for spikes etc using the terravista.  Data reduced to Tide gauge zero for NTF guage in Pohnpei . ¶  ¶ Pohnpei Harbour. Data set file for Pohnpei harbour is Pohnpei-harbour.xyz. Data set is 5m grid extracted from Hypack project using matrix file Pohnpei-harbour.mtx. ¶  ¶ Matalanim Harbour data set. File for data set is matalanim.xyz. Data set is based on 5m grid cell extracted from processed H2s files using Matalanim.mtx. ¶  ¶ Rontiki harbour data set. Bathymetric file is Rontiki-harb.xyz. Data set based on 5m grid extracted using rontiki-harbour.mtx.
+  ├─Date info                                    
+  │   ├─Date………………………………………………………………………………………………… 09-Sep-2011 11:20:47
+  │   └─Date type…………………………………………………………………………………… Creation
+  ├─Default locale+other locale……………………………………………… English
+  ├─Metadata identifier                          
+  │   └─Code………………………………………………………………………………………………… a2b023af-0672-45ac-a502-868143f0f4e6
+  └─Metadata standard                            
+      ├─Title……………………………………………………………………………………………… ISO 19115:2003/19139
+      └─Edition………………………………………………………………………………………… 1.0
