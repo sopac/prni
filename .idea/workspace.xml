@@ -51,9 +51,11 @@
       <file leaf-file-name="show.gsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/metadata/show.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="62" column="82" selection-start-line="62" selection-start-column="82" selection-end-line="62" selection-end-column="82" />
-              <folding />
+            <state relative-caret-position="231">
+              <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+              <folding>
+                <marker date="1471400342677" expanded="true" signature="1739:1745" ph="©" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1652,12 +1654,12 @@
       <workItem from="1471163911557" duration="140000" />
       <workItem from="1471172220085" duration="641000" />
       <workItem from="1471308875266" duration="5643000" />
-      <workItem from="1471396341655" duration="2189000" />
+      <workItem from="1471396341655" duration="3384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50106000" />
+    <option name="totallyTimeSpent" value="51301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1059" extended-state="6" />
@@ -2012,7 +2014,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1471400342677" expanded="true" signature="1739:1745" ph="©" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2370,9 +2374,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/metadata/show.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="62" column="82" selection-start-line="62" selection-start-column="82" selection-end-line="62" selection-end-column="82" />
-          <folding />
+        <state relative-caret-position="231">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+          <folding>
+            <marker date="1471400342677" expanded="true" signature="1739:1745" ph="©" />
+          </folding>
         </state>
       </provider>
     </entry>
