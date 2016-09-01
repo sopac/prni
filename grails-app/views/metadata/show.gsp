@@ -4,7 +4,7 @@
     <meta name="layout" content="main"/>
     <g:set var="entityName" value="${message(code: 'metadata.label', default: 'Metadata')}"/>
     <title><g:message code="default.show.label" args="[entityName]"/></title>
-    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
 
 
 </head>
@@ -36,7 +36,7 @@
 </div>
     </g:if>
 
-    <script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
     <script>
 
         var mymap = L.map('mapid').setView([${this.metadata.northBoundLatitude}, ${this.metadata.eastBoundLongitude}], 8);
