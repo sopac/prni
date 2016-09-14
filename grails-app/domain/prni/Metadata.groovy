@@ -16,6 +16,7 @@ class Metadata {
     String eastBoundLongitude
     String southBoundLatitude
     String geonetwork
+    String datasetSize
     String pacgeo
     String document
     String thumbnail
@@ -35,6 +36,7 @@ class Metadata {
         eastBoundLongitude(nullable: true, blank: true)
         southBoundLatitude(nullable: true, blank: true)
         geonetwork(nullable: true, blank: true)
+        datasetSize(nullable: true, blank: true)
         pacgeo(nullable: true, blank: true)
         document(nullable: true, blank: true)
         thumbnail(nullable: true, blank: true)

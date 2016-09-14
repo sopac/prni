@@ -17,15 +17,15 @@ environments:
     development:
         dataSource:
             dbCreate: update
-            url: jdbc:postgresql://localhost/prni
+            url: jdbc:postgresql://localhost/morale
     test:
         dataSource:
             dbCreate: update
-            url: jdbc:postgresql://localhost/prni
+            url: jdbc:postgresql://localhost/morale
     production:
         dataSource:
             dbCreate: update
-            url: jdbc:postgresql://localhost/prni
+            url: jdbc:postgresql://localhost/morale
             properties:
                 jmxEnabled: true
                 initialSize: 5

@@ -28,7 +28,7 @@ class InitController {
         if (Metadata.list().size() == 0) {
             def tableCountries = ["cook islands", "fiji", "fsm", "guam", "kiribati", "marshall is", "nauru", "new caledonia", "niue", "palau", "papua new guinea", "samoa", "solomon is", "tonga", "tuvalu", "vanuatu"]
             Class.forName("org.sqlite.JDBC");
-            def sql = Sql.newInstance("jdbc:sqlite:/tmp/NZ_MFAT_PRNI_Phase1_output.sqlite", "org.sqlite.JDBC")
+            def sql = Sql.newInstance("jdbc:sqlite://home/sachin/Projects/NZ_MFAT_PRNI_Phase1_output_14Sept2016.sqlite", "org.sqlite.JDBC")
             tableCountries.each { table ->
                 println "Processing " + table
                 int count = 0

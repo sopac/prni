@@ -15,7 +15,11 @@
         </div>
 
         <div id="list-metadata" class="content scaffold-list" role="main">
-            <h1><g:message code="default.list.label" args="[entityName]" /> - ${prni.Metadata.list().size()} Entries</h1>
+            <g:set var="size" value="0"/>
+            <g:if test="${metadataList != null}">
+                <g:set var="size" value="${metadataList.size()}"/>
+            </g:if>
+            <h1><g:message code="default.list.label" args="[entityName]" /> for <b>${area}</b> (${size})</h1>
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>

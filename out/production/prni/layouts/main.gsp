@@ -23,13 +23,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/#" style="font-weight: bolder; font-size: 200% !important;">
+                <a class="navbar-brand" href="/#" style="font-weight: bolder;">
                     <i class="fa grails-icon">
                         <asset:image src="stars.png" style="margin-top: -7px;"/>
-                    </i>
-
-                    Pacific Regional Navigation Initiative
-
+                    </i> Pacific Regional Navigation Initiative
                 </a>
             </div>
             <div class="navbar-collapse collapse" aria-expanded="false" style="height: 0.8px;">

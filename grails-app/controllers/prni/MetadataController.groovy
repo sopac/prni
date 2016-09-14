@@ -5,10 +5,16 @@ import org.grails.io.support.GrailsResourceUtils
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+
 @Transactional(readOnly = true)
 class MetadataController {
 
     def grailsResourceLocator
+
+    String _countryCode
+    String _area
+    String _project
+    String _year
 
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
@@ -28,11 +34,40 @@ class MetadataController {
     }
 
     def listCountry(String countryCode) {
+        if (countryCode != null)  _countryCode = countryCode
+        if (countryCode == null)  countryCode = _countryCode
         int max = 999
         params.max = Math.min(max ?: 10, 100)
         def country = Country.findByCode(countryCode)
         def list = Metadata.findAllByCountry(country, params)
         respond list, model: [metadataCount: list.size(), country: country]
+    }
+
+    def listArea(String area) {
+        if (area != null)  _area = area
+        if (area == null)  area = _area
+        int max = 999
+        params.max = Math.min(max ?: 10, 100)
+        def list = Metadata.findAllByArea(area, params)
+        respond list, model: [metadataCount: list.size(), area: area]
+    }
+
+    def listProject(String project) {
+        if (project != null)  _project = project
+        if (project == null)  project = _project
+        int max = 999
+        params.max = Math.min(max ?: 10, 100)
+        def list = Metadata.findAllByProject(project, params)
+        respond list, model: [metadataCount: list.size(), project: project]
+    }
+
+    def listYear(String year) {
+        if (year != null)  _year = year
+        if (year == null)  year = _year
+        int max = 999
+        params.max = Math.min(max ?: 10, 100)
+        def list = Metadata.findAllByYearLike(year + "%")
+        respond list, model: [metadataCount: list.size(), year: year]
     }
 
 

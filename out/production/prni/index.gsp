@@ -9,80 +9,26 @@
 
 <body>
 <content tag="nav">
-    <li class="dropdown" >
+    <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Country <span class="caret"></span></a>
+           aria-expanded="false">Browse By Country <span class="caret"></span></a>
         <ul class="dropdown-menu">
             <g:each in="${prni.Country.listOrderByName()}" var="c">
-                <li style="width: 240px">
-                    <a style="font-size: 100% !important;"
-                       href="${createLink(controller: 'metadata', action: 'listCountry', params: [countryCode: c.code])}">${c.name}</a>
+                <li style="width: 240px"><a
+                        href="${createLink(controller: 'metadata', action: 'listCountry', params: [countryCode: c.code])}">${c.name}</a>
                 </li>
             </g:each>
         </ul>
     </li>
-
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Area <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Metadata.listOrderByArea().unique {it.area}}" var="m">
-                <li style="width: 240px">
-            <a style="font-size: 100% !important;" href="${createLink(controller: 'metadata', action: 'listArea', params: [area: m.area])}">${m.area}</a>
-                </li>
-            </g:each>
-        </ul>
-    </li>
-
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Project <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Metadata.listOrderByProject().unique {it.project}}" var="m">
-                <li style="width: 240px">
-                    <a style="font-size: 100% !important;" href="${createLink(controller: 'metadata', action: 'listProject', params: [project: m.project])}">${m.project}</a>
-                </li>
-            </g:each>
-        </ul>
-    </li>
-
-    <li class="dropdown">
-        <% def list = [] %>
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Year <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Metadata.listOrderByYear().unique {it.year}}" var="m">
-
-                <g:if test="${!list.contains(m.year.substring(0, 4))}">
-                <li style="width: 240px">
-                    <a style="font-size: 100% !important;" href="${createLink(controller: 'metadata', action: 'listYear', params: [year: m.year.substring(0, 4)])}">${m.year.substring(0, 4)}</a>
-                </li>
-                </g:if>
-                <% list << m.year.substring(0, 4) %>
-
-            </g:each>
-        </ul>
-    </li>
-
-    <li>
-
-            <a href="${createLink(controller: 'help')}" style="font-size: 100% !important;">
-                <g:img align="left" style="height: 22px" dir="images" file="help.png"/>
-        Help</a>
-
-
-    </li>
-
-
 
 </content>
 
 <div class="svg" role="presentation">
-    <div class="grails-logo-container" style="height: 140px; background-color: #52bfd4;">
+    <div class="grails-logo-container" style="height: 140px;">
         <br/>
-        <asset:image src="spc.png" style="height: 90px; margin-right: 20px;"/>
-        <asset:image src="linz.png" style="height: 90px; margin-right: 20px;"/>
-        <asset:image src="mfat.png" style="height: 80px;"/>
+        <asset:image src="spc.png" style="height: 90px;"/>
+        <asset:image src="linz.png" style="height: 95px;"/>
+        <asset:image src="iho.png" style="height: 95px;width: 440px"/>
 
     </div>
 </div>
@@ -92,33 +38,17 @@
         <h1>Pacific Regional Navigation Initiative</h1>
 
         <p style="text-align: justify">
-        The Pacific Regional Navigation Initiative (PRNI) is a project funded by the New Zealand
-        Ministry of Foreign Affairs and Trade (MFAT) that focuses on navigation related aspects of
-        maritime safety, in particular those necessary to support Pacific Island Countries fulfil their
-        obligations relating to hydrography and nautical charting under UN Safety of Life at Sea (SOLAS).
-        The Pacific Community (SPC) has been engaged by NZ MFAT to work with targeted countries
-        to, amongst other objectives, support hydrographic capability building initiatives in conjunction
-        with work being doing by international bodies and development partners.
+            Safe and reliable passage through Pacific waters is essential to protect fragile ocean environments and allow Pacific island countries' economies to develop. Up-to-date navigation charts based on modern, accurate surveys are critical transport infrastructure the ocean equivalent of well-constructed roads. Hydrography is highly specialised. Few Pacific countries have the technical capability or systems needed to undertake hydrographic surveys or update their own navigational charts.This new regional programme aims to ensure Pacific navigation charts meet international standards and support maritime safety and economic growth. The initiative contributes to sustainable development in selected Pacific SIDS through supporting:- improved transport and infrastructure management services as a key enabler of growth. For every $1 spent on hydrography, there is an estimated $91 return in ongoing economic activity.- safe, reliable and affordable transport services that connect people to markets and services. As of 1 July 2016 all international vessels will need to use Electronic Navigation Charts (ENCs) that meet international standards. This investment will ensure that vessels will continue to operate in the Pacific underpinning trade, tourism and economic development in the region. Specific outcomes sought include:- continued visits by passenger, tanker and cargo ships to PICs, resulting in better maritime transport safety and continued opportunities for economic development- improved domestic passenger ferry safety.
         </p>
-
-
 
         <div align="center">
             <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseTarget"
                     aria-expanded="false" aria-controls="collapseTarget">
                 More Information
             </button>
-
         </div>
 
-        <br/>
-
-        <div class="collapse well alert alert-info" id="collapseTarget">
-
-            <p style="text-align: justify">
-                Safe and reliable passage through Pacific waters is essential to protect fragile ocean environments and allow Pacific island countries' economies to develop. Up-to-date navigation charts based on modern, accurate surveys are critical transport infrastructure the ocean equivalent of well-constructed roads. Hydrography is highly specialised. Few Pacific countries have the technical capability or systems needed to undertake hydrographic surveys or update their own navigational charts.This new regional programme aims to ensure Pacific navigation charts meet international standards and support maritime safety and economic growth. The initiative contributes to sustainable development in selected Pacific SIDS through supporting:- improved transport and infrastructure management services as a key enabler of growth. For every $1 spent on hydrography, there is an estimated $91 return in ongoing economic activity.- safe, reliable and affordable transport services that connect people to markets and services. As of 1 July 2016 all international vessels will need to use Electronic Navigation Charts (ENCs) that meet international standards. This investment will ensure that vessels will continue to operate in the Pacific underpinning trade, tourism and economic development in the region. Specific outcomes sought include:- continued visits by passenger, tanker and cargo ships to PICs, resulting in better maritime transport safety and continued opportunities for economic development- improved domestic passenger ferry safety.
-            </p>
-
+        <div class="collapse" id="collapseTarget">
             <h3><u>Implementation methodologies</u></h3>
 
             <p style="text-align: justify">
