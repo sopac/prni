@@ -2,80 +2,26 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Pacific Regional Navigation Initiative</title>
-    <asset:link rel="icon" href="favicon.ico" type="image/x-ico"/>
+    <title>Welcome to Grails</title>
 
+    <asset:link rel="icon" href="favicon.ico" type="image/x-ico" />
 </head>
-
 <body>
-<content tag="nav">
-    <li class="dropdown" >
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Country <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Country.listOrderByName()}" var="c">
-                <li style="width: 240px">
-                    <a style="font-size: 100% !important;"
-                       href="${createLink(controller: 'metadata', action: 'listCountry', params: [countryCode: c.code])}">${c.name}</a>
-                </li>
-            </g:each>
-        </ul>
-    </li>
+    <content tag="nav">
 
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Area <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Metadata.listOrderByArea().unique {it.area}}" var="m">
-                <li style="width: 240px">
-            <a style="font-size: 100% !important;" href="${createLink(controller: 'metadata', action: 'listArea', params: [area: m.area])}">${m.area}</a>
-                </li>
-            </g:each>
-        </ul>
-    </li>
+        <li>
+            <g:form controller="search">
+            <input type="text" name="query" class="form-control" placeholder="Search..."  style="width: 260px; margin-top: 8px;">
+            </g:form>
+        </li>
 
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Project <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Metadata.listOrderByProject().unique {it.project}}" var="m">
-                <li style="width: 240px">
-                    <a style="font-size: 100% !important;" href="${createLink(controller: 'metadata', action: 'listProject', params: [project: m.project])}">${m.project}</a>
-                </li>
-            </g:each>
-        </ul>
-    </li>
+        <li>
+        <a href="${createLink(controller: 'help')}" style="font-size: 100% !important;">
+            <g:img align="left" style="height: 22px" dir="images" file="help.png"/>
+            Help</a>
+        </li>
 
-    <li class="dropdown">
-        <% def list = [] %>
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-           aria-expanded="false" style="font-size: 100% !important;">Browse By Year <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <g:each in="${prni.Metadata.listOrderByYear().unique {it.year}}" var="m">
-
-                <g:if test="${!list.contains(m.year.substring(0, 4))}">
-                <li style="width: 240px">
-                    <a style="font-size: 100% !important;" href="${createLink(controller: 'metadata', action: 'listYear', params: [year: m.year.substring(0, 4)])}">${m.year.substring(0, 4)}</a>
-                </li>
-                </g:if>
-                <% list << m.year.substring(0, 4) %>
-
-            </g:each>
-        </ul>
-    </li>
-
-    <li>
-
-            <a href="${createLink(controller: 'help')}" style="font-size: 100% !important;">
-                <g:img align="left" style="height: 22px" dir="images" file="help.png"/>
-        Help</a>
-
-
-    </li>
-
-
-
-</content>
+    </content>
 
 <div class="svg" role="presentation">
     <div class="grails-logo-container" style="height: 140px; background-color: #52bfd4;">
@@ -87,119 +33,78 @@
     </div>
 </div>
 
-<div id="content" role="main">
-    <section class="row colset-2-its">
-        <h1>Pacific Regional Navigation Initiative</h1>
-
-        <p style="text-align: justify">
-        The Pacific Regional Navigation Initiative (PRNI) is a project funded by the New Zealand
-        Ministry of Foreign Affairs and Trade (MFAT) that focuses on navigation related aspects of
-        maritime safety, in particular those necessary to support Pacific Island Countries fulfil their
-        obligations relating to hydrography and nautical charting under UN Safety of Life at Sea (SOLAS).
-        The Pacific Community (SPC) has been engaged by NZ MFAT to work with targeted countries
-        to, amongst other objectives, support hydrographic capability building initiatives in conjunction
-        with work being doing by international bodies and development partners.
-        </p>
-
-
-
-        <div align="center">
-            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseTarget"
-                    aria-expanded="false" aria-controls="collapseTarget">
-                More Information
-            </button>
-
-        </div>
-
-        <br/>
-
-        <div class="collapse well alert alert-info" id="collapseTarget">
+    <div id="content" role="main">
+        <section class="row colset-2-its">
+            <h1>Pacific Regional Navigation Initiative</h1>
 
             <p style="text-align: justify">
-                Safe and reliable passage through Pacific waters is essential to protect fragile ocean environments and allow Pacific island countries' economies to develop. Up-to-date navigation charts based on modern, accurate surveys are critical transport infrastructure the ocean equivalent of well-constructed roads. Hydrography is highly specialised. Few Pacific countries have the technical capability or systems needed to undertake hydrographic surveys or update their own navigational charts.This new regional programme aims to ensure Pacific navigation charts meet international standards and support maritime safety and economic growth. The initiative contributes to sustainable development in selected Pacific SIDS through supporting:- improved transport and infrastructure management services as a key enabler of growth. For every $1 spent on hydrography, there is an estimated $91 return in ongoing economic activity.- safe, reliable and affordable transport services that connect people to markets and services. As of 1 July 2016 all international vessels will need to use Electronic Navigation Charts (ENCs) that meet international standards. This investment will ensure that vessels will continue to operate in the Pacific underpinning trade, tourism and economic development in the region. Specific outcomes sought include:- continued visits by passenger, tanker and cargo ships to PICs, resulting in better maritime transport safety and continued opportunities for economic development- improved domestic passenger ferry safety.
+                The Pacific Regional Navigation Initiative (PRNI) is a project funded by the New Zealand
+                Ministry of Foreign Affairs and Trade (MFAT) that focuses on navigation related aspects of
+                maritime safety, in particular those necessary to support Pacific Island Countries fulfil their
+                obligations relating to hydrography and nautical charting under UN Safety of Life at Sea (SOLAS).
+                The Pacific Community (SPC) has been engaged by NZ MFAT to work with targeted countries
+                to, amongst other objectives, support hydrographic capability building initiatives in conjunction
+                with work being doing by international bodies and development partners.
             </p>
 
-            <h3><u>Implementation methodologies</u></h3>
 
-            <p style="text-align: justify">
-                This initiative builds on a successful project in Vanuatu under which hydrographic surveys were conducted of four key Vanuatu cruise ship destinations. This unique proof of concept partnership with SPC, the Government of Vanuatu, the International Hydrographic Organisation and LINZ has recently produced updated marine survey charts and Electronic Navigation Charts to permit compliance with IMO regulations, and allow the continuance of cruise ship visits to these islands.This new partnership will be delivered through Land Information New Zealand (LINZ) and the Geoscience for Development Programme at SPC-SOPAC, with an initial focus on Tonga, Cook Islands, Niue, Samoa, and Tokelau, with a view to extending to the rest of the Pacific.
-                <br/>
-            </p>
+            <div>
 
-            <h3><u>Arrangements for Capacity-Building and Technology Transfer</u></h3>
+                <div align="center">
+                <g:link controller="metadata" params="[countryCode: 'all']" style="text-decoration: none; font-weight: bolder;" type="button"
+                        class="btn btn-success">Browse All Metadata</g:link>
 
-            <p style="text-align: justify">
-                The Pacific Regional Naviation Initiative will cover a number of activities across four broad components:<br/>1.) Risk Assessment Component this will involve identification of the need / priority areas for hydrographic surveys in Pacific island countries (PICs), in particular completing Hydrographic Risk Assessments for all Pacific Island Countries; and data discovery of existing hydrographic or bathymetric data that may be of sufficient quality to upgrade areas where the charts are old, poor, or of insufficient detail.<br/>2.) Capability Support Component - assistance and capacity building through regional technical support from Land Information New Zealand (LINZ), the Secretariat of the Pacific Community SOPAC division, the South West Pacific Hydrography Commission and the International Hydrographic Office. This will also involve working closely with Primary Charting Authorities to render/process survey data into hydrographic paper charts and Electronic Navigation Charts, and making these charts available to PIC governments and domestic shipping operators.<br/>3.) Mitigation Component - providing technical assistance for non-survey mitigation of risk areas (i.e. operational / other direct mitigation such as installation of navigational aids, identification of shipping lanes, and / or notice to mariners of hazardous areas), and monitoring and reporting to Primary Charting Authorities of changes to maritime conditions.<br/>4.) Survey Programme utilising the Hydrographic Risk Assessments to target those areas assessed as having significant or heightened risk. The hydrographic survey work will include New Zealand and Australia work through their naval Defence Forces to carry out this work while on Pacific operations.The survey programme will also include developing further collaborative partnerships and funding mechanisms involving donors and the private sector, provision of surveys and survey project management from private sector and regional agencies; and negotiating agreements with Primary Charting Authorities and PICs to utilise survey data to maintain and produce accurate and adequate Electronic Navigation Charts.
-                <br/>
-            </p>
+                <g:link controller="metadata" params="[type:'Dataset']" style="text-decoration: none; font-weight: normal;" type="button"
+                        class="btn btn-success">Browse Datasets</g:link>
 
-            <h3><u>Coordination mechanisms/governance structure</u></h3>
+                <g:link controller="metadata" params="[type:'Report']" style="text-decoration: none; font-weight: normal;" type="button"
+                        class="btn btn-success">Browse Reports</g:link>
 
-            <p style="text-align: justify">
-                This partnership will be supported by the New Zealand Aid Proramme and delivered through Land Information New Zealand (LINZ) and the Geoscience for Development Programme at SPC, with an initial focus on Tonga, Cook Islands, Niue, Samoa, and Tokelau, with a view to extending to the rest of the Pacific. A Steering Group will be established with LINZ, SPC and MFAT for governance of the initiative.Discussions are underway with other development partners and the private sector (cruise and other shipping company operators) on a potential consortium funding model to expand the scope of the partnership. Governance options for a consortium will be looked at as part of these discussions.
-                <br/>
-            </p>
-
-            <h3><u>Partners</u></h3>
-
-            <p style="text-align: justify">
-                Land Information New Zealand (LINZ); Geoscience for Development Programme at the South Pacific Commission (SPC); South West Pacific Hydrography Commission, the International Hydrographic Office, New Zealand Ministry of Foreign Affairs and Trade; New Zealand and Australian naval Defence Forces; Governments of Tonga, Cook Islands, Niue, Samoa, and Tokelau initially, expanding to other Pacific nations. Other key stakeholders consulted in the development of this partnership are the World Bank (WB) and International Finance Corporation (IFC), Asia Development Bank (ADB), European Union (EU), European Investment Bank (EIB), , Japan International Cooperation Agency (JICA), Australian Department of Foreign Affairs and Trade (DFAT) and the Pacific Region Infrastructure Facility Coordination Office (PRIF PCO).
-            </p>
-        </div>
-
-        <div>
-            <table class="table">
-                <% int count = 0 %>
-                <g:each in="${prni.Country.listOrderByName()}" var="c">
-                    <g:if test="${count == 0}">
-                        <tr>
-                    </g:if>
-
-                    <td>
-                        <a href="${createLink(controller: 'metadata', action: 'listCountry', params: [countryCode: c.code])}"
-                           style="text-decoration: none; color: #2e6da4; font-size: 120%;">
-                            <g:img dir="images" file="flags/${c.code}.jpg"/>
-                            <br/>${c.name} (${prni.Metadata.findAllByCountry(c).size()})
-                        </a>
-                    </td>
-
-                    <g:if test="${count > 3}">
-                        <tr>
-                    </g:if>
-                    <% count = count + 1; if (count > 4) count = 0; %>
-                </g:each>
-            </table>
-            <hr/>
-            <br/>
-
-            <div align="center">
-                <g:link controller="metadata" style="text-decoration: none; font-weight: bolder;" type="button"
-                        class="btn btn-success">Browse All</g:link>
-                <br/><br/>
-                <div class="well">
-                <u>For further information contact:</u>
-                <br/>
-                <b>David Mundy</b><br/>
-                Senior Hydrographic Surveyor<br/>
-                Geoscience Division, Pacific Community (SPC)<br/>
-                <a href="mailto:davidm@spc.int">davidm@spc.int</a>
-                </div>
-
+                <g:link controller="metadata" params="[type:'Chart']" style="text-decoration: none; font-weight: normal;" type="button"
+                        class="btn btn-success">Browse Charts</g:link>
             </div>
-        </div>
 
-        <div style="visibility: hidden; height: 0px !important;" id="controllers" role="navigation">
-            <h2>Available Controllers:</h2>
-            <ul>
-                <g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName }}">
-                    <li class="controller">
-                        <g:link controller="${c.logicalPropertyName}">${c.fullName}</g:link>
-                    </li>
-                </g:each>
-            </ul>
-        </div>
-    </section>
-</div>
+
+                <table class="table">
+                    <% int count = 0 %>
+                    <g:each in="${prni.Country.listOrderByName()}" var="c">
+                        <g:if test="${count == 0}">
+                            <tr>
+                        </g:if>
+
+                        <td>
+                            <a href="${createLink(controller: 'metadata', params: [countryCode: c.code])}"
+                               style="text-decoration: none; color: #2e6da4; font-size: 120%;">
+                                <g:img dir="images" file="flags/${c.code}.jpg"/>
+                                <br/>${c.name} (${prni.Metadata.findAllByCountry(c).size()})
+                            </a>
+                        </td>
+
+                        <g:if test="${count > 3}">
+                            <tr>
+                        </g:if>
+                        <% count = count + 1; if (count > 4) count = 0; %>
+                    </g:each>
+                </table>
+                <hr/>
+                <br/>
+
+                <div align="center">
+
+                    <div class="well">
+                        <u>For further information contact:</u>
+                        <br/>
+                        <b>David Mundy</b><br/>
+                        Senior Hydrographic Surveyor<br/>
+                        Geoscience Division, Pacific Community (SPC)<br/>
+                        <a href="mailto:davidm@spc.int">davidm@spc.int</a>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+    </div>
 
 </body>
 </html>

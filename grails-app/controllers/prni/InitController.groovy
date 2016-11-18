@@ -1,12 +1,14 @@
 package prni
 
+
 import groovy.sql.*
 
-class InitController {
 
+
+class InitController {
     def index() {
         country()
-        metadata()
+        basic()
         //download()
         println "Finished."
         render "<h3>Init Complete.</h3>"
@@ -14,21 +16,22 @@ class InitController {
 
 
     def download() {
-        Metadata.list().each { m ->
-            render "wget http://geonetwork.sopac.org/geonetwork/srv/en/iso19139.xml?uuid=" + m.geonetwork + "<br/>"
+        Basic.list().each { b ->
+            render "wget http://geonetwork.sopac.org/geonetwork/srv/en/iso19139.xml?uuid=" + b.geonetwork + "<br/>"
         }
     }
 
-    def metadata() {
+    def basic() {
         int masterCount = 0
         println "Populating Metadata from SQLite3 Db..."
         //Metadata.list().each {
         //    it.delete()
         //}
-        if (Metadata.list().size() == 0) {
-            def tableCountries = ["cook islands", "fiji", "fsm", "guam", "kiribati", "marshall is", "nauru", "new caledonia", "niue", "palau", "papua new guinea", "samoa", "solomon is", "tonga", "tuvalu", "vanuatu"]
+        Class.forName("org.sqlite.JDBC")
+        if (Basic.list().size() == 0) {
+            def tableCountries = ["cook islands", "fiji", "fsm", "guam", "kiribati", "marshall is", "nauru", "new caledonia", "niue", "palau", "papua new guinea", "samoa", "solomon is", "tonga", "tuvalu", "vanuatu", "other"]
             Class.forName("org.sqlite.JDBC");
-            def sql = Sql.newInstance("jdbc:sqlite://home/sachin/Projects/NZ_MFAT_PRNI_Phase1_output_14Sept2016.sqlite", "org.sqlite.JDBC")
+            def sql = Sql.newInstance("jdbc:sqlite://home/sachin/tmp/PRNI_DATA/prni.sqlite", "org.sqlite.JDBC")
             tableCountries.each { table ->
                 println "Processing " + table
                 int count = 0
@@ -49,7 +52,7 @@ class InitController {
                     try {
                         count++
                         masterCount++
-                        Metadata m = new Metadata()
+                        Basic m = new Basic()
                         name = r.Name_of_Information
 
                         String tableCountry = table
@@ -102,22 +105,25 @@ class InitController {
                         if (table.equals("vanuatu")) {
                             m.setCountry(Country.findByCode("VU"))
                         }
+                        if (table.equals("other")) {
+                            m.setCountry(Country.findByCode("XX"))
+                        }
 
                         m.setName(name)
 
                         //area
-                        if (table.equals("cook islands")) {
-                            if (r?.Island_Area != null && r?.Island_Area != "null") area = r?.Island_Area
-                        } else {
+                        //if (table.equals("cook islands")) {
+                        //    if (r?.Island_Area != null && r?.Island_Area != "null") area = r?.Island_Area
+                        //} else {
                             if (r?.Area != null && r?.Area != "null") area = r?.Area
-                        }
+                        //}
 
                         //description
-                        if (table.equals("cook islands")) {
-                            if (r?.Describtion != null && r?.Describtion != "null") description = r?.Describtion
-                        } else {
+                        //if (table.equals("cook islands")) {
+                        //   if (r?.Describtion != null && r?.Describtion != "null") description = r?.Describtion
+                        //} else {
                             if (r?.Subject != null && r?.Subject != "null") description = r?.Subject
-                        }
+                        //}
                         //surveyType
                         if (r?.Type_of_Survey != null && r?.Type_of_Survey != "null") surveyType = r?.Type_of_Survey
 
@@ -153,7 +159,7 @@ class InitController {
 
                         //east
                         try {
-                            if (r?.East_Bound_Latitude != null && r?.East_Bound_Latitude != "null") el = r?.East_Bound_Latitude
+                            if (r?.East_Bound_Longitude != null && r?.East_Bound_Longitude != "null") el = r?.East_Bound_Longitude
                         } catch (Exception ep) {
                         }
 
@@ -195,6 +201,7 @@ class InitController {
                             m.save(flush: true, failOnError: true)
                     } catch (Exception ex) {
                         println "Failed:" + table + ", Row: " + count.toString() + ", Error:" + ex.getMessage()
+                        System.exit(-1)
                     }
                 }
 
@@ -202,14 +209,14 @@ class InitController {
             sql.close()
 
             //set thumbnails
-            String path = request.getSession().getServletContext().getRealPath("/") + "/thumb.txt"
+            String path = request.getSession().getServletContext().getRealPath("/") + "/thumbs.txt"
             new File(path).eachLine { l ->
                 String[] la = l.trim().split(":")
                 String uuid = la[0].trim()
                 String file = la[1].trim()
-                println uuid + " : " + file
+                //println uuid + " : " + file
                 try {
-                    def m = Metadata.findByGeonetwork(uuid)
+                    def m = Basic.findByGeonetwork(uuid)
                     m.setThumbnail(file)
                     m.save(flush: true, failOnError: true)
                 } catch (Exception ex) {
@@ -217,7 +224,7 @@ class InitController {
                 }
             }
 
-            render String.valueOf(Metadata.list().size()) + "/" + masterCount.toString() + " Metadata Imported."
+            render String.valueOf(Basic.list().size()) + "/" + masterCount.toString() + " Metadata Imported."
 
 
         }
@@ -252,6 +259,7 @@ class InitController {
             countries.put("VU", "Vanuatu")
             countries.put("FM", "Micronesia Fed. St.")
             countries.put("WS", "Samoa")
+            countries.put("XX", "Other")
 
 
 

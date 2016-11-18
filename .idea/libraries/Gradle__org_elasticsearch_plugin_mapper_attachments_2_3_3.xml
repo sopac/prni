@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch.plugin:mapper-attachments:2.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/mapper-attachments/2.3.3/67f8dfed609cc603cc4a228b1f2a1303247d793e/mapper-attachments-2.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/mapper-attachments/2.3.3/13aeb86f475f885b52836e8fb32fdcbd635bd63f/mapper-attachments-2.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime xmlns:srv="http://www.isotc211.org/2005/srv">2014-10-28T12:53:37</gco:DateTime>
+    <gco:DateTime xmlns:srv="http://www.isotc211.org/2005/srv">2016-08-16T15:27:12</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString xmlns:srv="http://www.isotc211.org/2005/srv">ISO 19115:2003/19139</gco:CharacterString>
@@ -361,7 +361,7 @@ Backdrop image of Niue is a rectified IKONOS satellite image.</gco:CharacterStri
                 <gco:CharacterString>niue_bathy_1to50000_a0_chart.pdf</gco:CharacterString>
               </gmd:name>
               <gmd:description>
-                <gco:CharacterString>Niue Alofi Bathymetry A0 Chart, Projection - UTM</gco:CharacterString>
+                <gco:CharacterString>Niue, Bathymetry A0 Chart, Projection - UTM</gco:CharacterString>
               </gmd:description>
             </gmd:CI_OnlineResource>
           </gmd:onLine>
@@ -378,6 +378,44 @@ Backdrop image of Niue is a rectified IKONOS satellite image.</gco:CharacterStri
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>Niue Alofi Bathymetry A0 Chart, Projection - Geographic</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=9&amp;fname=&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:name>
+              <gmd:description gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage xmlns:srv="http://www.isotc211.org/2005/srv">
+                <gmd:URL>http://202.62.0.10:80/geonetwork/srv/en/resources.get?id=9&amp;fname=&amp;access=private</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:applicationProfile gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:applicationProfile>
+              <gmd:name gco:nilReason="missing">
+                <gco:CharacterString/>
+              </gmd:name>
+              <gmd:description gco:nilReason="missing">
+                <gco:CharacterString/>
               </gmd:description>
             </gmd:CI_OnlineResource>
           </gmd:onLine>

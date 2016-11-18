@@ -62,7 +62,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime xmlns:srv="http://www.isotc211.org/2005/srv">2011-04-15T10:37:21</gco:DateTime>
+    <gco:DateTime xmlns:srv="http://www.isotc211.org/2005/srv">2016-10-03T12:43:21</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString xmlns:srv="http://www.isotc211.org/2005/srv">ISO 19115:2003/19139</gco:CharacterString>
@@ -313,7 +313,7 @@ This operation was undertaken for the CCOP/SOPAC Work Programme CCSP/CK.8 "Feasi
                 <gco:CharacterString>ck_avatiu_avaura.xyz</gco:CharacterString>
               </gmd:name>
               <gmd:description>
-                <gco:CharacterString>Cook Islands, Raratonga, Aitutaki and Avarua harbour bathymetry, File format- ascii, tab delimiter, xyz</gco:CharacterString>
+                <gco:CharacterString>Cook Islands, Raratonga, Avatiu and Avarua harbour bathymetry, File format- ascii, tab delimiter, xyz</gco:CharacterString>
               </gmd:description>
             </gmd:CI_OnlineResource>
           </gmd:onLine>

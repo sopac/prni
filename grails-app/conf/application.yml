@@ -1,52 +1,4 @@
 ---
-hibernate:
-    cache:
-        queries: false
-        use_second_level_cache: true
-        use_query_cache: false
-        region.factory_class: org.hibernate.cache.ehcache.SingletonEhCacheRegionFactory
-
-dataSource:
-    pooled: true
-    jmxExport: true
-    driverClassName: org.postgresql.Driver
-    username: postgres
-    password: erlang44
-
-environments:
-    development:
-        dataSource:
-            dbCreate: update
-            url: jdbc:postgresql://localhost/prni
-    test:
-        dataSource:
-            dbCreate: update
-            url: jdbc:postgresql://localhost/prni
-    production:
-        dataSource:
-            dbCreate: update
-            url: jdbc:postgresql://localhost/prni
-            properties:
-                jmxEnabled: true
-                initialSize: 5
-                maxActive: 50
-                minIdle: 5
-                maxIdle: 25
-                maxWait: 10000
-                maxAge: 600000
-                timeBetweenEvictionRunsMillis: 5000
-                minEvictableIdleTimeMillis: 60000
-                validationQuery: SELECT 1
-                validationQueryTimeout: 3
-                validationInterval: 15000
-                testOnBorrow: true
-                testWhileIdle: true
-                testOnReturn: false
-                jdbcInterceptors: ConnectionState
-                defaultTransactionIsolation: 2 # TRANSACTION_READ_COMMITTED
-
----
----
 grails:
     profile: web
     codegen:
@@ -60,9 +12,12 @@ info:
         version: '@info.app.version@'
         grailsVersion: '@info.app.grailsVersion@'
 spring:
+    main:
+        banner-mode: "off"
     groovy:
         template:
             check-template-location: false
+
 # Spring Actuator Endpoints are Disabled by Default
 endpoints:
     enabled: false
@@ -125,8 +80,54 @@ endpoints:
     jmx:
         unique-names: true
 
+---
+hibernate:
+    cache:
+        queries: false
+        use_second_level_cache: true
+        use_query_cache: false
+        region.factory_class: org.hibernate.cache.ehcache.SingletonEhCacheRegionFactory
 
-#elasticSearch:
-#    client:
-#        node: local
-#    datastoreImpl: hibernateDatastore
+dataSource:
+    pooled: true
+    jmxExport: true
+    driverClassName: org.postgresql.Driver
+    username: postgres
+    password: erlang44
+
+environments:
+    development:
+        dataSource:
+            dbCreate: update
+            url: jdbc:postgresql://localhost/prni2
+    test:
+        dataSource:
+            dbCreate: update
+            url: jdbc:postgresql://localhost/prni2
+    production:
+        dataSource:
+            dbCreate: none
+            url: jdbc:postgresql://localhost/prni2
+            properties:
+                jmxEnabled: true
+                initialSize: 5
+                maxActive: 50
+                minIdle: 5
+                maxIdle: 25
+                maxWait: 10000
+                maxAge: 600000
+                timeBetweenEvictionRunsMillis: 5000
+                minEvictableIdleTimeMillis: 60000
+                validationQuery: SELECT 1
+                validationQueryTimeout: 3
+                validationInterval: 15000
+                testOnBorrow: true
+                testWhileIdle: true
+                testOnReturn: false
+                jdbcInterceptors: ConnectionState
+                defaultTransactionIsolation: 2 # TRANSACTION_READ_COMMITTED
+
+elasticSearch:
+    datastoreImpl: hibernateDatastore
+    client:
+      mode: local
