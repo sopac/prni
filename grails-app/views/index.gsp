@@ -16,6 +16,10 @@
         </li>
 
         <li>
+            <a style="font-size: 100% !important;" href="${createLink(controller: 'account', action: 'show', id: session['aid'])}">${session['name']}</a>
+        </li>
+
+        <li>
         <a href="${createLink(controller: 'help')}" style="font-size: 100% !important;">
             <g:img align="left" style="height: 22px" dir="images" file="help.png"/>
             Help</a>
@@ -32,6 +36,12 @@
 
     </div>
 </div>
+
+<g:if test="${flash.message}">
+    <div align="center" class="message" role="status">${flash.message}</div>
+</g:if>
+
+
 
     <div id="content" role="main">
         <section class="row colset-2-its">

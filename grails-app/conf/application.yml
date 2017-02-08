@@ -106,7 +106,7 @@ environments:
             url: jdbc:postgresql://localhost/prni2
     production:
         dataSource:
-            dbCreate: none
+            dbCreate: update
             url: jdbc:postgresql://localhost/prni2
             properties:
                 jmxEnabled: true

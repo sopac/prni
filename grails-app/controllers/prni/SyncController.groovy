@@ -22,6 +22,7 @@ class SyncController {
             if (alt.startsWith("Pending...")) alt = b.project
             m.AlternativeResourceTitle = alt
             String abstract_ = "" //+ purpose
+            String purpose = ""
             m.ResourceType = b.format
             m.ResourceLocator = b.pacgeo.toString().replace("%3A", ":")
             String keywords= ""
@@ -41,7 +42,7 @@ class SyncController {
             String temporalReference = ""
             String lineage = ""
             m.SpatialResolution = "Integer"
-            m.AdditionalInformation = b.description
+
             m.LimitationsOnPublicAccess = "Limited. Commercial use will require legal consent from the owning member country of Pacific Community (SPC)."
             m.ConditionsForAccessUseConstraints = "Metadata freely available for personal and educational use. Dataset access use will require legal consent from the owning member country of Pacific Community (SPC)."
             m.ResponsibleParty = "Geoscience Division, Pacific Community (SPC).\r\nSuva, Fiji Islands.\r\ngeodatarequest@spc.int"
@@ -67,15 +68,19 @@ class SyncController {
                     String res = file.getText()
                     //res = res.substring(0, res.indexOf("</gmd:MD_Metadata>"))
                     //res = res + "</gmd:MD_Metadata>"
-                    def xml = new XmlSlurper().parseText(res)
+                    def xml = new XmlParser().parseText(res)
                     abstract_ = xml.'gmd:identificationInfo'.'gmd:MD_DataIdentification'.'gmd:abstract'.'gco:CharacterString'.text()
                     keywords = xml.'gmd:identificationInfo'.'gmd:MD_DataIdentification'.'gmd:descriptiveKeywords'.'gmd:MD_Keywords'.'gmd:keyword'.'gco:CharacterString'.text()
                     category = xml.'gmd:identificationInfo'.'gmd:MD_DataIdentification'.'gmd:topicCategory'.'gmd:MD_TopicCategoryCode'.text()
                     temporalReference = xml.'gmd:identificationInfo'.'gmd:MD_DataIdentification'.'gmd:extent'.'gmd:EX_Extent'.'gmd:temporalElement'.'gmd:EX_TemporalExtent'.'gmd:extent'.'gml:TimePeriod'.text()
                     lineage = xml.'gmd:dataQualityInfo'.'gmd:DQ_DataQuality'.'gmd:lineage'.text()
                     dateUpdated = xml.'gmd:identificationInfo'.'gmd:MD_DataIdentification'.'gmd:citation'.'gmd:CI_Citation'.'gmd:date'.text()
+                    purpose = xml.'gmd:identificationInfo'.'gmd:MD_DataIdentification'.'gmd:purpose'.'gco:CharacterString'.text()
+                } else {
+                    render "File does not exist : " + file.toString() + "<br/>"
                 }
-
+            } else {
+                render "Metadata XML does not exist.<br/>"
             }
             if (keywords.equals("")){
                 keywords= "Marine, Bathymetric, Dataset"
@@ -89,9 +94,11 @@ class SyncController {
             if (temporalReference.equals("")) temporalReference = "Unknown; Single Survey"
             if (lineage.equals("")) lineage = "None"
 
+            m.AdditionalInformation = b.description  + purpose
+            abstract_ = abstract_.trim() + " " + purpose
 
 
-            m.Abstract1 = abstract_
+            m.Abstract1 = abstract_.trim()
             m.Keywords = keywords
             m.TopicCategory = category
             m.TemporalReference = temporalReference
@@ -99,6 +106,7 @@ class SyncController {
             m.DateUpdateOfMetadata = dateUpdated
 
 
+            //render abstract_ + "<br/>"
 
             m.save(failOnError: true, flush: true)
         }
