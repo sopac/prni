@@ -4,7 +4,7 @@ package prni
 class SecurityInterceptor {
 
     SecurityInterceptor() {
-        matchAll().except(controller:'login').except(controller:'help').except(uri:"/").except(uri:"/prni/").except(uri:"prni").except(uri:"prni/").except(uri:"/prni")
+        matchAll().except(controller:'login').except(controller:'help').except(uri:"/").except(uri:"/prni/").except(uri:"prni").except(uri:"prni/").except(uri:"/prni") .except(uri: "/index.gsp").except(uri: "/index")
     }
 
     boolean before() {

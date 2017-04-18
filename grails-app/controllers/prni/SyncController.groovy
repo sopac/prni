@@ -6,8 +6,24 @@ import grails.converters.*
 
 class SyncController {
 
+    def index(){
+        //sync metadata to medin
+        Metadata.list().each { m->
+            def md = new MedinGeneral()
+            md.projectName = m.getTitle()
+            md.metadata = m
+            md.save(failOnError:true, flush: true)
+
+            md = new MedinDetailed()
+            md.metadata = m
+            md.save(failOnError:true, flush: true)
+        }
+
+        render "<hr3>Synced.</hr>"
+
+    }
 	
-    def index() {
+    def index_basic_metadata() {
         //sync basic domain and src/main/webapp/meta/*.xml
         render "Starting...</hr/>"
         String path = getServletContext().getRealPath("meta") + "/"

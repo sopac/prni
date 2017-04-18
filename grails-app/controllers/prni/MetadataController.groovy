@@ -52,7 +52,9 @@ class MetadataController {
     }
 
     def show(Metadata metadata) {
-        respond metadata
+        MedinGeneral general = MedinGeneral.findByMetadata(metadata)
+        MedinDetailed detailed = MedinDetailed.findByMetadata(metadata)
+        respond metadata, model: [general:general, detailed:detailed]
     }
 
     def create() {
