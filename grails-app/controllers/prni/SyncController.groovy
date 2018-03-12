@@ -1,14 +1,10 @@
 package prni
 
-
-import grails.rest.*
-import grails.converters.*
-
 class SyncController {
 
     def index(){
         //sync metadata to medin
-        Metadata.list().each { m->
+        MetadataObselete.list().each { m->
             def md = new MedinGeneral()
             md.projectName = m.getTitle()
             md.metadata = m
@@ -27,11 +23,11 @@ class SyncController {
         //sync basic domain and src/main/webapp/meta/*.xml
         render "Starting...</hr/>"
         String path = getServletContext().getRealPath("meta") + "/"
-        Metadata.list().each {
+        MetadataObselete.list().each {
             it.delete()
         }
-        Basic.list().each { b ->
-            Metadata m = new Metadata()
+        Metadata.list().each { b ->
+            MetadataObselete m = new MetadataObselete()
             //basic matches
             m.Title = b.name
             String alt = b.pacgeo.replace("http://www.pacgeo.org/layers/geonode%3A", "")

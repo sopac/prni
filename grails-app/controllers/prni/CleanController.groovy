@@ -10,7 +10,7 @@ class CleanController {
 
 
     def resourceType() {
-        Metadata.list().each { m ->
+        MetadataObselete.list().each { m ->
             String type = m.ResourceType.trim()
             //render type + "<br/>"
             if (type.equals("Map / Report")) type = "Report"

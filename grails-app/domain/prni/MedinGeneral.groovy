@@ -34,14 +34,14 @@ class MedinGeneral {
     static constraints = {
 
         metadata()
-        projectName(nullable: true, blank: true)
+        projectName(nullable: true, blank: true, maxSize: 2500)
         projectCode(nullable: true, blank: true)
         projectStartDate(nullable: true, blank: true)
         projectEndDate(nullable: true, blank: true)
         projectWebsite(nullable: true, blank: true)
-        surveyName(nullable: true, blank: true)
+        surveyName(nullable: true, blank: true, maxSize: 2500)
         surveyType(nullable: true, blank: true)
-        surveyAbstract(nullable: true, blank: true)
+        surveyAbstract(nullable: true, blank: true, maxSize: 2500)
         surveyCode(nullable: true, blank: true)
         originator(nullable: true, blank: true)
         owner(nullable: true, blank: true)
@@ -52,14 +52,13 @@ class MedinGeneral {
         originalCRS(nullable: true, blank: true)
         transformation(nullable: true, blank: true)
         positionFix(nullable: true, blank: true)
-        horizontalAccuracy(nullable: true, blank: true)
-        depthCRS(nullable: true, blank: true)
-        verticalAccuracy(nullable: true, blank: true)
+        horizontalAccuracy(nullable: true, blank: true, maxSize: 2500)
+        depthCRS(nullable: true, blank: true, maxSize: 2500)
+        verticalAccuracy(nullable: true, blank: true, maxSize: 2500)
         platformType(nullable: true, blank: true)
         platformName(nullable: true, blank: true)
-        cruiseReportReference(nullable: true, blank: true)
-        confidentiality(nullable: true, blank: true)
-
+        cruiseReportReference(nullable: true, blank: true, maxSize: 2500)
+        confidentiality(nullable: true, blank: true, maxSize: 2500)
 
     }
 }

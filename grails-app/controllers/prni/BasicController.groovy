@@ -10,19 +10,19 @@ class BasicController {
 
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
-        respond Basic.list(params), model:[basicCount: Basic.count()]
+        respond Metadata.list(params), model:[basicCount: Metadata.count()]
     }
 
-    def show(Basic basic) {
+    def show(Metadata basic) {
         respond basic
     }
 
     def create() {
-        respond new Basic(params)
+        respond new Metadata(params)
     }
 
     @Transactional
-    def save(Basic basic) {
+    def save(Metadata basic) {
         if (basic == null) {
             transactionStatus.setRollbackOnly()
             notFound()
@@ -46,12 +46,12 @@ class BasicController {
         }
     }
 
-    def edit(Basic basic) {
+    def edit(Metadata basic) {
         respond basic
     }
 
     @Transactional
-    def update(Basic basic) {
+    def update(Metadata basic) {
         if (basic == null) {
             transactionStatus.setRollbackOnly()
             notFound()
@@ -76,7 +76,7 @@ class BasicController {
     }
 
     @Transactional
-    def delete(Basic basic) {
+    def delete(Metadata basic) {
 
         if (basic == null) {
             transactionStatus.setRollbackOnly()

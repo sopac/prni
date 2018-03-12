@@ -2,21 +2,103 @@ package prni
 
 
 import groovy.sql.*
-
+import org.apache.poi.ss.usermodel.*
 
 
 class InitController {
     def index() {
-        country()
+
         basic()
-        //download()
+        validateMedinFiles()
+
         println "Finished."
         render "<h3>Init Complete.</h3>"
     }
 
 
+    def processMedinDetailed(Metadata m, String file) {
+        InputStream ins = new FileInputStream(file)
+        Workbook wb = WorkbookFactory.create(ins)
+        Sheet sheet = wb.getSheetAt(2)
+
+        DataFormatter dataFormatter = new DataFormatter()
+
+        ins.close()
+
+    }
+
+
+        def processMedinGeneral(Metadata m, String file){
+        InputStream ins = new FileInputStream(file)
+        Workbook wb = WorkbookFactory.create(ins)
+        Sheet sheet = wb.getSheetAt(2)
+
+        DataFormatter dataFormatter = new DataFormatter()
+
+        MedinGeneral mg = new MedinGeneral()
+        mg.metadata = m
+        mg.projectName = sheet.getRow(1).getCell(3).getRichStringCellValue().getString().trim()
+        mg.projectCode = sheet.getRow(2).getCell(3).getRichStringCellValue().getString().trim()
+        mg.projectStartDate = dataFormatter.formatCellValue(sheet.getRow(3).getCell(3)).trim()
+        mg.projectEndDate = dataFormatter.formatCellValue(sheet.getRow(4).getCell(3)).trim()
+        mg.projectWebsite = "http://www.pacgeo.org" //sheet.getRow(1).getCell(5).getRichStringCellValue().getString().trim()
+        mg.surveyName =  sheet.getRow(6).getCell(3).getRichStringCellValue().getString().trim()
+        mg.surveyCode =  sheet.getRow(7).getCell(3).getRichStringCellValue().getString().trim()
+        mg.surveyAbstract =  sheet.getRow(8).getCell(3).getRichStringCellValue().getString().trim()
+        try {
+            mg.surveyCode =  sheet.getRow(9).getCell(3).getRichStringCellValue().getString().trim()
+        } catch (Exception ex) {
+        }
+        mg.originator =  sheet.getRow(10).getCell(3).getRichStringCellValue().getString().trim()
+        mg.owner =  sheet.getRow(11).getCell(3).getRichStringCellValue().getString().trim()
+        mg.surveyStartDate =  dataFormatter.formatCellValue(sheet.getRow(12).getCell(3)).trim()
+        mg.surveyEndDate =  dataFormatter.formatCellValue(sheet.getRow(13).getCell(3)).trim()
+        mg.timeZone =  sheet.getRow(14).getCell(3).getRichStringCellValue().getString().trim()
+        mg.spatialCRS =  sheet.getRow(15).getCell(3).getRichStringCellValue().getString().trim()
+        mg.originalCRS =  sheet.getRow(16).getCell(3).getRichStringCellValue().getString().trim()
+        mg.transformation =  sheet.getRow(17).getCell(3).getRichStringCellValue().getString().trim()
+        mg.positionFix =  sheet.getRow(18).getCell(3).getRichStringCellValue().getString().trim()
+        mg.horizontalAccuracy =  sheet.getRow(19).getCell(3).getRichStringCellValue().getString().trim()
+        mg.depthCRS =  sheet.getRow(20).getCell(3).getRichStringCellValue().getString().trim()
+        mg.verticalAccuracy =  sheet.getRow(21).getCell(3).getRichStringCellValue().getString().trim()
+        mg.platformType =  sheet.getRow(22).getCell(3).getRichStringCellValue().getString().trim()
+        mg.platformName =  sheet.getRow(23).getCell(3).getRichStringCellValue().getString().trim()
+        mg.cruiseReportReference =  sheet.getRow(24).getCell(3).getRichStringCellValue().getString().trim()
+        mg.confidentiality = "Restricted." //sheet.getRow(25).getCell(3).getRichStringCellValue().getString().trim()
+
+        mg.save(flush:true, failOnError:true)
+
+        //metadata project
+        m.project = mg.projectName
+        m.projection = mg.spatialCRS
+        m.save(flush:true, failOnError:true)
+
+        ins.close()
+
+    }
+
+    def validateMedinFiles(){
+        int count = 0
+        String path = "/home/sachin/tmp/PRNI_DATA/medin_all/"
+        Metadata.list().each { m ->
+            if (!m.document.toLowerCase().endsWith(".pdf") && m.document.contains(".")) {
+                println(m.document)
+                String doc = m.document.substring(0, m.document.indexOf("."))
+                boolean exists = new File(path + doc + ".xls").exists()
+                //render doc + " : " + exists + "<br/>"
+                if (exists) count++
+                if (exists){
+                    processMedinGeneral(m, path + doc + ".xls")
+                    processMedinDetailed(m, path + doc + ".xls")
+                }
+            }
+        }
+        render "<h3>VALID: " + String.valueOf(count) + "</h3>"
+    }
+
+
     def download() {
-        Basic.list().each { b ->
+        Metadata.list().each { b ->
             render "wget http://geonetwork.sopac.org/geonetwork/srv/en/iso19139.xml?uuid=" + b.geonetwork + "<br/>"
         }
     }
@@ -28,10 +110,10 @@ class InitController {
         //    it.delete()
         //}
         Class.forName("org.sqlite.JDBC")
-        if (Basic.list().size() == 0) {
-            def tableCountries = ["cook islands", "fiji", "fsm", "guam", "kiribati", "marshall is", "nauru", "new caledonia", "niue", "palau", "papua new guinea", "samoa", "solomon is", "tonga", "tuvalu", "vanuatu", "other"]
+        if (Metadata.list().size() == 0) {
+            def tableCountries = ["cook_islands", "fiji", "fsm", "kiribati", "marshall_is", "nauru", "new_caledonia", "niue",  "papua_new_guinea", "samoa", "solomon_is", "tonga", "tuvalu", "vanuatu", "french_polynesia"]
             Class.forName("org.sqlite.JDBC");
-            def sql = Sql.newInstance("jdbc:sqlite://home/sachin/tmp/PRNI_DATA/prni.sqlite", "org.sqlite.JDBC")
+            def sql = Sql.newInstance("jdbc:sqlite://home/sachin/tmp/PRNI_DATA/out.sqlite", "org.sqlite.JDBC")
             tableCountries.each { table ->
                 println "Processing " + table
                 int count = 0
@@ -47,16 +129,17 @@ class InitController {
                 String el = ""
                 String nl = ""
                 String sl = ""
+                String document = ""
 
                 sql.eachRow("select * from '" + table + "'") { r ->
                     try {
                         count++
                         masterCount++
-                        Basic m = new Basic()
-                        name = r.Name_of_Information
+                        Metadata m = new Metadata()
+                        name = r.NameofInformation
 
                         String tableCountry = table
-                        if (table.equals("cook islands")) {
+                        if (table.equals("cook_islands")) {
                             m.setCountry(Country.findByName("Cook Islands"))
                         }
                         if (table.equals("fiji")) {
@@ -72,14 +155,17 @@ class InitController {
                         if (table.equals("kiribati")) {
                             m.setCountry(Country.findByCode("KI"))
                         }
-                        if (table.equals("marshall is")) {
+                        if (table.equals("marshall_is")) {
                             m.setCountry(Country.findByCode("MH"))
                         }
                         if (table.equals("nauru")) {
                             m.setCountry(Country.findByCode("NR"))
                         }
-                        if (table.equals("new caledonia")) {
+                        if (table.equals("new_caledonia")) {
                             m.setCountry(Country.findByCode("NC"))
+                        }
+                        if (table.equals("french_polynesia")) {
+                            m.setCountry(Country.findByCode("FP"))
                         }
                         if (table.equals("niue")) {
                             m.setCountry(Country.findByCode("NU"))
@@ -87,13 +173,13 @@ class InitController {
                         if (table.equals("palau")) {
                             m.setCountry(Country.findByCode("PW"))
                         }
-                        if (table.equals("papua new guinea")) {
+                        if (table.equals("papua_new_guinea")) {
                             m.setCountry(Country.findByCode("PG"))
                         }
                         if (table.equals("samoa")) {
                             m.setCountry(Country.findByCode("WS"))
                         }
-                        if (table.equals("solomon is")) {
+                        if (table.equals("solomon_is")) {
                             m.setCountry(Country.findByCode("SB"))
                         }
                         if (table.equals("tonga")) {
@@ -115,66 +201,68 @@ class InitController {
                         //if (table.equals("cook islands")) {
                         //    if (r?.Island_Area != null && r?.Island_Area != "null") area = r?.Island_Area
                         //} else {
-                            if (r?.Area != null && r?.Area != "null") area = r?.Area
+                        if (r?.Area != null && r?.Area != "") area = r?.Area
                         //}
 
                         //description
                         //if (table.equals("cook islands")) {
                         //   if (r?.Describtion != null && r?.Describtion != "null") description = r?.Describtion
                         //} else {
-                            if (r?.Subject != null && r?.Subject != "null") description = r?.Subject
+                        if (r?.Subject != null && r?.Subject != "") description = r?.Subject
                         //}
                         //surveyType
-                        if (r?.Type_of_Survey != null && r?.Type_of_Survey != "null") surveyType = r?.Type_of_Survey
+                        if (r?.TypeofSurvey != null && r?.TypeofSurvey != "") surveyType = r?.TypeofSurvey
 
                         //year
-                        if (r?.Year != null && r?.year != "null") year = r?.Year
+                        if (r?.Year != null && r?.year != "") year = r?.Year
 
                         //format
-                        if (r?.Format_of_Infor != null && r?.Format_of_Infor != "null") format = r?.Format_of_Infor
+                        if (r?.FormatofInfor != null && r?.FormatofInfor != "") format = r?.FormatofInfor
 
                         //projection
                         try {
-                            if (r?.Projection != null && r?.Projection != "null") projection = r?.Projection
+                            if (r?.Projection != null && r?.Projection != "") projection = r?.Projection
                         } catch (Exception ep) {
                         }
 
                         //project
                         try {
-                            if (r?.Project != null && r?.Project != "null") project = r?.Project
+                            if (r?.Project != null && r?.Project != "") project = r?.Project
                         } catch (Exception ep) {
                         }
 
                         //west
                         try {
-                            if (r?.West_Bound_Longitude != null && r?.West_Bound_Longitude != "null") wl = r?.West_Bound_Longitude
+                            if (r?.WestBoundLongitude != null && r?.WestBoundLongitude != "") wl = r?.WestBoundLongitude
                         } catch (Exception ep) {
                         }
 
                         //north
                         try {
-                            if (r?.North_Bound_Latitude != null && r?.North_Bound_Latitude != "null") nl = r?.North_Bound_Latitude
+                            if (r?.NorthBoundLatitude != null && r?.NorthBoundLatitude != "") nl = r?.NorthBoundLatitude
                         } catch (Exception ep) {
                         }
 
                         //east
                         try {
-                            if (r?.East_Bound_Longitude != null && r?.East_Bound_Longitude != "null") el = r?.East_Bound_Longitude
+                            if (r?.EastBoundLongitude != null && r?.EastBoundLongitude != "") el = r?.EastBoundLongitude
                         } catch (Exception ep) {
                         }
 
                         //south
                         try {
-                            if (r?.South_Bound_Latitude != null && r?.South_Bound_Latitude != "null") sl = r?.South_Bound_Latitude
+                            if (r?.SouthBoundLatitude != null && r?.SouthBoundLatitude != "") sl = r?.SouthBoundLatitude
                         } catch (Exception ep) {
                         }
+
+                        if (r?.file != null && r?.file != "") document = r?.file
 
                         //println r.Geonetwork_File_identifier
                         m.setArea(area)
                         m.setYear(year)
                         m.setDescription(description)
                         m.setSurveyType(surveyType)
-                        String uuid = r?.'Geonetwork_File_identifier '
+                        String uuid = r?.'Geonetwork File identifier '
                         if (uuid != null && !uuid.equals("")) uuid = uuid.trim()
                         m.setGeonetwork(uuid)
                         m.setFormat(format)
@@ -184,9 +272,11 @@ class InitController {
                         m.setNorthBoundLatitude(nl)
                         m.setEastBoundLongitude(el)
                         m.setSouthBoundLatitude(sl)
+                        m.setDocument(document)
 
                         //pacgeo link
                         String pacgeo = "Pending..."
+                        /*
                         if (table.equals("cook islands")) {
                             if (r?.PACGEO_Link != null && r?.PACGEO_Link != "") {
                                 if (r?.PACGEO_Link.toString().startsWith("http")) {
@@ -194,14 +284,16 @@ class InitController {
                                 }
                             }
                         }
+                        */
                         m.setPacgeo(pacgeo)
 
 
-                        if (name != null)
+                        if (!name.equals("")){
                             m.save(flush: true, failOnError: true)
+                        }
                     } catch (Exception ex) {
                         println "Failed:" + table + ", Row: " + count.toString() + ", Error:" + ex.getMessage()
-                        System.exit(-1)
+                        //System.exit(-1)
                     }
                 }
 
@@ -216,61 +308,19 @@ class InitController {
                 String file = la[1].trim()
                 //println uuid + " : " + file
                 try {
-                    def m = Basic.findByGeonetwork(uuid)
-                    m.setThumbnail(file)
-                    m.save(flush: true, failOnError: true)
+                    def m = Metadata.findByGeonetwork(uuid)
+                    //m.setThumbnail(file)
+                    //m.save(flush: true, failOnError: true)
                 } catch (Exception ex) {
                     println "Thumbnail Error: " + ex.getMessage()
                 }
             }
 
-            render String.valueOf(Basic.list().size()) + "/" + masterCount.toString() + " Metadata Imported."
+            render String.valueOf(Metadata.list().size()) + "/" + masterCount.toString() + " Metadata Imported."
 
 
         }
     }
 
-    def country() {
-        if (Country.list().size() == 0) {
-            println "Populating Country..."
-            def countries = [:]
-            //countries.put("AS", "American Samoa")
-            countries.put("CK", "Cook Islands")
-            //countries.put("AU", "Australia")
-            //countries.put("FR", "France")
-            //countries.put("ID", "Indonesia")
-            countries.put("GU", "Guam")
-            countries.put("NC", "New Caledonia")
-            // countries.put("PF", "French Polynesia")
-            //countries.put("TK", "Tokelau")
-            //countries.put("NZ", "New Zealand")
-            //countries.put("US", "United States")
-            //countries.put("WF", "Wallis and Fatuna")
-            countries.put("FJ", "Fiji Islands")
-            countries.put("KI", "Kiribati")
-            countries.put("MH", "Marshall Islands")
-            countries.put("NR", "Nauru")
-            countries.put("NU", "Niue")
-            countries.put("PG", "Papua New Guinea")
-            countries.put("PW", "Palau")
-            countries.put("SB", "Solomon Islands")
-            countries.put("TV", "Tuvalu")
-            countries.put("TO", "Tonga")
-            countries.put("VU", "Vanuatu")
-            countries.put("FM", "Micronesia Fed. St.")
-            countries.put("WS", "Samoa")
-            countries.put("XX", "Other")
 
-
-
-
-
-            countries.keySet().sort().each { code ->
-                Country c = new Country()
-                c.setCode(code)
-                c.setName(countries.get(code))
-                c.save(flush: true, failOnError: true)
-            }
-        }
-    }
 }

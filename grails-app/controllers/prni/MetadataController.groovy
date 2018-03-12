@@ -8,53 +8,19 @@ class MetadataController {
 
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
-    String _countryCode
-    String _type
+    def indexAll(Integer max) {
+        params.max = Math.min(max ?: 900, 900)
+        respond Metadata.list(params), model:[metadataCount: Metadata.count()]
+    }
 
-    def index(Integer max, String countryCode, String type) {
-
-        if (countryCode != null && countryCode.equals("all")){
-            _type = null
-            type = null
-            _countryCode = null
-            countryCode = null
-        }
-
-        if (countryCode != null) _type = null
-        if (type != null) _countryCode = null
-
-
-
-        if (countryCode != null) _countryCode = countryCode
-        if (countryCode == null) countryCode = _countryCode
-
-        if (type != null) _type = type
-        if (type == null) type = _type
-
-
-        if (type != null) {
-            countryCode = null
-            def list = Metadata.findAllByResourceType(type, params)
-            respond list, model: [metadataCount: list.size(), header: 'Listing ' + type + 's']
-        }
-
-        if (countryCode != null) {
-            type == null
-            Country c = Country.findByCode(countryCode)
-            def list = Metadata.findAllByCountry(c, params)
-            respond list, model: [metadataCount: list.size(), header: 'Listing ' + c.getName() + " Metadata"]
-        }
-
-        if (countryCode == null && type == null) {
-            params.max = Math.min(max ?: 20, 100)
-            respond Metadata.list(params), model: [metadataCount: Metadata.count(), header: 'Listing Complete Metadata']
-        }
+    def index(String countryCode){
+        def c = Country.findByCode(countryCode)
+        def l = Metadata.findAllByCountry(c)
+        respond l, model:[metadataCount: l.size(), country: c.getName()]
     }
 
     def show(Metadata metadata) {
-        MedinGeneral general = MedinGeneral.findByMetadata(metadata)
-        MedinDetailed detailed = MedinDetailed.findByMetadata(metadata)
-        respond metadata, model: [general:general, detailed:detailed]
+        respond metadata
     }
 
     def create() {
@@ -71,11 +37,11 @@ class MetadataController {
 
         if (metadata.hasErrors()) {
             transactionStatus.setRollbackOnly()
-            respond metadata.errors, view: 'create'
+            respond metadata.errors, view:'create'
             return
         }
 
-        metadata.save flush: true
+        metadata.save flush:true
 
         request.withFormat {
             form multipartForm {
@@ -100,18 +66,18 @@ class MetadataController {
 
         if (metadata.hasErrors()) {
             transactionStatus.setRollbackOnly()
-            respond metadata.errors, view: 'edit'
+            respond metadata.errors, view:'edit'
             return
         }
 
-        metadata.save flush: true
+        metadata.save flush:true
 
         request.withFormat {
             form multipartForm {
                 flash.message = message(code: 'default.updated.message', args: [message(code: 'metadata.label', default: 'Metadata'), metadata.id])
                 redirect metadata
             }
-            '*' { respond metadata, [status: OK] }
+            '*'{ respond metadata, [status: OK] }
         }
     }
 
@@ -124,14 +90,14 @@ class MetadataController {
             return
         }
 
-        metadata.delete flush: true
+        metadata.delete flush:true
 
         request.withFormat {
             form multipartForm {
                 flash.message = message(code: 'default.deleted.message', args: [message(code: 'metadata.label', default: 'Metadata'), metadata.id])
-                redirect action: "index", method: "GET"
+                redirect action:"index", method:"GET"
             }
-            '*' { render status: NO_CONTENT }
+            '*'{ render status: NO_CONTENT }
         }
     }
 
@@ -141,7 +107,7 @@ class MetadataController {
                 flash.message = message(code: 'default.not.found.message', args: [message(code: 'metadata.label', default: 'Metadata'), params.id])
                 redirect action: "index", method: "GET"
             }
-            '*' { render status: NOT_FOUND }
+            '*'{ render status: NOT_FOUND }
         }
     }
 }

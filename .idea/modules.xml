@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prni.iml" filepath="$PROJECT_DIR$/.idea/modules/prni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prni.iml" filepath="$PROJECT_DIR$/prni.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/prni_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/prni_integrationTest.iml" group="prni" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/prni_main.iml" filepath="$PROJECT_DIR$/.idea/modules/prni_main.iml" group="prni" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/prni_test.iml" filepath="$PROJECT_DIR$/.idea/modules/prni_test.iml" group="prni" />

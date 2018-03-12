@@ -52,6 +52,7 @@ dependencies {
     runtime "org.xerial:sqlite-jdbc:3.15.1"
     runtime "org.postgresql:postgresql:9.4.1208"
     compile "org.grails.plugins:elasticsearch:1.2.0"
+    compile 'org.apache.poi:poi:3.17'
     testCompile "org.grails:grails-plugin-testing"
     testCompile "org.grails.plugins:geb"
     testRuntime "org.seleniumhq.selenium:selenium-htmlunit-driver:2.47.1"

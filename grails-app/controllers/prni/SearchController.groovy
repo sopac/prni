@@ -4,7 +4,7 @@ class SearchController {
 
     def index(String query) {
         if (query == null) query = "fiji"
-        def res = Metadata.search(query)
+        def res = MetadataObselete.search(query)
         respond res.searchResults, model: [total: res.total, header: query]
     }
 }
