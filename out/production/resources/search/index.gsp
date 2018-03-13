@@ -16,8 +16,8 @@
     <ul class="list-group">
         <g:each in="${metadataList}" var="m">
             <li class="list-group-item">
-                <g:link controller="metadata" action="show" id="${m.id}">${m.title}</g:link><br/>
-                <i>${m.resourceType}, ${m.area}, ${m.year}</i>
+                <g:link controller="metadata" action="show" id="${m.id}">${m.name}</g:link><br/>
+                <i>${m.format}, ${m.area}, ${m.year}</i>
             </li>
         </g:each>
     </ul>

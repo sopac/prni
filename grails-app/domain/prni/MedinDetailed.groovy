@@ -2,6 +2,8 @@ package prni
 
 class MedinDetailed {
 
+    static searchable = true
+
     Metadata metadata
 
     String methodIdentifier
@@ -39,33 +41,33 @@ class MedinDetailed {
         metadata()
 
         methodIdentifier(nullable: true, blank: true)
-        systemMountingPoint(nullable: true, blank: true)
-        systemDetails(nullable: true, blank: true)
-        processingOrganisation(nullable: true, blank: true)
-        acquisitionSoftware(nullable: true, blank: true)
-        acquisitionSoftwareVersion(nullable: true, blank: true)
-        processingSoftware(nullable: true, blank: true)
-        processingSoftwareVersion(nullable: true, blank: true)
-        systemFrequencyType(nullable: true, blank: true)
-        minMaxDepth(nullable: true, blank: true)
-        frequenciesUsed(nullable: true, blank: true)
-        calibrationDate(nullable: true, blank: true)
-        calibrationDetails(nullable: true, blank: true)
-        acquiredData(nullable: true, blank: true)
-        processedData(nullable: true, blank: true)
-        coverage(nullable: true, blank: true)
-        interpolation(nullable: true, blank: true)
-        gridSize(nullable: true, blank: true)
-        storageMedium(nullable: true, blank: true)
-        storageFormat(nullable: true, blank: true)
-        proceduresUsed(nullable: true, blank: true)
-        surveyNotes(nullable: true, blank: true)
-        processingNotes(nullable: true, blank: true)
-        processingQCNotes(nullable: true, blank: true)
-        qualityControlScheme(nullable: true, blank: true)
-        profiledOceanDataID(nullable: true, blank: true)
-        tideID(nullable: true, blank: true)
-        ancillaryID(nullable: true, blank: true)
+        systemMountingPoint(nullable: true, blank: true, maxSize: 2500)
+        systemDetails(nullable: true, blank: true, maxSize: 2500)
+        processingOrganisation(nullable: true, blank: true, maxSize: 2500)
+        acquisitionSoftware(nullable: true, blank: true, maxSize: 2500)
+        acquisitionSoftwareVersion(nullable: true, blank: true, maxSize: 2500)
+        processingSoftware(nullable: true, blank: true, maxSize: 2500)
+        processingSoftwareVersion(nullable: true, blank: true, maxSize: 2500)
+        systemFrequencyType(nullable: true, blank: true, maxSize: 2500)
+        minMaxDepth(nullable: true, blank: true, maxSize: 2500)
+        frequenciesUsed(nullable: true, blank: true, maxSize: 2500)
+        calibrationDate(nullable: true, blank: true, maxSize: 2500)
+        calibrationDetails(nullable: true, blank: true, maxSize: 2500)
+        acquiredData(nullable: true, blank: true, maxSize: 2500)
+        processedData(nullable: true, blank: true, maxSize: 2500)
+        coverage(nullable: true, blank: true, maxSize: 2500)
+        interpolation(nullable: true, blank: true, maxSize: 2500)
+        gridSize(nullable: true, blank: true, maxSize: 2500)
+        storageMedium(nullable: true, blank: true, maxSize: 2500)
+        storageFormat(nullable: true, blank: true, maxSize: 2500)
+        proceduresUsed(nullable: true, blank: true, maxSize: 2500)
+        surveyNotes(nullable: true, blank: true, maxSize: 2500)
+        processingNotes(nullable: true, blank: true, maxSize: 2500)
+        processingQCNotes(nullable: true, blank: true, maxSize: 2500)
+        qualityControlScheme(nullable: true, blank: true, maxSize: 2500)
+        profiledOceanDataID(nullable: true, blank: true, maxSize: 2500)
+        tideID(nullable: true, blank: true, maxSize: 2500)
+        ancillaryID(nullable: true, blank: true, maxSize: 2500)
 
     }
 }

@@ -14,7 +14,7 @@
             </ul>
         </div>
         <div id="list-metadata" class="content scaffold-list" role="main">
-            <h1><g:message code="default.list.label" args="[entityName]" /> (${metadataCount})</h1>
+            <h1><g:message code="default.list.label" args="[entityName]" /> for <b>${type1}</b> (${metadataCount})</h1>
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>

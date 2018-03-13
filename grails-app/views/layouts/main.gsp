@@ -41,7 +41,7 @@
 
 <p class="footer" role="contentinfo" style="font-size: 110%; color: white; background-color: #006699 !important;" align="center" >
 
-&copy; 2016 Geoscience Division, Pacific Commmunity (SPC)
+&copy; 2018 Geoscience, Energy and Maritime Division, Pacific Commmunity (SPC)
 
 </p>
 

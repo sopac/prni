@@ -65,14 +65,17 @@
                 <g:link controller="metadata" action="indexAll" style="text-decoration: none; font-weight: bolder;" type="button"
                         class="btn btn-success">Browse All Metadata</g:link>
 
-                <g:link controller="metadata" params="[type:'Dataset']" style="text-decoration: none; font-weight: normal;" type="button"
+                <g:link controller="metadata" action="indexWithMedin" style="text-decoration: none; font-weight: bolder;" type="button"
+                        class="btn btn-success">Browse Metadata with MEDIN</g:link>
+
+                <g:link controller="metadata" action="indexFormat" params="[type:'data']" style="text-decoration: none; font-weight: normal;" type="button"
                         class="btn btn-success">Browse Datasets</g:link>
 
-                <g:link controller="metadata" params="[type:'Report']" style="text-decoration: none; font-weight: normal;" type="button"
+                <g:link controller="metadata" action="indexFormat" params="[type:'report']" style="text-decoration: none; font-weight: normal;" type="button"
                         class="btn btn-success">Browse Reports</g:link>
 
-                <g:link controller="metadata" params="[type:'Chart']" style="text-decoration: none; font-weight: normal;" type="button"
-                        class="btn btn-success">Browse Charts</g:link>
+                %{--<g:link controller="metadata" params="[type:'Chart']" style="text-decoration: none; font-weight: normal;" type="button"--}%
+                        %{--class="btn btn-success">Browse Charts</g:link>--}%
             </div>
 
 
@@ -105,10 +108,12 @@
                     <div class="well">
                         <u>For further information contact:</u>
                         <br/>
-                        <b>David Mundy</b><br/>
+                        <b>Salesh Kumar</b><br/>
                         Senior Hydrographic Surveyor<br/>
-                        Geoscience Division, Pacific Community (SPC)<br/>
-                        <a href="mailto:davidm@spc.int">davidm@spc.int</a>
+                        Oceans and Maritime Programme<br/>
+                        Geoscience, Energy and Maritime Division (GEM)<br/>
+                        Pacific Community (SPC)<br/>
+                        <a href="mailto:saleshk@spc.int">saleshk@spc.int</a>
                     </div>
 
                 </div>

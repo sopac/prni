@@ -2,6 +2,8 @@ package prni
 
 class MedinGeneral {
 
+    static searchable = true
+
     Metadata metadata
 
     String projectName

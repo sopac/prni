@@ -18,7 +18,8 @@
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>
-            <f:table collection="${metadataList}" />
+
+            <f:table collection="${metadataList}" properties="['name', 'country.name', 'area', 'description', 'year', 'surveyType', 'format']" />
 
             <div class="pagination">
                 <g:paginate total="${metadataCount ?: 0}" />

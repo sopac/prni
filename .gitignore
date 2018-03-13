@@ -34,3 +34,5 @@
 # "temporary" build files
 /target
 /build
+*.pdf
+*.doc
