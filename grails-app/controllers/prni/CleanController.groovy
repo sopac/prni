@@ -3,9 +3,30 @@ package prni
 class CleanController {
 
     def index() {
-        resourceType()
+        //resourceType()
+        //pacgeoLinks()
+        check()
 
         render "<h3>Cleaned</h3>"
+    }
+
+
+    def check(){
+        Metadata.list().each { m ->
+            if (m.format == null) render m.id + " - " +  m.name + "<br/>"
+        }
+    }
+
+    def pacgeoLinks() {
+        Metadata.list().each { m ->
+            //http://www.pacgeo.org/layers/geonode:${metadata.document.toLowerCase().replaceAll(' ', '_').trim().substring(0, metadata.document.length() - 4)
+            String link = m.document.toLowerCase().replaceAll(' ', '_').trim()
+            if (link.contains("."))
+                link = link.substring(0, link.lastIndexOf("."))
+            m.pacgeo = "http://www.pacgeo.org/layers/geonode:" + link.trim()
+            m.save(flush: true, failOnError: true)
+
+        }
     }
 
 
@@ -45,7 +66,7 @@ class CleanController {
 
             m.ResourceType = type
 
-            m.save(flush:true, failOnError:true)
+            m.save(flush: true, failOnError: true)
 
 
         }

@@ -37,29 +37,28 @@
 
     <br/>
 
+    <g:if test="${metadata.format != null}">
+
     <g:if test="${metadata.format.toLowerCase().startsWith("rep")}">
         <div align="center">
-            <a target="_blank" class="btn btn-primary" style="text-decoration: none;" href="${createLinkTo(dir: 'reports', file: metadata.document)}">Download Report</a>
+            <a target="_blank" class="btn btn-primary" style="text-decoration: none;" href="http://www.pacgeo.org/static/prnidoc/${metadata.document}">Download Report</a>
         </div>
         <br/>
     </g:if>
 
     <g:if test="${metadata.format.toLowerCase().startsWith("data")}">
         <div align="center">
-            <a target="_blank" class="btn btn-primary" style="text-decoration: none;" href="http://www.pacgeo.org/layers">Visualise and Access Data</a>
+            <a target="_blank" class="btn btn-primary" style="text-decoration: none;" href="${metadata.pacgeo}">Visualise and Access Data</a>
         </div>
         <br/>
+    </g:if>
+
     </g:if>
 
 
     <hr/>
 
-
-
     <br/>
-
-
-
 
     <script>
         //var crs = new L.Proj.CRS("EPSG:32704","+proj=utm +zone=4 +south +datum=WGS84 +units=m +no_defs");

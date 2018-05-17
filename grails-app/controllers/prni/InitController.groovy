@@ -9,8 +9,8 @@ import org.apache.poi.ss.usermodel.*
 class InitController {
     def index() {
 
-        basic()
-        validateMedinFiles()
+        //basic()
+        //validateMedinFiles()
 
         println "Finished."
         render "<h3>Init Complete.</h3>"

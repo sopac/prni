@@ -41,6 +41,13 @@ class MetadataController {
     }
 
     def index(String countryCode) {
+
+        if (countryCode == null){
+            params.max = 900
+            respond Metadata.list(params), model: [metadataCount: Metadata.count()]
+            return
+        }
+
         def c = Country.findByCode(countryCode)
         def l = Metadata.findAllByCountry(c)
         respond l, model: [metadataCount: l.size(), country: c.getName()]

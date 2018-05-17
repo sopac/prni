@@ -1,3 +1,10 @@
+rm prni.db
+sudo -u postgres psql -d prni -c "VACUUM (FULL, ANALYSE)"
+sudo -u postgres pg_dump -Fc prni > prni.db
+scp -C -i ~/Dropbox/pacgeo.pem prni.db ubuntu@pacgeo:/tmp/
+#pg_restore -d dbname filename
+
+#sdk use grails 3.2.8
 grails war
 mv build/libs/prni-0.1.war /tmp/
 mv /tmp/prni-0.1.war /tmp/prni.war

@@ -27,12 +27,12 @@ class Metadata {
         name(nullable: false, blank: false)
         country(nullable: false)
         area(nullable: true, blank: true)
-        project(nullable: true, blank: true)
+        project(nullable: true, blank: true, maxSize: 2500)
         year(nullable: true, blank: true)
-        description(nullable: true, blank: true)
+        description(nullable: true, blank: true, maxSize: 2500)
         surveyType(nullable: true, blank: true)
         format(nullable: true, blank: true)
-        projection(nullable: true, blank: true)
+        projection(nullable: true, blank: true, maxSize: 2500)
         westBoundLongitude(nullable: true, blank: true)
         northBoundLatitude(nullable: true, blank: true)
         eastBoundLongitude(nullable: true, blank: true)
@@ -44,7 +44,7 @@ class Metadata {
         thumbnail(nullable: true, blank: true)
     }
 
-    String toString(){
+    String toString() {
         return name
     }
 }
